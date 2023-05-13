@@ -1,0 +1,6 @@
+.conda
+build
+**.egg-info
+.gcloudignore
+**.pyc
+**__pycache__

@@ -1,0 +1,2605 @@
+chinese_hanzi,chinese_pinyin,chinese_phonetic,english_word,english_phonetic,distance,chinese_ipa,english_ipa
+爱,ài,,by,,0.3333333333333333,aɪ,baɪ
+八,bā,,by,,0.3333333333333333,pa,baɪ
+爸爸,bà ba,,bombing,,0.4,papa,bɑmɪŋ
+杯子,bēi zi,,makes,,0.3749999999999999,peɪtsɯ,meɪks
+北京,Běi jīng,,party,,0.4642857142857142,peɪtɕiŋ,pɑrti
+本,běn,,but,,0.25,pən,bət
+不客气,bù kè qi,,parliamentary,,0.7291666666666666,pukʰɤtɕʰi,pɑrləmɛntəri
+不,bù,,blue,,0.3333333333333333,pu,blu
+菜,cài,,high,,0.55,tsʰaɪ,haɪ
+茶,chá,,state,,0.7,ʈʂʰa,steɪt
+吃,chī,,trade,,0.7,ʈʂʰɨ,treɪd
+出租车,chū zū chē,,administrators,,0.8166666666666667,ʈʂʰutsuʈʂʰɤ,ædmɪnɪstreɪtərz
+打电话,dǎ diàn huà,,tanzanian,,0.55,tatjɛnxwa,tænzeɪnjən
+大,dà,,la,,0.25,ta,lɑ
+的,de,,tow,,0.4999999999999999,tɤ,toʊ
+点,diǎn,,season,,0.4,tjɛn,sizən
+电脑,diàn nǎo,,friendship,,0.5625,tjɛnnɑʊ,frɛndʃɪp
+电视,diàn shì,,frequency,,0.4999999999999999,tjɛnʂɨ,frikwənsi
+电影,diàn yǐng,,recording,,0.5625,tjɛniŋ,rɪkɔrdɪŋ
+东西,dōng xi,,only,,0.55,tʊŋɕi,oʊnli
+都,dōu,,no,,0.25,toʊ,noʊ
+读,dú,,due,,0.25,tu,du
+对不起,duì bu qǐ,,profitability,,0.6538461538461537,tweɪputɕʰi,prɑfɪtəbɪlɪti
+多,duō,,to,,0.5833333333333333,twɔ,tɪ
+多少,duō shao,,twenty-five,,0.575,twɔʂɑʊ,twɛntifaɪv
+儿子,ér zi,,also,,0.6000000000000001,ɑɻtsɯ,ɔlsoʊ
+二,èr,,was,,0.5833333333333333,ɑɻ,wɑz
+饭馆,fàn guǎn,,band,,0.4999999999999999,fankwan,bænd
+飞机,fēi jī,,base,,0.4583333333333332,feɪtɕi,beɪs
+分钟,fēn zhōng,,volunteering,,0.45,fənʈʂʊŋ,vɔləntɪrɪŋ
+高兴,gāo xìng,,encountering,,0.525,kɑʊɕiŋ,ɛnkaʊnərɪŋ
+个,gè,,co,,0.4999999999999999,kɤ,koʊ
+工作,gōng zuò,,continued,,0.6666666666666666,kʊŋtswɔ,kəntɪnjud
+狗,gǒu,,coach,,0.25,koʊ,koʊʧ
+汉语,Hàn yǔ,,cannot,,0.4,xany,kænɑt
+好,hǎo,,cows,,0.25,xɑʊ,kaʊz
+喝,hē,,co,,0.4999999999999999,xɤ,koʊ
+和,hé,,co,,0.4999999999999999,xɤ,koʊ
+很,hěn,,cup,,0.25,xən,kəp
+后面,hòu mian,,romanian,,0.45,xoʊmjɛn,roʊmeɪniən
+回,huí,,claim,,0.4,xweɪ,kleɪm
+会,huì,,claim,,0.4,xweɪ,kleɪm
+火车站,huǒ chē zhàn,,experimentation,,0.703125,xwɔʈʂʰɤʈʂan,ɪkspɛrəmənteɪʃən
+几,jǐ,,to,,0.5,tɕi,tɪ
+家,jiā,,july,,0.7,tɕja,ʤulaɪ
+叫,jiào,,now,,0.55,tɕjɑʊ,naʊ
+今天,jīn tiān,,standardization,,0.6166666666666667,tɕintʰjɛn,stændərdɪzeɪʃən
+九,jiǔ,,rio,,0.4,tɕjoʊ,rioʊ
+开,kāi,,by,,0.5,kʰaɪ,baɪ
+看,kàn,,john,,0.5,kʰan,ʤɑn
+看见,kàn jiàn,,conservation,,0.5625,kʰantɕjɛn,kɑnsərveɪʃən
+块,kuài,,korea,,0.6000000000000001,kʰwaɪ,kɔriə
+来,lái,,life,,0.25,laɪ,laɪf
+老师,lǎo shī,,roxy,,0.35,lɑʊʂɨ,rɑksi
+了,le,,lee,,0.375,lɤ,li
+冷,lěng,,along,,0.3125,lɤŋ,əlɔŋ
+里,lǐ,,t,,0.25,li,ti
+零,líng,,link,,0.375,liŋ,lɪŋk
+六,liù,,trio,,0.3,ljoʊ,trioʊ
+妈妈,mā ma,,bombing,,0.4,mama,bɑmɪŋ
+吗,ma,,na,,0.25,ma,nɑ
+买,mǎi,,bay,,0.25,maɪ,beɪ
+猫,māo,,by,,0.25,mɑʊ,baɪ
+没,méi,,by,,0.25,meɪ,baɪ
+没关系,méi guān xi,,spirituality,,0.5416666666666667,meɪkwanɕi,spɪrɪʧuæləti
+米饭,mǐ fàn,,given,,0.45,mifan,gɪvɪn
+明天,míng tiān,,maintenance,,0.575,miŋtʰjɛn,meɪntənəns
+名字,míng zi,,picasso,,0.4999999999999999,miŋtsɯ,pɪkɑsoʊ
+哪,nǎ,,ma,,0.25,na,mɑ
+那,nà,,ma,,0.25,na,mɑ
+呢,ne,,no,,0.4999999999999999,nɤ,noʊ
+能,néng,,noting,,0.5416666666666666,nɤŋ,noʊtɪŋ
+你,nǐ,,me,,0.25,ni,mi
+年,nián,,named,,0.4,njɛn,neɪmd
+女儿,nǚ ér,,annual,,0.5833333333333333,nyɑɻ,ænjuəl
+朋友,péng you,,domingo,,0.5625,pʰɤŋyoʊ,dəmɪŋgoʊ
+漂亮,piào liang,,programming,,0.6499999999999999,pʰjɑʊljɑŋ,proʊgræmɪŋ
+苹果,píng guǒ,,precursor,,0.6666666666666666,pʰiŋkwɔ,prikərsər
+七,qī,,treasury,,0.6428571428571429,tɕʰi,trɛʒəri
+钱,qián,,retaliation,,0.6363636363636362,tɕʰjɛn,ritælieɪʃən
+前面,qián miàn,,however,,0.675,tɕʰjɛnmjɛn,haʊɛvər
+请,qǐng,,to,,0.7,tɕʰiŋ,tɪ
+去,qù,,matthew,,0.6499999999999999,tɕʰy,mæθju
+热,rè,,they,,0.5833333333333333,ʐɤ,ðeɪ
+人,rén,,that,,0.3333333333333333,ʐən,ðət
+认识,rèn shi,,only,,0.5,ʐənʂɨ,oʊnli
+日,rì,,he,,0.375,ʐɨ,hi
+三,sān,,son,,0.25,san,sən
+商店,shāng diàn,,washington,,0.5625,ʂɑŋtjɛn,wɔʃɪŋtən
+上,shàng,,sank,,0.3125,ʂɑŋ,sæŋk
+上午,shàng wǔ,,samuel,,0.5416666666666666,ʂɑŋu,sæmjul
+少,shǎo,,south,,0.3125,ʂɑʊ,saʊθ
+谁,shéi,,say,,0.3125,ʂweɪ,seɪ
+什么,shén me,,and,,0.55,ʂənmɤ,ənd
+十,shí,,t,,0.375,ʂɨ,ti
+时候,shí hou,,ringo,,0.375,ʂɨxoʊ,riŋgoʊ
+是,shì,,t,,0.375,ʂɨ,ti
+书,shū,,two,,0.375,ʂu,tu
+水,shuǐ,,say,,0.3125,ʂweɪ,seɪ
+水果,shuǐ guǒ,,stadium,,0.59375,ʂweɪkwɔ,steɪdiəm
+睡觉,shuì jiào,,rehabilitation,,0.673076923076923,ʂweɪtɕjɑʊ,riəbɪləteɪʃən
+说话,shuō huà,,week,,0.6249999999999999,ʂwɔxwa,wik
+四,sì,,some,,0.5,sɯ,səm
+岁,suì,,way,,0.25,sweɪ,weɪ
+他,tā,,dry,,0.5625,tʰa,draɪ
+她,tā,,dry,,0.5625,tʰa,draɪ
+太,tài,,to,,0.5,tʰaɪ,tɪ
+天气,tiān qì,,staffordshire,,0.6458333333333334,tʰjɛntɕʰi,stæfərdʃaɪər
+听,tīng,,defeating,,0.6428571428571428,tʰiŋ,dɪfitɪŋ
+同学,tóng xué,,association,,0.7727272727272727,tʰʊŋɕɥœ,əsoʊʃieɪʃən
+喂,wèi,,away,,0.25,weɪ,əweɪ
+我,wǒ,,utah,,0.5625,wɔ,jutɔ
+我们,wǒ men,,warming,,0.3749999999999999,wɔmən,wɔrmɪŋ
+五,wǔ,,new,,0.5,u,nu
+喜欢,xǐ huan,,request,,0.5357142857142857,ɕixwan,rɪkwɛst
+下,xià,,huron,,0.5416666666666666,ɕja,hjʊrɑn
+下午,xià wǔ,,huron,,0.5416666666666666,ɕjau,hjʊrɑn
+下雨,xià yǔ,,huron,,0.5416666666666666,ɕjay,hjʊrɑn
+先生,xiān sheng,,resulting,,0.59375,ɕjɛnʂɤŋ,rɪzəltɪŋ
+现在,xiàn zài,,secondary,,0.6388888888888888,ɕjɛntsaɪ,sɛkəndɛri
+想,xiǎng,,zhejiang,,0.35,ɕjɑŋ,ʒiʤɑŋ
+小,xiǎo,,now,,0.5,ɕjɑʊ,naʊ
+小姐,xiǎo jie,,ecclesiastical,,0.673076923076923,ɕjɑʊtɕjɛ,ɛkliziæstɪkəl
+些,xiē,,he,,0.5,ɕjɛ,hi
+写,xiě,,he,,0.5,ɕjɛ,hi
+谢谢,xiè xie,,yet,,0.6249999999999999,ɕjɛɕjɛ,jɛt
+星期,xīng qī,,philadelphia,,0.7499999999999999,ɕiŋtɕʰi,fɪlədɛlfiə
+学生,xué sheng,,work,,0.5833333333333333,ɕɥœʂɤŋ,wərk
+学习,xué xí,,with,,0.55,ɕɥœɕi,wɪθ
+学校,xué xiào,,hungarian,,0.6666666666666666,ɕɥœɕjɑʊ,həŋgɛriən
+一,yī,,he,,0.5,i,hi
+衣服,yī fu,,avenue,,0.55,ifu,ævənu
+医生,yī shēng,,racing,,0.5833333333333333,iʂɤŋ,reɪsɪŋ
+医院,yī yuàn,,one,,0.3125,iɥœn,wən
+椅子,yǐ zi,,nazi,,0.45,itsɯ,nɑtsi
+有,yǒu,,widow,,0.45,yoʊ,wɪdoʊ
+月,yuè,,work,,0.5625,ɥœ,wərk
+在,zài,,style,,0.4,tsaɪ,staɪl
+再见,zài jiàn,,translations,,0.5625,tsaɪtɕjɛn,trænzleɪʃənz
+怎么,zěn me,,decided,,0.59375,tsənmɤ,dɪsaɪdɪd
+怎么样,zěn me yàng,,distinguishing,,0.6458333333333333,tsənmɤjɑŋ,dɪstɪŋgwɪʃɪŋ
+这,zhè,,small,,0.625,ʈʂɤ,smɔl
+中国,Zhōng guó,,coca-cola,,0.7,ʈʂʊŋkwɔ,koʊkəkoʊlɑ
+中午,zhōng wǔ,,who,,0.7,ʈʂʊŋu,hu
+住,zhù,,statue,,0.55,ʈʂu,stæʧu
+桌子,zhuō zi,,squadron,,0.59375,ʈʂwɔtsɯ,skwɑdrən
+字,zì,,artist,,0.6249999999999999,tsɯ,ɑrtɪst
+昨天,zuó tiān,,associations,,0.6458333333333333,tswɔtʰjɛn,əsoʊʃieɪʃənz
+坐,zuò,,student,,0.6428571428571428,tswɔ,studənt
+做,zuò,,student,,0.6428571428571428,tswɔ,studənt
+吧,ba,,by,,0.3333333333333333,pa,baɪ
+白,bái,,may,,0.25,paɪ,meɪ
+百,bǎi,,may,,0.25,paɪ,meɪ
+帮助,bāng zhù,,bisexual,,0.575,pɑŋʈʂu,baɪsɛkʃuəl
+报纸,bào zhǐ,,based,,0.4583333333333332,pɑʊʈʂɨ,beɪst
+比,bǐ,,beach,,0.3333333333333333,pi,biʧ
+别,bié,,ba,,0.375,pjɛ,bieɪ
+长,cháng,,mustang,,0.4583333333333333,ʈʂɑŋ,məstæŋ
+唱歌,chàng gē,,triangle,,0.6388888888888888,ʈʂʰɑŋkɤ,traɪæŋgəl
+出,chū,,stone,,0.7,ʈʂʰu,stoʊn
+穿,chuān,,staff,,0.5833333333333333,ʈʂʰwan,stæf
+船,chuán,,staff,,0.5833333333333333,ʈʂʰwan,stæf
+次,cì,,although,,0.7,tsʰɯ,ɔlðoʊ
+从,cóng,,during,,0.6000000000000001,tsʰʊŋ,dʊrɪŋ
+错,cuò,,through,,0.7,tsʰwɔ,θru
+打篮球,dá lán qiú,,atlantic,,0.5909090909090908,talantɕʰjoʊ,ətlæntɪk
+大家,dà jiā,,titled,,0.5357142857142857,tatɕja,taɪtəld
+但是,dàn shì,,johnny,,0.4,tanʂɨ,ʤɑni
+到,dào,,now,,0.25,tɑʊ,naʊ
+得,de,,tow,,0.4999999999999999,tɤ,toʊ
+得,děi,,tow,,0.4999999999999999,tɤ,toʊ
+弟弟,dì di,,cities,,0.4,titi,sɪtiz
+第一,dì yī,,to,,0.5,tii,tɪ
+懂,dǒng,,eating,,0.375,tʊŋ,itɪŋ
+房间,fáng jiān,,congressman,,0.575,fɑŋtɕjɛn,kɑŋgrəsmən
+非常,fēi cháng,,maintaining,,0.55,feɪʈʂʰɑŋ,meɪnteɪnɪŋ
+服务员,fú wù yuán,,when,,0.5833333333333333,fuuɥœn,wɪn
+高,gāo,,cows,,0.25,kɑʊ,kaʊz
+告诉,gào su,,out,,0.5,kɑʊsu,aʊt
+哥哥,gē ge,,quickly,,0.5833333333333333,kɤkɤ,kwɪkli
+给,gěi,,came,,0.25,keɪ,keɪm
+公共汽车,gōng gòng qì chē,,experimentation,,0.84375,kʊŋkʊŋtɕʰiʈʂʰɤ,ɪkspɛrəmənteɪʃən
+公斤,gōng jīn,,hometown,,0.5625,kʊŋtɕin,hoʊmtaʊn
+公司,gōng sī,,county,,0.5,kʊŋsɯ,kaʊnti
+贵,guì,,claim,,0.4,kweɪ,kleɪm
+还,hái,,sky,,0.25,xaɪ,skaɪ
+孩子,hái zi,,quality,,0.4999999999999999,xaɪtsɯ,kwɑləti
+好吃,hǎo chī,,capacity,,0.59375,xɑʊʈʂʰɨ,kəpæsɪti
+号,hào,,cows,,0.25,xɑʊ,kaʊz
+黑,hēi,,came,,0.25,xeɪ,keɪm
+红,hóng,,kings,,0.375,xʊŋ,kɪŋz
+欢迎,huān yíng,,coming,,0.4583333333333332,xwaniŋ,kəmɪŋ
+还,huán,,sky,,0.25,xaɪ,skaɪ
+回答,huí dá,,kuala,,0.4583333333333332,xweɪta,kwɑlə
+机场,jī chǎng,,dissatisfaction,,0.673076923076923,tɕiʈʂʰɑŋ,dɪsætɪsfækʃən
+鸡蛋,jī dàn,,started,,0.4999999999999999,tɕitan,stɑrtɪd
+件,jiàn,,season,,0.55,tɕjɛn,sizən
+教室,jiào shì,,variety,,0.59375,tɕjɑʊʂɨ,vəraɪəti
+姐姐,jiě jie,,competition,,0.7,tɕjɛtɕjɛ,kɑmpətɪʃən
+介绍,jiè shào,,deteriorated,,0.673076923076923,tɕjɛʂɑʊ,dɪtɪriəreɪtɪd
+进,jìn,,train,,0.45,tɕin,treɪn
+近,jìn,,train,,0.45,tɕin,treɪn
+就,jiù,,rio,,0.4,tɕjoʊ,rioʊ
+觉得,jué de,,where,,0.6249999999999999,tɕɥœtɤ,wɛr
+咖啡,kā fēi,,crimea,,0.4999999999999999,kʰafeɪ,kraɪmiə
+开始,kāi shǐ,,climate,,0.4999999999999999,kʰaɪʂɨ,klaɪmɪt
+考试,kǎo shì,,crisis,,0.4999999999999999,kʰɑʊʂɨ,kraɪsəs
+可能,kě néng,,kuomintang,,0.5750000000000001,kʰɤnɤŋ,kwoʊmɪntæŋ
+可以,kě yǐ,,closely,,0.6428571428571428,kʰɤi,kloʊsli
+课,kè,,class,,0.625,kʰɤ,klæs
+快,kuài,,korea,,0.6000000000000001,kʰwaɪ,kɔriə
+快乐,kuài lè,,acquired,,0.5625,kʰwaɪlɤ,əkwaɪərd
+累,lèi,,they,,0.25,leɪ,ðeɪ
+离,lí,,t,,0.25,li,ti
+两,liǎng,,yang,,0.25,ljɑŋ,jæŋ
+路,lù,,two,,0.25,lu,tu
+旅游,lǚ yóu,,two-way,,0.45,lyyoʊ,tuweɪ
+卖,mài,,bay,,0.25,maɪ,beɪ
+慢,màn,,men,,0.25,man,mɛn
+忙,máng,,bank,,0.3125,mɑŋ,bæŋk
+每,měi,,by,,0.25,meɪ,baɪ
+妹妹,mèi mei,,painting,,0.3749999999999999,meɪmeɪ,peɪnɪŋ
+门,mén,,many,,0.3125,mən,mɛni
+男人,nán rén,,nine,,0.3749999999999999,nanʐən,naɪn
+您,nín,,needs,,0.3125,nin,nidz
+牛奶,niú nǎi,,only,,0.4999999999999999,njoʊnaɪ,oʊnli
+女人,nǚ rén,,notion,,0.3749999999999999,nyʐən,noʊʃən
+旁边,páng biān,,permanent,,0.611111111111111,pʰɑŋpjɛn,pərmɑnɛnt
+跑步,pǎo bù,,private,,0.5357142857142857,pʰɑʊpu,praɪvət
+便宜,pián yi,,finally,,0.5357142857142857,pʰjɛni,faɪnəli
+票,piào,,may,,0.6000000000000001,pʰjɑʊ,meɪ
+妻子,qī zi,,territory,,0.59375,tɕʰitsɯ,tɛrɪtɔri
+起床,qǐ chuáng,,socioeconomic,,0.7833333333333333,tɕʰiʈʂʰwɑŋ,soʊsioʊɛkənɑmɪk
+千,qiān,,retaliation,,0.6363636363636362,tɕʰjɛn,ritælieɪʃən
+晴,qíng,,to,,0.7,tɕʰiŋ,tɪ
+去年,qù nián,,australian,,0.575,tɕʰynjɛn,ɔstreɪljən
+让,ràng,,gang,,0.3333333333333333,ʐɑŋ,gæŋ
+上班,shàng bān,,champion,,0.5357142857142857,ʂɑŋpan,ʧæmpiən
+身体,shēn tǐ,,contain,,0.4999999999999999,ʂəntʰi,kənteɪn
+生病,shēng bìng,,being,,0.6249999999999999,ʂɤŋpiŋ,biɪŋ
+生日,shēng rì,,city,,0.55,ʂɤŋʐɨ,sɪti
+时间,shí jiān,,determine,,0.5625,ʂɨtɕjɛn,dɪtərmən
+事情,shì qing,,historic,,0.59375,ʂɨtɕʰiŋ,hɪstɔrɪk
+手表,shǒu biǎo,,domain,,0.4999999999999999,ʂoʊpjɑʊ,doʊmeɪn
+手机,shǒu jī,,protein,,0.5357142857142857,ʂoʊtɕi,proʊtin
+送,sòng,,seeing,,0.375,sʊŋ,siɪŋ
+所以,suǒ yǐ,,sumo,,0.45,swɔi,sumoʊ
+它,tā,,dry,,0.5625,tʰa,draɪ
+踢,tī,,he,,0.5833333333333333,tʰi,hi
+题,tí,,he,,0.5833333333333333,tʰi,hi
+跳舞,tiào wǔ,,stereotype,,0.6590909090909091,tʰjɑʊu,stɛrioʊtaɪp
+外,wài,,while,,0.25,waɪ,waɪl
+完,wán,,one,,0.25,wan,wən
+玩,wán,,one,,0.25,wan,wən
+晚上,wǎn shang,,quantum,,0.4999999999999999,wanʂɑŋ,kwɑntəm
+为,wèi,,away,,0.25,weɪ,əweɪ
+问,wèn,,what,,0.25,wən,wət
+问题,wèn tí,,contain,,0.4999999999999999,wəntʰi,kənteɪn
+西瓜,xī guā,,speaker,,0.6249999999999999,ɕikwa,spikər
+希望,xī wàng,,viewing,,0.45,ɕiwɑŋ,vjuɪŋ
+洗,xǐ,,c,,0.375,ɕi,si
+向,xiàng,,zhejiang,,0.35,ɕjɑŋ,ʒiʤɑŋ
+小时,xiǎo shí,,theatrically,,0.575,ɕjɑʊʂɨ,θiætrɪkəli
+笑,xiào,,now,,0.5,ɕjɑʊ,naʊ
+新,xīn,,themed,,0.3125,ɕin,θimd
+姓,xìng,,hearing,,0.45,ɕiŋ,hirɪŋ
+休息,xiū xi,,narrowly,,0.4999999999999999,ɕjoʊɕi,nɛroʊli
+雪,xuě,,square,,0.55,ɕɥœ,skwɛr
+颜色,yán sè,,event,,0.6000000000000001,jɛnsɤ,ɪvɛnt
+眼睛,yǎn jing,,continue,,0.5625,jɛntɕiŋ,kəntɪnju
+羊肉,yáng ròu,,diego,,0.5357142857142857,jɑŋʐoʊ,dieɪgoʊ
+药,yào,,liao,,0.3125,jɑʊ,liaʊ
+要,yào,,liao,,0.3125,jɑʊ,liaʊ
+也,yě,,ia,,0.25,jɛ,iə
+已经,yǐ jīng,,using,,0.5,itɕiŋ,juzɪŋ
+一起,yī qǐ,,to,,0.7,itɕʰi,tɪ
+意思,yì si,,dc,,0.375,isɯ,disi
+阴,yīn,,been,,0.5,in,bɪn
+因为,yīn wèi,,engaged,,0.4999999999999999,inweɪ,ɪngeɪʤd
+游泳,yóu yǒng,,toyota,,0.59375,yoʊyʊŋ,toʊjoʊtə
+右边,yòu bian,,columbian,,0.45,yoʊpjɛn,koʊləmbiən
+鱼,yú,,new,,0.5,y,nu
+元,yuán,,well,,0.25,ɥœn,wɛl
+远,yuǎn,,well,,0.25,ɥœn,wɛl
+运动,yùn dòng,,windows,,0.5357142857142857,yntʊŋ,wɪndoʊz
+再,zài,,style,,0.4,tsaɪ,staɪl
+早上,zǎo shang,,decided,,0.59375,tsɑʊʂɑŋ,dɪsaɪdɪd
+张,zhāng,,mustang,,0.4583333333333333,ʈʂɑŋ,məstæŋ
+长,zhǎng,,mustang,,0.4583333333333333,ʈʂɑŋ,məstæŋ
+丈夫,zhàng fu,,time,,0.6249999999999999,ʈʂɑŋfu,taɪm
+找,zhǎo,,scout,,0.45,ʈʂɑʊ,skaʊt
+着,zhe,,small,,0.625,ʈʂɤ,smɔl
+真,zhēn,,seven,,0.45,ʈʂən,sɛvən
+正在,zhèng zài,,characteristic,,0.673076923076923,ʈʂɤŋtsaɪ,kɛrɪktərɪstɪk
+知道,zhī dào,,storylines,,0.575,ʈʂɨtɑʊ,stɔrilaɪnz
+准备,zhǔn bèi,,identify,,0.575,ʈʂwənpeɪ,aɪdɛntəfaɪ
+自行车,zì xíng chē,,later,,0.75,tsɯɕiŋʈʂʰɤ,leɪtər
+走,zǒu,,although,,0.45,tsoʊ,ɔlðoʊ
+最,zuì,,way,,0.4,tsweɪ,weɪ
+左边,zuǒ bian,,attributed,,0.575,tswɔpjɛn,ətrɪbjətəd
+阿姨,ā yí,,by,,0.5,ai,baɪ
+啊,a,,at,,0.5,a,æt
+矮,ǎi,,by,,0.3333333333333333,aɪ,baɪ
+爱好,ài hào,,ai,,0.4,aɪxɑʊ,eɪaɪ
+安静,ān jìng,,ending,,0.4583333333333332,antɕiŋ,ɛndɪŋ
+把,bǎ,,by,,0.3333333333333333,pa,baɪ
+搬,bān,,been,,0.25,pan,bɪn
+班,bān,,been,,0.25,pan,bɪn
+半,bàn,,been,,0.25,pan,bɪn
+办法,bàn fǎ,,five,,0.45,panfa,faɪv
+办公室,bàn gōng shì,,practices,,0.611111111111111,pankʊŋʂɨ,præktɪsɪz
+帮忙,bāng máng,,painting,,0.4583333333333332,pɑŋmɑŋ,peɪnɪŋ
+包,bāo,,now,,0.25,pɑʊ,naʊ
+饱,bǎo,,now,,0.25,pɑʊ,naʊ
+北方,běi fāng,,making,,0.3333333333333333,peɪfɑŋ,meɪkɪŋ
+被,bèi,,day,,0.25,peɪ,deɪ
+鼻子,bí zi,,pc,,0.3,pitsɯ,pisi
+比较,bǐ jiào,,by,,0.6071428571428571,pitɕjɑʊ,baɪ
+比赛,bǐ sài,,peaceful,,0.3749999999999999,pisaɪ,pisfəl
+必须,bì xū,,preschool,,0.5357142857142857,piɕy,priskul
+变化,biàn huà,,bmw,,0.6363636363636362,pjɛnxwa,biɛmdəbəlju
+表示,biǎo shì,,places,,0.5357142857142857,pjɑʊʂɨ,pleɪsɪz
+表演,biǎo yǎn,,evaluation,,0.5227272727272727,pjɑʊjɛn,ɪvæljueɪʃən
+别人,bié ren,,visit,,0.4583333333333332,pjɛʐən,vɪzɪt
+宾馆,bīn guǎn,,included,,0.59375,pinkwan,ɪnkludɪd
+冰箱,bīng xiāng,,patriarchate,,0.6363636363636364,piŋɕjɑŋ,peɪtriɑrkət
+才,cái,,high,,0.55,tsʰaɪ,haɪ
+菜单,cài dān,,translated,,0.5454545454545454,tsʰaɪtan,trænzleɪtəd
+参加,cān jiā,,reconstituted,,0.673076923076923,tsʰantɕja,rikɑnstətutɪd
+草,cǎo,,today,,0.6000000000000001,tsʰɑʊ,tədeɪ
+层,céng,,during,,0.6499999999999999,tsʰɤŋ,dʊrɪŋ
+差,chà,,state,,0.7,ʈʂʰa,steɪt
+超市,chāo shì,,personality,,0.6363636363636362,ʈʂʰɑʊʂɨ,pərsənælɪti
+衬衫,chèn shān,,television,,0.611111111111111,ʈʂʰənʂan,tɛləvɪʒən
+成绩,chéng jì,,specifically,,0.675,ʈʂʰɤŋtɕi,spəsɪfɪkli
+城市,chéng shì,,aristocracy,,0.6363636363636365,ʈʂʰɤŋʂɨ,ɛrəstɑkrəsi
+迟到,chí dào,,society,,0.6666666666666666,ʈʂʰɨtɑʊ,soʊsaɪɪti
+出现,chū xiàn,,constitutional,,0.673076923076923,ʈʂʰuɕjɛn,kɑnstətuʃənəl
+除了,chú le,,through,,0.6666666666666666,ʈʂʰulɤ,θru
+厨房,chú fáng,,certified,,0.6666666666666666,ʈʂʰufɑŋ,sərtəfaɪd
+春,chūn,,susquehanna,,0.575,ʈʂʰwən,suskwɛhænə
+词语,cí yǔ,,also,,0.7,tsʰɯy,ɔlsoʊ
+聪明,cōng ming,,decision-making,,0.6730769230769231,tsʰʊŋmiŋ,dɪsɪʒənmeɪkɪŋ
+打扫,dǎ sǎo,,last,,0.5,tasɑʊ,læst
+打算,dǎ suàn,,taiwanese,,0.375,taswan,taɪwɑniz
+带,dài,,time,,0.25,taɪ,taɪm
+担心,dān xīn,,started,,0.4999999999999999,tanɕin,stɑrtɪd
+蛋糕,dàn gāo,,deny,,0.4583333333333332,tankɑʊ,dɪnaɪ
+当然,dāng rán,,shanghai,,0.4166666666666666,tɑŋʐan,ʃæŋhaɪ
+地,de,,tow,,0.4999999999999999,tɤ,toʊ
+灯,dēng,,hong,,0.3333333333333333,tɤŋ,hɔŋ
+低,dī,,to,,0.25,ti,tɪ
+地方,dì fang,,shipping,,0.45,tifɑŋ,ʃɪpɪŋ
+地铁,dì tiě,,senior,,0.5833333333333333,titʰjɛ,sinjər
+地图,dì tú,,into,,0.55,titʰu,ɪntu
+电梯,diàn tī,,henry,,0.4999999999999999,tjɛntʰi,hɛnri
+电子,diàn zǐ,,country,,0.4999999999999999,tjɛntsɯ,kəntri
+冬,dōng,,eating,,0.375,tʊŋ,itɪŋ
+东,dōng,,eating,,0.375,tʊŋ,itɪŋ
+动物,dòng wù,,meetings,,0.5833333333333333,tʊŋu,mitɪŋz
+短,duǎn,,twice,,0.4,twan,twaɪs
+段,duàn,,twice,,0.4,twan,twaɪs
+锻炼,duàn liàn,,transcription,,0.5208333333333334,twanljɛn,trænskrɪpʃən
+多么,duō me,,want,,0.5,twɔmɤ,wɔnt
+饿,è,,more,,0.7499999999999999,ɤ,mɔr
+而且,ér qiě,,activities,,0.6666666666666666,ɑɻtɕʰjɛ,æktɪvɪtiz
+耳朵,ěr duo,,into,,0.6000000000000001,ɑɻtwɔ,ɪntu
+发烧,fā shāo,,ballet,,0.4,faʂɑʊ,bæleɪ
+发现,fā xiàn,,mission,,0.4583333333333332,faɕjɛn,mɪʃən
+方便,fāng biàn,,million,,0.4999999999999999,fɑŋpjɛn,mɪljən
+放,fàng,,back,,0.25,fɑŋ,bæk
+放心,fàng xīn,,action,,0.4166666666666666,fɑŋɕin,ækʃən
+分,fēn,,often,,0.25,fən,ɔfən
+附近,fù jìn,,philippine,,0.4999999999999999,futɕin,fɪləpin
+复习,fù xí,,fleshy,,0.45,fuɕi,flɛʃi
+干净,gān jìng,,considering,,0.5249999999999999,kantɕiŋ,kənsɪdərɪŋ
+敢,gǎn,,can,,0.25,kan,kən
+感冒,gǎn mào,,economy,,0.4999999999999999,kanmɑʊ,ɪkɑnəmi
+刚才,gāng cái,,calculations,,0.673076923076923,kɑŋtsʰaɪ,kælkjəleɪʃənz
+根据,gēn jù,,contest,,0.4999999999999999,kəntɕy,kɑntɛst
+跟,gēn,,cup,,0.25,kən,kəp
+更,gèng,,kong,,0.3125,kɤŋ,kɔŋg
+公园,gōng yuán,,execution,,0.575,kʊŋɥœn,ɛksəkjuʃən
+故事,gù shi,,actually,,0.5357142857142857,kuʂɨ,ækʧuəli
+刮,guā,,kumar,,0.45,kwa,kumɑr
+关,guān,,yuan,,0.3125,kwan,juɑn
+关系,guān xì,,wealthy,,0.4583333333333332,kwanɕi,wɛlθi
+关心,guān xīn,,quickly,,0.4999999999999999,kwanɕin,kwɪkli
+关于,guān yú,,yuan,,0.45,kwany,juɑn
+国家,guó jiā,,qualifiers,,0.6363636363636364,kwɔtɕja,kwɑləfaɪərz
+果汁,guǒ zhī,,thwarted,,0.4999999999999999,kwɔʈʂɨ,θwɔrtɪd
+过去,guò qu,,quartermaster,,0.6730769230769231,kwɔtɕʰy,kwɔrtərmæstər
+还是,hái shi,,comedy,,0.3749999999999999,xaɪʂɨ,kɑmədi
+害怕,hài pà,,compromise,,0.5750000000000001,xaɪpʰa,kɑmprəmaɪz
+河,hé,,co,,0.4999999999999999,xɤ,koʊ
+黑板,hēi bǎn,,upon,,0.3749999999999999,xeɪpan,əpɑn
+护照,hù zhào,,quarter,,0.6071428571428571,xuʈʂɑʊ,kwɔrtər
+花,huā,,kumar,,0.45,xwa,kumɑr
+花园,huā yuán,,actual,,0.5357142857142857,xwaɥœn,ækʧəwəl
+画,huà,,kumar,,0.45,xwa,kumɑr
+坏,huài,,squad,,0.4,xwaɪ,skwɑd
+环境,huán jìng,,quantitative,,0.5208333333333334,xwantɕiŋ,kwɑntɪteɪtɪv
+换,huàn,,yuan,,0.3125,xwan,juɑn
+黄,huáng,,kumar,,0.45,xwɑŋ,kumɑr
+会议,huì yì,,came,,0.4,xweɪi,keɪm
+或者,huò zhě,,kuomintang,,0.5750000000000001,xwɔʈʂɤ,kwoʊmɪntæŋ
+机会,jī huì,,uruguay,,0.5625,tɕixweɪ,jərəgweɪ
+几乎,jī hū,,streets,,0.6249999999999999,tɕixu,strits
+极,jí,,to,,0.5,tɕi,tɪ
+记得,jì de,,seat,,0.5,tɕitɤ,sit
+季节,jì jié,,tributaries,,0.6363636363636364,tɕitɕjɛ,trɪbjətɛriz
+检查,jiǎn chá,,statistics,,0.7,tɕjɛnʈʂʰa,stətɪstɪks
+简单,jiǎn dān,,supplemented,,0.5227272727272727,tɕjɛntan,səpləmɛntɪd
+见面,jiàn miàn,,african-american,,0.6166666666666667,tɕjɛnmjɛn,æfrɪkənəmɛrɪkən
+健康,jiàn kāng,,democratic,,0.7,tɕjɛnkʰɑŋ,dɛməkrætɪk
+讲,jiǎng,,trying,,0.5,tɕjɑŋ,traɪɪŋ
+教,jiāo,,now,,0.55,tɕjɑʊ,naʊ
+脚,jiǎo,,now,,0.55,tɕjɑʊ,naʊ
+角,jiǎo,,now,,0.55,tɕjɑʊ,naʊ
+接,jiē,,daniels,,0.6428571428571428,tɕjɛ,dænjɛlz
+街道,jiē dào,,distributed,,0.6458333333333333,tɕjɛtɑʊ,dɪstrɪbjətəd
+节目,jié mù,,traditional,,0.7,tɕjɛmu,trədɪʃənəl
+节日,jié rì,,very,,0.6249999999999999,tɕjɛʐɨ,vɛri
+结婚,jié hūn,,instructed,,0.575,tɕjɛxwən,ɪnstrəktɪd
+结束,jié shù,,this,,0.6666666666666666,tɕjɛʂu,ðɪs
+解决,jiě jué,,administration,,0.7321428571428571,tɕjɛtɕɥœ,ædmɪnɪstreɪʃən
+借,jiè,,daniels,,0.6428571428571428,tɕjɛ,dænjɛlz
+经常,jīng cháng,,unsuccessfully,,0.7291666666666666,tɕiŋʈʂʰɑŋ,ənsəksɛsfəli
+经过,jīng guò,,conjunction,,0.7,tɕiŋkwɔ,kənʤəŋkʃən
+经理,jīng lǐ,,literally,,0.5625,tɕiŋli,lɪtərəli
+久,jiǔ,,rio,,0.4,tɕjoʊ,rioʊ
+旧,jiù,,rio,,0.4,tɕjoʊ,rioʊ
+举行,jǔ xíng,,troops,,0.6249999999999999,tɕyɕiŋ,trups
+句子,jù zi,,test,,0.5833333333333333,tɕytsɯ,tɛst
+决定,jué dìng,,resulting,,0.5625,tɕɥœtiŋ,rɪzəltɪŋ
+渴,kě,,class,,0.625,kʰɤ,klæs
+可爱,kě ài,,korea,,0.6000000000000001,kʰɤaɪ,kɔriə
+刻,kè,,class,,0.625,kʰɤ,klæs
+客人,kè rén,,christian,,0.4999999999999999,kʰɤʐən,krɪsʧɪn
+空调,kōng tiáo,,extracurricular,,0.765625,kʰʊŋtʰjɑʊ,ɛkstrəkərɪkjələr
+口,kǒu,,no,,0.5,kʰoʊ,noʊ
+哭,kū,,co,,0.5833333333333333,kʰu,koʊ
+裤子,kù zi,,criticisms,,0.6590909090909092,kʰutsɯ,krɪtɪsɪzəmz
+筷子,kuài zi,,ecosystem,,0.575,kʰwaɪtsɯ,ikoʊsɪstəm
+蓝,lán,,line,,0.25,lan,laɪn
+老,lǎo,,now,,0.25,lɑʊ,naʊ
+离开,lí kāi,,nickname,,0.5357142857142857,likʰaɪ,nɪkneɪm
+礼物,lǐ wù,,league,,0.3333333333333333,liu,lig
+历史,lì shǐ,,receive,,0.45,liʂɨ,rɪsiv
+脸,liǎn,,season,,0.45,ljɛn,sizən
+练习,liàn xí,,royalty,,0.5357142857142856,ljɛnɕi,rɔɪəlti
+辆,liàng,,yang,,0.25,ljɑŋ,jæŋ
+了解,liǎo jiě,,theatrical,,0.611111111111111,ljɑʊtɕjɛ,θiætrɪkəl
+邻居,lín jū,,later,,0.6249999999999999,lintɕy,leɪtər
+楼,lóu,,no,,0.25,loʊ,noʊ
+绿,lǜ,,two,,0.25,ly,tu
+马,mǎ,,na,,0.25,ma,nɑ
+马上,mǎ shàng,,mark,,0.45,maʂɑŋ,mɑrk
+满意,mǎn yì,,monte,,0.2,mani,mɑnti
+帽子,mào zi,,most,,0.4166666666666666,mɑʊtsɯ,moʊst
+米,mǐ,,v,,0.25,mi,vi
+面包,miàn bāo,,many,,0.4999999999999999,mjɛnpɑʊ,mɛni
+面条,miàn tiáo,,mediterranean,,0.673076923076923,mjɛntʰjɑʊ,mɛdətəreɪniən
+明白,míng bai,,provide,,0.4999999999999999,miŋpaɪ,prəvaɪd
+拿,ná,,ma,,0.25,na,mɑ
+奶奶,nǎi nai,,china,,0.3749999999999999,naɪnaɪ,ʧaɪnə
+南,nán,,not,,0.25,,nɑt
+难,nán,,not,,0.25,,nɑt
+难过,nán guò,,man,,0.5833333333333333,nankwɔ,mæn
+年级,nián jí,,concurrently,,0.5227272727272727,njɛntɕi,kənkərəntli
+年轻,nián qīng,,documentaries,,0.6458333333333334,njɛntɕʰiŋ,dɑkjəmɛnəriz
+鸟,niǎo,,macau,,0.45,njɑʊ,məkaʊ
+努力,nǔ lì,,julie,,0.25,nuli,ʤuli
+爬山,pá shān,,brighton,,0.4999999999999999,pʰaʂan,braɪtən
+盘子,pán zi,,body,,0.4999999999999999,pʰantsɯ,bɑdi
+胖,pàng,,frank,,0.45,pʰɑŋ,fræŋk
+啤酒,pí jiǔ,,fernando,,0.611111111111111,pʰitɕjoʊ,fərnɑndoʊ
+葡萄,pú tao,,profound,,0.6388888888888888,pʰutʰɑʊ,proʊfaʊnd
+普通话,pǔ tōng huà,,between,,0.75,pʰutʰʊŋxwa,bɪtwin
+骑,qí,,treasury,,0.6428571428571429,tɕʰi,trɛʒəri
+其实,qí shí,,tree,,0.6249999999999999,tɕʰiʂɨ,tri
+其他,qí tā,,statistics,,0.7,tɕʰitʰa,stətɪstɪks
+奇怪,qí guài,,required,,0.6388888888888888,tɕʰikwaɪ,rikwaɪərd
+铅笔,qiān bǐ,,encyclopedia,,0.673076923076923,tɕʰjɛnpi,ɪnsaɪkləpidiə
+清楚,qīng chu,,tuberculosis,,0.7857142857142857,tɕʰiŋʈʂʰu,təbərkjəloʊsɪs
+秋,qiū,,ohio,,0.5357142857142857,tɕʰjoʊ,oʊhaɪoʊ
+裙子,qún zi,,dominated,,0.7,tɕʰyntsɯ,dɑməneɪtəd
+然后,rán hòu,,follow,,0.4583333333333333,ʐanxoʊ,fɑloʊ
+热情,rè qíng,,politicians,,0.7499999999999999,ʐɤtɕʰiŋ,pɑlətɪʃənz
+认为,rèn wéi,,away,,0.3333333333333333,ʐənweɪ,əweɪ
+认真,rèn zhēn,,version,,0.4999999999999999,ʐənʈʂən,vərʒən
+容易,róng yì,,missouri,,0.5416666666666666,ʐʊŋi,məzʊri
+如果,rú guǒ,,require,,0.65625,ʐukwɔ,rikwaɪər
+伞,sǎn,,son,,0.25,san,sən
+上网,shàng wǎng,,bank,,0.5833333333333333,ʂɑŋwɑŋ,bæŋk
+生气,shēng qì,,headquarters,,0.7,ʂɤŋtɕʰi,hɛdkɔrtərz
+声音,shēng yīn,,town,,0.6000000000000001,ʂɤŋin,taʊn
+使,shǐ,,t,,0.375,ʂɨ,ti
+世界,shì jiè,,citizen,,0.5357142857142856,ʂɨtɕjɛ,sɪtɪzən
+瘦,shòu,,soul,,0.3125,ʂoʊ,soʊl
+舒服,shū fu,,software,,0.5833333333333333,ʂufu,sɔfwɛr
+叔叔,shū shu,,youtube,,0.55,ʂuʂu,jutub
+树,shù,,two,,0.375,ʂu,tu
+数学,shù xué,,through,,0.6500000000000001,ʂuɕɥœ,θru
+刷,shuā,,huang,,0.375,ʂwa,hwɑŋ
+双,shuāng,,hang,,0.375,ʂwɑŋ,hæŋ
+水平,shuǐ píng,,requiring,,0.575,ʂweɪpʰiŋ,rikwaɪərɪŋ
+司机,sī jī,,healthy,,0.45,sɯtɕi,hɛlθi
+虽然,suī rán,,state,,0.4999999999999999,sweɪʐan,steɪt
+太阳,tài yáng,,residing,,0.5625,tʰaɪjɑŋ,rɪzaɪdɪŋ
+糖,táng,,tracks,,0.5,tʰɑŋ,træks
+特别,tè bié,,serbia,,0.5,tʰɤpjɛ,sərbiə
+疼,téng,,teaching,,0.55,tʰɤŋ,tiʧɪŋ
+提高,tí gāo,,now,,0.6249999999999999,tʰikɑʊ,naʊ
+体育,tǐ yù,,dispute,,0.6428571428571428,tʰiy,dɪspjut
+甜,tián,,season,,0.55,tʰjɛn,sizən
+条,tiáo,,now,,0.55,tʰjɑʊ,naʊ
+同事,tóng shì,,house,,0.6666666666666666,tʰʊŋʂɨ,haʊs
+同意,tóng yì,,city,,0.6000000000000001,tʰʊŋi,sɪti
+头发,tóu fa,,told,,0.5,tʰoʊfa,toʊld
+突然,tū rán,,susanna,,0.4583333333333332,tʰuʐan,suzænə
+图书馆,tú shū guǎn,,aristocrat,,0.675,tʰuʂukwan,ərɪstəkræt
+腿,tuǐ,,way,,0.4,tʰweɪ,weɪ
+完成,wán chéng,,containing,,0.6388888888888888,wanʈʂʰɤŋ,kənteɪnɪŋ
+碗,wǎn,,one,,0.25,wan,wən
+万,wàn,,one,,0.25,wan,wən
+忘记,wàng jì,,bankruptcy,,0.5750000000000001,wɑŋtɕi,bæŋkrəptsi
+为了,wèi le,,will,,0.4,weɪlɤ,wɪl
+为什么,wèi shén me,,citizenship,,0.575,weɪʂənmɤ,sɪtɪzənʃɪp
+位,wèi,,away,,0.25,weɪ,əweɪ
+文化,wén huà,,what,,0.6249999999999999,wənxwa,wət
+西,xī,,c,,0.375,ɕi,si
+习惯,xí guàn,,request,,0.5357142857142857,ɕikwan,rɪkwɛst
+洗手间,xǐ shǒu jiān,,within,,0.6499999999999999,ɕiʂoʊtɕjɛn,wɪθɪn
+洗澡,xǐ zǎo,,criticized,,0.575,ɕitsɑʊ,krɪtəsaɪzd
+夏,xià,,huron,,0.5416666666666666,ɕja,hjʊrɑn
+先,xiān,,season,,0.45,ɕjɛn,sizən
+香蕉,xiāng jiāo,,thanksgiving,,0.625,ɕjɑŋtɕjɑʊ,θæŋksgɪvɪŋ
+相同,xiāng tóng,,highlighting,,0.5833333333333334,ɕjɑŋtʰʊŋ,haɪlaɪtɪŋ
+相信,xiāng xìn,,direction,,0.5625,ɕjɑŋɕin,dɪrɛkʃɪn
+像,xiàng,,zhejiang,,0.35,ɕjɑŋ,ʒiʤɑŋ
+小心,xiǎo xīn,,created,,0.5625,ɕjɑʊɕin,krieɪtɪd
+校长,xiào zhǎng,,lifestyle,,0.611111111111111,ɕjɑʊʈʂɑŋ,laɪfstaɪl
+鞋,xié,,he,,0.5,ɕjɛ,hi
+新闻,xīn wén,,mountain,,0.4999999999999999,ɕinwən,maʊntən
+新鲜,xīn xiān,,battalion,,0.5625,ɕinɕjɛn,bətæljən
+信,xìn,,themed,,0.3125,ɕin,θimd
+行李箱,xíng li xiāng,,negotiating,,0.6458333333333334,ɕiŋliɕjɑŋ,nɪgoʊʃieɪtɪŋ
+兴趣,xìng qù,,historical,,0.7499999999999999,ɕiŋtɕʰy,hɪstɔrɪkəl
+熊猫,xióng māo,,household,,0.6666666666666666,ɕjʊŋmɑʊ,haʊshoʊld
+需要,xū yào,,without,,0.5833333333333333,ɕyjɑʊ,wɪθaʊt
+选择,xuǎn zé,,recently,,0.5625,ɕɥœntsɤ,risəntli
+眼镜,yǎn jìng,,continue,,0.5625,jɛntɕiŋ,kəntɪnju
+要求,yāo qiú,,humanitarian,,0.6458333333333334,jɑʊtɕʰjoʊ,jumænətɛriən
+爷爷,yé ye,,yale,,0.4375,jɛjɛ,jeɪl
+一定,yī dìng,,sting,,0.375,itiŋ,stɪŋ
+一共,yī gòng,,could,,0.5,ikʊŋ,kʊd
+一会儿,yī huì r,,request,,0.5357142857142857,ixweɪɻ,rɪkwɛst
+一样,yī yàng,,being,,0.5,ijɑŋ,biɪŋ
+以后,yǐ hòu,,ceo,,0.4,ixoʊ,siioʊ
+以前,yǐ qián,,determine,,0.59375,itɕʰjɛn,dɪtərmən
+以为,yǐ wéi,,relay,,0.4,iweɪ,rileɪ
+一般,yī bān,,afghan,,0.4,ipan,æfgæn
+一边,yī biān,,main,,0.5,ipjɛn,meɪn
+一直,yī zhí,,eastern,,0.5833333333333333,iʈʂɨ,istərn
+音乐,yīn yuè,,midwest,,0.5357142857142857,inɥœ,mɪdwɛst
+银行,yín háng,,encountering,,0.5750000000000001,inxɑŋ,ɛnkaʊnərɪŋ
+应该,yīng gāi,,k,,0.5,iŋkaɪ,keɪ
+影响,yǐng xiǎng,,young,,0.6249999999999999,iŋɕjɑŋ,jəŋ
+用,yòng,,took,,0.5,yʊŋ,tʊk
+游戏,yóu xì,,wealthy,,0.45,yoʊɕi,wɛlθi
+有名,yǒu míng,,soviet,,0.4999999999999999,yoʊmiŋ,soʊviɛt
+又,yòu,,widow,,0.45,yoʊ,wɪdoʊ
+遇到,yù dào,,one-time,,0.4583333333333332,ytɑʊ,wətaɪm
+愿意,yuàn yì,,henry,,0.4,ɥœni,hɛnri
+越,yuè,,work,,0.5625,ɥœ,wərk
+月亮,yuè liang,,website,,0.4999999999999999,ɥœljɑŋ,wɛbsaɪt
+云,yún,,used,,0.5625,yn,juzd
+站,zhàn,,starred,,0.45,ʈʂan,stɑrd
+着急,zháo jí,,society,,0.5277777777777778,ʈʂɑʊtɕi,soʊsaɪɪti
+照顾,zhào gu,,so,,0.6249999999999999,ʈʂɑʊku,soʊ
+照片,zhào piàn,,distribution,,0.6458333333333333,ʈʂɑʊpʰjɛn,dɪstrəbjuʃən
+照相机,zhào xiàng jī,,transportation,,0.6785714285714285,ʈʂɑʊɕjɑŋtɕi,trænspərteɪʃən
+只,zhī,,stacey,,0.5416666666666666,ʈʂɨ,steɪsi
+只,zhǐ,,stacey,,0.5416666666666666,ʈʂɨ,steɪsi
+终于,zhōng yú,,who,,0.7,ʈʂʊŋy,hu
+中间,zhōng jiān,,rehabilitation,,0.673076923076923,ʈʂʊŋtɕjɛn,riəbɪləteɪʃən
+种,zhǒng,,housing,,0.5833333333333333,ʈʂʊŋ,haʊzɪŋ
+重要,zhòng yào,,stereotype,,0.6363636363636364,ʈʂʊŋjɑʊ,stɛrioʊtaɪp
+周末,zhōu mò,,slovenia,,0.5277777777777778,ʈʂoʊmwɔ,sloʊviniə
+主要,zhǔ yào,,city,,0.6666666666666666,ʈʂujɑʊ,sɪti
+祝,zhù,,statue,,0.55,ʈʂu,stæʧu
+注意,zhù yì,,smoothly,,0.5416666666666666,ʈʂui,smuðli
+字典,zì diǎn,,title,,0.4642857142857142,tsɯtjɛn,taɪtəl
+自己,zì jǐ,,started,,0.5357142857142857,tsɯtɕi,stɑrtɪd
+总是,zǒng shì,,historically,,0.6590909090909091,tsʊŋʂɨ,hɪstɔrɪkəli
+最近,zuì jìn,,australians,,0.5227272727272727,tsweɪtɕin,ɔstreɪljənz
+作业,zuò yè,,traditional,,0.7,tswɔjɛ,trədɪʃənəl
+作用,zuò yòng,,prosecuting,,0.6363636363636362,tswɔyʊŋ,prɑsɪkjutɪŋ
+爱情,ài qíng,,notwithstanding,,0.6346153846153846,aɪtɕʰiŋ,nɑtwɪθstændɪŋ
+安排,ān pái,,adaptation,,0.575,anpʰaɪ,ædəpteɪʃən
+安全,ān quán,,institutions,,0.5454545454545454,antɕʰɥœn,ɪnstɪtuʃənz
+暗,àn,,am,,0.25,an,æm
+按时,àn shí,,nazi,,0.4,anʂɨ,nɑtsi
+按照,àn zhào,,identify,,0.575,anʈʂɑʊ,aɪdɛntəfaɪ
+包括,bāo kuò,,biography,,0.6666666666666666,pɑʊkʰwɔ,baɪɑgrəfi
+保护,bǎo hù,,back,,0.4,pɑʊxu,bæk
+保证,bǎo zhèng,,powerful,,0.5625,pɑʊʈʂɤŋ,paʊərfəl
+抱,bào,,now,,0.25,pɑʊ,naʊ
+抱歉,bào qiàn,,spokesperson,,0.6249999999999999,pɑʊtɕʰjɛn,spoʊkspərsən
+报道,bào dào,,below,,0.4583333333333332,pɑʊtɑʊ,bɪloʊ
+报名,bào míng,,being,,0.4583333333333332,pɑʊmiŋ,biɪŋ
+倍,bèi,,day,,0.25,peɪ,deɪ
+本来,běn lái,,public,,0.4166666666666666,pənlaɪ,pəblɪk
+笨,bèn,,but,,0.25,pən,bət
+笔记本,bǐ jì běn,,prohibited,,0.5454545454545454,pitɕipən,proʊhɪbətəd
+毕业,bì yè,,opinion,,0.5357142857142857,pijɛ,əpɪnjən
+遍,biàn,,point,,0.4,pjɛn,pɔɪnt
+标准,biāo zhǔn,,plantations,,0.5681818181818181,pjɑʊʈʂwən,plænteɪʃənz
+表达,biǎo dá,,behind,,0.5357142857142857,pjɑʊta,bɪhaɪnd
+表格,biǎo gé,,product,,0.5357142857142857,pjɑʊkɤ,prɑdəkt
+表扬,biǎo yáng,,publishing,,0.59375,pjɑʊjɑŋ,pəblɪʃɪŋ
+饼干,bǐng gān,,junction,,0.4999999999999999,piŋkan,ʤəŋkʃən
+并且,bìng qiě,,partnership,,0.675,piŋtɕʰjɛ,pɑrtnərʃɪp
+博士,bó shì,,born,,0.55,pwɔʂɨ,bɔrn
+不但,bù dàn,,baton,,0.2,putan,bætɑn
+不过,bù guò,,frequency,,0.6388888888888888,pukwɔ,frikwənsi
+不得不,bù dé bù,,moved,,0.5833333333333333,putɤpu,muvd
+不管,bù guǎn,,sequence,,0.5357142857142857,pukwan,sikwəns
+不仅,bù jǐn,,portion,,0.4583333333333332,putɕin,pɔrʃən
+部分,bù fèn,,proving,,0.3749999999999999,pufən,pruvɪŋ
+擦,cā,,also,,0.7,tsʰa,ɔlsoʊ
+猜,cāi,,high,,0.55,tsʰaɪ,haɪ
+材料,cái liào,,autobiography,,0.6458333333333333,tsʰaɪljɑʊ,ɔtəbaɪɑgrəfi
+参观,cān guān,,standardized,,0.6458333333333333,tsʰankwan,stændərdaɪzd
+差不多,chà bu duō,,collaborated,,0.7291666666666666,ʈʂʰaputwɔ,kəlæbəreɪtɪd
+长城,Cháng chéng,,state,,0.75,ʈʂʰɑŋʈʂʰɤŋ,steɪt
+长江,Cháng Jiāng,,city,,0.7,ʈʂʰɑŋtɕjɑŋ,sɪti
+尝,cháng,,song,,0.55,ʈʂʰɑŋ,sɔŋ
+场,chǎng,,song,,0.55,ʈʂʰɑŋ,sɔŋ
+超过,chāo guò,,historical,,0.7,ʈʂʰɑʊkwɔ,hɪstɔrɪkəl
+吵,chǎo,,high,,0.6000000000000001,ʈʂʰɑʊ,haɪ
+乘坐,chéng zuò,,constantinople,,0.7666666666666666,ʈʂʰɤŋtswɔ,kɑnstæntənoʊpəl
+成功,chéng gōng,,sustaining,,0.611111111111111,ʈʂʰɤŋkʊŋ,səsteɪnɪŋ
+成熟,chéng shú,,substantial,,0.7499999999999999,ʈʂʰɤŋʂu,səbstænʃəl
+成为,chéng wéi,,graduate,,0.6388888888888888,ʈʂʰɤŋweɪ,græʤəweɪt
+诚实,chéng shí,,aristocracy,,0.6363636363636365,ʈʂʰɤŋʂɨ,ɛrəstɑkrəsi
+吃惊,chī jīng,,territories,,0.6388888888888888,ʈʂʰɨtɕiŋ,tɛrətɔriz
+重新,chóng xīn,,traditional,,0.7,ʈʂʰʊŋɕin,trədɪʃənəl
+抽烟,chōu yān,,historians,,0.575,ʈʂʰoʊjɛn,hɪstɔriənz
+出差,chū chāi,,gastrointestinal,,0.7647058823529411,ʈʂʰuʈʂʰaɪ,gæstroʊɪntɛstənəl
+出发,chū fā,,systematic,,0.7,ʈʂʰufa,sɪstəmætɪk
+出生,chū shēng,,massachusetts,,0.7,ʈʂʰuʂɤŋ,mæsəʧusəts
+传真,chuán zhēn,,johnson,,0.5,ʈʂʰwanʈʂən,ʤɑnsən
+窗户,chuāng hu,,triangles,,0.7,ʈʂʰwɑŋxu,traɪæŋgəlz
+词典,cí diǎn,,palestinian,,0.5454545454545454,tsʰɯtjɛn,pælɪstɪniən
+从来,cóng lái,,sociological,,0.6730769230769231,tsʰʊŋlaɪ,soʊsiəlɑʤɪkəl
+粗心,cū xīn,,television,,0.6666666666666666,tsʰuɕin,tɛləvɪʒən
+答案,dá àn,,tried,,0.4,taan,traɪd
+打扮,dǎ ban,,campaign,,0.4999999999999999,tapan,kæmpeɪn
+打扰,dǎ rǎo,,time,,0.55,taʐɑʊ,taɪm
+打印,dǎ yìn,,tried,,0.35,tain,traɪd
+打折,dǎ zhé,,south,,0.55,taʈʂɤ,saʊθ
+打针,dǎ zhēn,,title,,0.4166666666666666,taʈʂən,taɪtəl
+大概,dà gài,,texas,,0.5,takaɪ,tɛksəs
+大使馆,dà shǐ guǎn,,prosecution,,0.5227272727272727,taʂɨkwan,prɑsəkjuʃən
+大约,dà yuē,,traffic,,0.5833333333333333,taɥœ,træfɪk
+戴,dài,,time,,0.25,taɪ,taɪm
+代表,dài biǎo,,time,,0.4642857142857142,taɪpjɑʊ,taɪm
+代替,dài tì,,highly,,0.375,taɪtʰi,haɪli
+大夫,dài fu,,debut,,0.375,taɪfu,deɪbju
+当,dāng,,tank,,0.25,tɑŋ,tæŋk
+当地,dāng dì,,party,,0.4,tɑŋti,pɑrti
+当时,dāng shí,,autopsy,,0.3749999999999999,tɑŋʂɨ,ɔtɑpsi
+刀,dāo,,now,,0.25,tɑʊ,naʊ
+导游,dǎo yóu,,radio,,0.5357142857142857,tɑʊyoʊ,reɪdioʊ
+到处,dào chù,,entitled,,0.6388888888888888,tɑʊʈʂʰu,ɛntaɪtəld
+到底,dào dǐ,,lily,,0.45,tɑʊti,lɪli
+道歉,dào qiàn,,householder,,0.5909090909090908,tɑʊtɕʰjɛn,haʊshoʊldər
+得意,dé yì,,to,,0.5,tɤi,tɪ
+等,děng,,hong,,0.3333333333333333,tɤŋ,hɔŋ
+等,děng,,hong,,0.3333333333333333,tɤŋ,hɔŋ
+底,dǐ,,to,,0.25,ti,tɪ
+地球,dì qiú,,peterborough,,0.55,titɕʰjoʊ,pitərbəroʊ
+地址,dì zhǐ,,teams,,0.5,tiʈʂɨ,timz
+掉,diào,,trout,,0.4,tjɑʊ,traʊt
+调查,diào chá,,department,,0.7,tjɑʊʈʂʰa,dɪpɑrtmənt
+丢,diū,,rico,,0.4,tjoʊ,rikoʊ
+动作,dòng zuò,,discontinued,,0.7291666666666666,tʊŋtswɔ,dɪskəntɪnjud
+堵车,dǔ chē,,testimony,,0.7,tuʈʂʰɤ,tɛstɪmoʊni
+肚子,dù zi,,test,,0.5,tutsɯ,tɛst
+断,duàn,,twice,,0.4,twan,twaɪs
+对,duì,,day,,0.375,tweɪ,deɪ
+对,duì,,day,,0.375,tweɪ,deɪ
+对话,duì huà,,typically,,0.59375,tweɪxwa,tɪpɪkəli
+对面,duì miàn,,titanium,,0.45,tweɪmjɛn,taɪteɪniəm
+顿,dùn,,when,,0.3125,twən,wɪn
+朵,duǒ,,to,,0.5833333333333333,twɔ,tɪ
+而,ér,,was,,0.5833333333333333,ɑɻ,wɑz
+儿童,ér tóng,,using,,0.6249999999999999,ɑɻtʰʊŋ,juzɪŋ
+发,fā,,far,,0.3333333333333333,fa,fɑr
+发生,fā shēng,,barack,,0.45,faʂɤŋ,bɑrək
+发展,fā zhǎn,,past,,0.4583333333333332,faʈʂan,pæst
+法律,fǎ lǜ,,filed,,0.4,faly,faɪld
+翻译,fān yì,,fancy,,0.2,fani,fænsi
+烦恼,fán nǎo,,band,,0.4166666666666666,fannɑʊ,bænd
+反对,fǎn duì,,venezuela,,0.45,fantweɪ,vɛnɪzweɪlə
+反映,fǎn yìng,,founding,,0.3571428571428571,faniŋ,faʊndɪŋ
+范围,fàn wéi,,monday,,0.375,fanweɪ,məndeɪ
+方法,fāng fǎ,,final,,0.5833333333333333,fɑŋfa,faɪnəl
+方面,fāng miàn,,vaccination,,0.5227272727272727,fɑŋmjɛn,væksəneɪʃən
+方向,fāng xiàng,,functions,,0.59375,fɑŋɕjɑŋ,fəŋkʃənz
+访问,fǎng wèn,,between,,0.4583333333333332,fɑŋwən,bɪtwin
+放弃,fàng qì,,bangladesh,,0.5625,fɑŋtɕʰi,bæŋlədɛʃ
+放暑假,fàng shǔ jià,,vice-president,,0.673076923076923,fɑŋʂutɕja,vaɪsprɛzədənt
+分之,fēn zhī,,monday,,0.4583333333333332,fənʈʂɨ,məndeɪ
+份,fèn,,often,,0.25,fən,ɔfən
+风景,fēng jǐng,,supporting,,0.59375,fɤŋtɕiŋ,səpɔrtɪŋ
+丰富,fēng fù,,fact,,0.6000000000000001,fɤŋfu,fækt
+否则,fǒu zé,,forts,,0.3749999999999999,foʊtsɤ,fɔrts
+符合,fú hé,,franco,,0.6428571428571428,fuxɤ,fræŋkoʊ
+富,fù,,mu,,0.25,fu,mu
+负责,fù zé,,pools,,0.45,futsɤ,pulz
+复印,fù yìn,,peruvian,,0.53125,fuin,pəruviən
+复杂,fù zá,,pools,,0.45,futsa,pulz
+父亲,fù qīn,,lieutenant,,0.59375,futɕʰin,lutɛnənt
+改变,gǎi biàn,,canadian,,0.4166666666666667,kaɪpjɛn,kəneɪdiən
+干杯,gān bēi,,canada,,0.3749999999999999,kanpeɪ,kænədə
+干燥,gān zào,,county,,0.4999999999999999,kantsɑʊ,kaʊnti
+感动,gǎn dòng,,writing,,0.4166666666666666,kantʊŋ,raɪtɪŋ
+感觉,gǎn jué,,countries,,0.4999999999999999,kantɕɥœ,kəntriz
+感情,gǎn qíng,,contribute,,0.575,kantɕʰiŋ,kəntrɪbjut
+感谢,gǎn xiè,,godzilla,,0.5357142857142856,kanɕjɛ,gɑdzɪlə
+干,gàn,,can,,0.25,kan,kən
+刚刚,gāng gang,,lanka,,0.4583333333333333,kɑŋkɑŋ,læŋkə
+高级,gāo jí,,widely,,0.4583333333333332,kɑʊtɕi,waɪdli
+个子,gè zi,,called,,0.5,kɤtsɯ,kɔld
+各,gè,,co,,0.4999999999999999,kɤ,koʊ
+公里,gōng lǐ,,weekly,,0.45,kʊŋli,wikli
+工具,gōng jù,,court,,0.6249999999999999,kʊŋtɕy,kɔrt
+工资,gōng zī,,curator,,0.5625,kʊŋtsɯ,kjʊrətər
+共同,gòng tóng,,controlled,,0.6388888888888888,kʊŋtʰʊŋ,kəntroʊld
+够,gòu,,coach,,0.25,koʊ,koʊʧ
+购物,gòu wù,,quotes,,0.4583333333333333,koʊu,kwoʊts
+孤单,gū dān,,queen,,0.4,kutan,kwin
+估计,gū jì,,july,,0.6000000000000001,kutɕi,ʤulaɪ
+鼓励,gǔ lì,,julia,,0.45,kuli,ʤuljə
+鼓掌,gǔ zhǎng,,july,,0.6249999999999999,kuʈʂɑŋ,ʤulaɪ
+顾客,gù kè,,king,,0.7,kukʰɤ,kɪŋ
+故意,gù yì,,quickly,,0.5416666666666666,kui,kwɪkli
+挂,guà,,kumar,,0.45,kwa,kumɑr
+关键,guān jiàn,,constellation,,0.5208333333333334,kwantɕjɛn,kɑnstəleɪʃən
+观众,guān zhòng,,acquaintance,,0.5750000000000001,kwanʈʂʊŋ,əkweɪntəns
+管理,guǎn lǐ,,rwanda,,0.4583333333333332,kwanli,ruɑndə
+光,guāng,,kumar,,0.45,kwɑŋ,kumɑr
+广播,guǎng bō,,required,,0.6666666666666666,kwɑŋpwɔ,rikwaɪərd
+广告,guǎng gào,,squadron,,0.59375,kwɑŋkɑʊ,skwɑdrən
+逛,guàng,,kumar,,0.45,kwɑŋ,kumɑr
+规定,guī dìng,,quantities,,0.4166666666666666,kweɪtiŋ,kwɑntətiz
+国际,guó jì,,quantum,,0.4999999999999999,kwɔtɕi,kwɑntəm
+果然,guǒ rán,,qualified,,0.4999999999999999,kwɔʐan,kwɑləfaɪd
+过,guò,,square,,0.5,kwɔ,skwɛr
+过,guò,,square,,0.5,kwɔ,skwɛr
+过程,guò chéng,,queensland,,0.6388888888888888,kwɔʈʂʰɤŋ,kwinzlænd
+海洋,hǎi yáng,,capital,,0.5357142857142857,xaɪjɑŋ,kæpɪtəl
+害羞,hài xiū,,video,,0.4642857142857142,xaɪɕjoʊ,vɪdioʊ
+寒假,hán jià,,soundtrack,,0.5625,xantɕja,saʊntræk
+汗,hàn,,can,,0.25,xan,kən
+航班,háng bān,,company,,0.4999999999999999,xɑŋpan,kəmpəni
+好处,hǎo chu,,continued,,0.6666666666666666,xɑʊʈʂʰu,kəntɪnjud
+好像,hǎo xiàng,,downtown,,0.59375,xɑʊɕjɑŋ,daʊntaʊn
+号码,hào mǎ,,time,,0.5,xɑʊma,taɪm
+合格,hé gé,,quickly,,0.5833333333333333,xɤkɤ,kwɪkli
+合适,hé shì,,korea,,0.4,xɤʂɨ,kɔriə
+盒子,hé zi,,called,,0.5,xɤtsɯ,kɔld
+猴子,hóu zi,,courts,,0.3749999999999999,xoʊtsɯ,kɔrts
+厚,hòu,,coach,,0.25,xoʊ,koʊʧ
+后悔,hòu huǐ,,locally,,0.4999999999999999,xoʊxweɪ,loʊkəli
+后来,hòu lái,,coincides,,0.45,xoʊlaɪ,koʊɪnsaɪdz
+忽然,hū rán,,juan,,0.45,xuʐan,wɑn
+互相,hù xiāng,,qualifying,,0.575,xuɕjɑŋ,kwɑləfaɪɪŋ
+护士,hù shi,,actually,,0.5357142857142857,xuʂɨ,ækʧuəli
+怀疑,huái yí,,while,,0.4,xwaɪi,waɪl
+回忆,huí yì,,came,,0.4,xweɪi,keɪm
+活动,huó dòng,,killing,,0.4583333333333332,xwɔtʊŋ,kɪlɪŋ
+活泼,huó po,,california,,0.7,xwɔpʰwɔ,kæləfɔrnjə
+火,huǒ,,square,,0.5,xwɔ,skwɛr
+获得,huò dé,,called,,0.5,xwɔtɤ,kɔld
+基础,jī chǔ,,treatments,,0.6666666666666666,tɕiʈʂʰu,tritmənts
+激动,jī dòng,,leading,,0.4166666666666666,tɕitʊŋ,lidɪŋ
+积极,jī jí,,totally,,0.4999999999999999,tɕitɕi,toʊtəli
+积累,jī lěi,,everyday,,0.4999999999999999,tɕileɪ,ɛvrideɪ
+极其,jí qí,,treatment,,0.59375,tɕitɕʰi,tritmənt
+即使,jí shǐ,,species,,0.5,tɕiʂɨ,spiʃiz
+及时,jí shí,,species,,0.5,tɕiʂɨ,spiʃiz
+集合,jí hé,,streets,,0.6249999999999999,tɕixɤ,strits
+寄,jì,,to,,0.5,tɕi,tɪ
+继续,jì xù,,issue,,0.55,tɕiɕy,ɪʃu
+记者,jì zhě,,teams,,0.5833333333333333,tɕiʈʂɤ,timz
+计划,jì huà,,three-quarters,,0.6590909090909092,tɕixwa,θrikwɔrtərz
+技术,jì shù,,these,,0.6000000000000001,tɕiʂu,ðiz
+既然,jì rán,,station,,0.4999999999999999,tɕiʐan,steɪʃən
+家具,jiā jù,,stylized,,0.6388888888888888,tɕjatɕy,staɪlaɪzd
+加班,jiā bān,,decided,,0.59375,tɕjapan,dɪsaɪdɪd
+加油站,jiā yóu zhàn,,socioeconomic,,0.7,tɕjayoʊʈʂan,soʊsioʊɛkənɑmɪk
+假,jiǎ,,july,,0.7,tɕja,ʤulaɪ
+价格,jià gé,,transactions,,0.6590909090909092,tɕjakɤ,trænzækʃənz
+坚持,jiān chí,,demonstration,,0.6730769230769231,tɕjɛnʈʂʰɨ,dɛmənstreɪʃən
+减肥,jiǎn féi,,orientation,,0.5454545454545454,tɕjɛnfeɪ,ɔriɛnteɪʃən
+减少,jiǎn shǎo,,institutionalized,,0.671875,tɕjɛnʂɑʊ,ɪnstɪtuʃənəlaɪzd
+将来,jiāng lái,,transaction,,0.575,tɕjɑŋlaɪ,trænzækʃən
+奖金,jiǎng jīn,,exploitation,,0.673076923076923,tɕjɑŋtɕin,ɛksplɔɪteɪʃən
+降低,jiàng dī,,increasingly,,0.6363636363636364,tɕjɑŋti,ɪnkrisɪŋgli
+交,jiāo,,now,,0.55,tɕjɑʊ,naʊ
+交流,jiāo liú,,superhero,,0.625,tɕjɑʊljoʊ,supərhiroʊ
+交通,jiāo tōng,,psychiatric,,0.625,tɕjɑʊtʰʊŋ,saɪkiætrɪk
+骄傲,jiāo ào,,surviving,,0.6388888888888888,tɕjɑʊɑʊ,sərvaɪvɪŋ
+饺子,jiǎo zi,,immediately,,0.6388888888888888,tɕjɑʊtsɯ,ɪmidiətli
+教授,jiào shòu,,antonio,,0.6388888888888888,tɕjɑʊʂoʊ,æntoʊnioʊ
+教育,jiào yù,,two,,0.6666666666666666,tɕjɑʊy,tu
+接受,jiē shòu,,ontario,,0.59375,tɕjɛʂoʊ,ɑntɛrioʊ
+节约,jié yuē,,historical,,0.7,tɕjɛɥœ,hɪstɔrɪkəl
+结果,jié guǒ,,protection,,0.6666666666666666,tɕjɛkwɔ,prətɛkʃən
+解释,jiě shì,,stationary,,0.575,tɕjɛʂɨ,steɪʃənɛri
+紧张,jǐn zhāng,,lifestyle,,0.6388888888888888,tɕinʈʂɑŋ,laɪfstaɪl
+尽管,jǐn guǎn,,tournament,,0.6388888888888888,tɕinkwan,tʊrnəmənt
+进行,jìn xíng,,tradition,,0.59375,tɕinɕiŋ,trədɪʃən
+禁止,jìn zhǐ,,cemetery,,0.59375,tɕinʈʂɨ,sɛmɪtɛri
+精彩,jīng cǎi,,understanding,,0.7291666666666666,tɕiŋtsʰaɪ,əndərstændɪŋ
+精神,jīng shén,,restriction,,0.5249999999999999,tɕiŋʂən,ristrɪkʃən
+经济,jīng jì,,washington,,0.59375,tɕiŋtɕi,wɔʃɪŋtən
+经历,jīng lì,,literally,,0.5625,tɕiŋli,lɪtərəli
+经验,jīng yàn,,creation,,0.5625,tɕiŋjɛn,krieɪʃən
+京剧,Jīng jù,,frequently,,0.7,tɕiŋtɕy,frikwɛntli
+警察,jǐng chá,,distinguish,,0.7499999999999999,tɕiŋʈʂʰa,dɪstɪŋgwɪʃ
+竟然,jìng rán,,direction,,0.59375,tɕiŋʐan,dɪrɛkʃɪn
+竞争,jìng zhēng,,deteriorating,,0.673076923076923,tɕiŋʈʂɤŋ,dɪtɪriəreɪtɪŋ
+镜子,jìng zi,,washington,,0.59375,tɕiŋtsɯ,wɔʃɪŋtən
+究竟,jiū jìng,,circulating,,0.6458333333333334,tɕjoʊtɕiŋ,sərkjəleɪtɪŋ
+举办,jǔ bàn,,tribune,,0.4999999999999999,tɕypan,trɪbjun
+拒绝,jù jué,,northeastern,,0.7499999999999999,tɕytɕɥœ,nɔrθistərn
+距离,jù lí,,duty,,0.4,tɕyli,duti
+开玩笑,kāi wán xiào,,union,,0.6818181818181818,kʰaɪwanɕjɑʊ,junjən
+看法,kàn fǎ,,can,,0.6249999999999999,kʰanfa,kən
+考虑,kǎo lǜ,,crowded,,0.5357142857142857,kʰɑʊly,kraʊdɪd
+棵,kē,,class,,0.625,kʰɤ,klæs
+科学,kē xué,,composing,,0.7499999999999999,kʰɤɕɥœ,kəmpoʊzɪŋ
+咳嗽,ké sou,,chromosome,,0.5750000000000001,kʰɤsoʊ,kroʊməzoʊm
+可怜,kě lián,,criterion,,0.525,kʰɤljɛn,kraɪtɪriən
+可是,kě shì,,class,,0.55,kʰɤʂɨ,klæs
+可惜,kě xī,,cash,,0.55,kʰɤɕi,kæʃ
+肯定,kěn dìng,,coinciding,,0.5227272727272727,kʰəntiŋ,koʊənsaɪdɪŋ
+空气,kōng qì,,conjunction,,0.7,kʰʊŋtɕʰi,kənʤəŋkʃən
+恐怕,kǒng pà,,coefficient,,0.7,kʰʊŋpʰa,koʊəfɪʃənt
+苦,kǔ,,co,,0.5833333333333333,kʰu,koʊ
+宽,kuān,,yuan,,0.45,kʰwan,juɑn
+困,kùn,,wuhan,,0.45,kʰwən,wuən
+困难,kùn nan,,corresponded,,0.5454545454545454,kʰwənnan,kɔrəspɑndɪd
+扩大,kuò dà,,war,,0.6249999999999999,kʰwɔta,wɔr
+拉,lā,,raw,,0.25,la,rɑ
+垃圾桶,lā jī tǒng,,transporting,,0.5909090909090908,latɕitʰʊŋ,trænspɔrtɪŋ
+辣,là,,raw,,0.25,la,rɑ
+来不及,lái bu jí,,probability,,0.5454545454545454,laɪputɕi,prɑbəbɪləti
+来得及,lái de jí,,hospitality,,0.5227272727272727,laɪtɤtɕi,hɑspətæləti
+懒,lǎn,,line,,0.25,lan,laɪn
+浪费,làng fèi,,saturday,,0.4999999999999999,lɑŋfeɪ,sætɪdeɪ
+浪漫,làng màn,,climate,,0.4999999999999999,lɑŋman,klaɪmɪt
+老虎,lǎo hǔ,,life,,0.5,lɑʊxu,laɪf
+冷静,lěng jìng,,recording,,0.59375,lɤŋtɕiŋ,rɪkɔrdɪŋ
+礼貌,lǐ mào,,depot,,0.4,limɑʊ,dipoʊ
+理发,lǐ fà,,rematch,,0.4,lifa,rimæʧ
+理解,lǐ jiě,,restriction,,0.575,litɕjɛ,ristrɪkʃən
+理想,lǐ xiǎng,,receiving,,0.5357142857142857,liɕjɑŋ,rɪsivɪŋ
+厉害,lì hai,,rico,,0.4,lixaɪ,rikoʊ
+力气,lì qi,,palestinian,,0.6590909090909091,litɕʰi,pælɪstɪniən
+例如,lì rú,,resumed,,0.5416666666666666,liʐu,rɪzumd
+俩,liǎ,,levi,,0.45,lja,livaɪ
+连,lián,,season,,0.45,ljɛn,sizən
+联系,lián xì,,royalty,,0.5357142857142856,ljɛnɕi,rɔɪəlti
+凉快,liáng kuai,,nationwide,,0.625,ljɑŋkʰwaɪ,neɪʃənwaɪd
+亮,liàng,,yang,,0.25,ljɑŋ,jæŋ
+聊天,liáo tiān,,redistribution,,0.5892857142857143,ljɑʊtʰjɛn,ridɪstrəbjuʃən
+另外,lìng wài,,decline,,0.5357142857142857,liŋwaɪ,dɪklaɪn
+留,liú,,trio,,0.3,ljoʊ,trioʊ
+留学,liú xué,,homosexual,,0.6346153846153846,ljoʊɕɥœ,hoʊmoʊsɛkʃuəl
+流泪,liú lèi,,total,,0.4999999999999999,ljoʊleɪ,toʊtəl
+流利,liú lì,,fiona,,0.4583333333333332,ljoʊli,fioʊnə
+流行,liú xíng,,recording,,0.5625,ljoʊɕiŋ,rɪkɔrdɪŋ
+乱,luàn,,fluid,,0.45,lwan,fluɪd
+律师,lǜ shī,,loose,,0.3125,lyʂɨ,lus
+麻烦,má fan,,main,,0.45,mafan,meɪn
+马虎,mǎ hu,,back,,0.3125,maxu,bæk
+满,mǎn,,men,,0.25,man,mɛn
+毛巾,máo jīn,,mathematician,,0.5227272727272727,mɑʊtɕin,mæθəmətɪʃən
+美丽,měi lì,,baby,,0.25,meɪli,beɪbi
+梦,mèng,,paul,,0.4999999999999999,mɤŋ,pɔl
+密码,mì mǎ,,rematch,,0.4,mima,rimæʧ
+免费,miǎn fèi,,many,,0.4999999999999999,mjɛnfeɪ,mɛni
+民族,mín zú,,contest,,0.5357142857142857,mintsu,kɑntɛst
+母亲,mǔ qīn,,lieutenant,,0.59375,mutɕʰin,lutɛnənt
+目的,mù dì,,duties,,0.35,muti,dutiz
+耐心,nài xīn,,within,,0.4583333333333332,naɪɕin,wɪθɪn
+难道,nán dào,,nazi,,0.4166666666666666,nantɑʊ,nɑtsi
+难受,nán shòu,,madison,,0.4999999999999999,nanʂoʊ,mædɪsən
+内,nèi,,days,,0.3125,neɪ,deɪz
+内容,nèi róng,,writing,,0.4583333333333332,neɪʐʊŋ,raɪtɪŋ
+能力,néng lì,,valley,,0.45,nɤŋli,væli
+年龄,nián líng,,infantry,,0.5625,njɛnliŋ,ɪnfəntri
+农村,nóng cūn,,entertainment,,0.6458333333333333,nʊŋtsʰwən,ɛnərteɪnmənt
+弄,nòng,,known,,0.5,nʊŋ,noʊn
+暖和,nuǎn huo,,continued,,0.6666666666666666,nwanxwɔ,kəntɪnjud
+偶尔,ǒu ěr,,royal,,0.6000000000000001,oʊɑɻ,rɔɪəl
+排列,pái liè,,stadium,,0.59375,pʰaɪljɛ,steɪdiəm
+判断,pàn duàn,,maintain,,0.46875,pʰantwan,meɪnteɪn
+陪,péi,,frame,,0.45,pʰeɪ,freɪm
+批评,pī píng,,neighboring,,0.59375,pʰipʰiŋ,neɪbərɪŋ
+皮肤,pí fū,,prepare,,0.5416666666666666,pʰifu,pripɛr
+脾气,pí qi,,previously,,0.6388888888888888,pʰitɕʰi,priviəsli
+篇,piān,,born,,0.55,pʰjɛn,bɔrn
+骗,piàn,,born,,0.55,pʰjɛn,bɔrn
+乒乓球,pīng pāng qiú,,intercontinental,,0.796875,pʰiŋpʰɑŋtɕʰjoʊ,ɪntərkɑntənɛntəl
+平时,píng shí,,being,,0.5833333333333333,pʰiŋʂɨ,biɪŋ
+瓶子,píng zi,,freestyle,,0.5625,pʰiŋtsɯ,fristaɪl
+破,pò,,baldwin,,0.6428571428571429,pʰwɔ,bɔldwən
+普遍,pǔ biàn,,improvement,,0.55,pʰupjɛn,ɪmpruvmənt
+其次,qí cì,,statistics,,0.675,tɕʰitsʰɯ,stətɪstɪks
+其中,qí zhōng,,consisting,,0.6388888888888888,tɕʰiʈʂʊŋ,kənsɪstɪŋ
+起飞,qǐ fēi,,heavyweight,,0.59375,tɕʰifeɪ,hɛviweɪt
+起来,qi lai,,transatlantic,,0.6249999999999999,tɕʰilaɪ,trænzətlænɪk
+气候,qì hòu,,mexico,,0.59375,tɕʰixoʊ,mɛksəkoʊ
+千万,qiān wàn,,circulation,,0.6458333333333333,tɕʰjɛnwan,sərkjəleɪʃən
+签证,qiān zhèng,,until,,0.7250000000000001,tɕʰjɛnʈʂɤŋ,əntɪl
+墙,qiáng,,young,,0.6249999999999999,tɕʰjɑŋ,jəŋ
+敲,qiāo,,time,,0.6666666666666666,tɕʰjɑʊ,taɪm
+桥,qiáo,,time,,0.6666666666666666,tɕʰjɑʊ,taɪm
+巧克力,qiǎo kè lì,,only,,0.7272727272727273,tɕʰjɑʊkʰɤli,oʊnli
+亲戚,qīn qi,,stimulation,,0.7291666666666666,tɕʰintɕʰi,stɪmjəleɪʃən
+轻,qīng,,to,,0.7,tɕʰiŋ,tɪ
+轻松,qīng sōng,,deteriorating,,0.6730769230769231,tɕʰiŋsʊŋ,dɪtɪriəreɪtɪŋ
+情况,qíng kuàng,,took,,0.75,tɕʰiŋkʰwɑŋ,tʊk
+请假,qǐng jià,,institutionalized,,0.765625,tɕʰiŋtɕja,ɪnstɪtuʃənəlaɪzd
+请客,qǐng kè,,stereotypical,,0.7678571428571428,tɕʰiŋkʰɤ,stɛrioʊtɪpɪkəl
+穷,qióng,,house,,0.6666666666666666,tɕʰjʊŋ,haʊs
+区别,qū bié,,australian,,0.7,tɕʰypjɛ,ɔstreɪljən
+取,qǔ,,matthew,,0.6499999999999999,tɕʰy,mæθju
+全部,quán bù,,traditional,,0.7,tɕʰɥœnpu,trədɪʃənəl
+缺点,quē diǎn,,metropolitan,,0.6458333333333333,tɕʰɥœtjɛn,mɛtrəpɑlətən
+缺少,quē shǎo,,stabilization,,0.7321428571428572,tɕʰɥœʂɑʊ,steɪbələzeɪʃən
+却,què,,southwestern,,0.7727272727272727,tɕʰɥœ,saʊθwɛstərn
+确实,què shí,,additionally,,0.6388888888888888,tɕʰɥœʂɨ,ədɪʃənəli
+群,qún,,through,,0.6000000000000001,tɕʰyn,θru
+然而,rán ér,,final,,0.5833333333333333,ʐanɑɻ,faɪnəl
+热闹,rè nao,,wanted,,0.5833333333333333,ʐɤnɑʊ,wɔntɪd
+人民币,rén mín bì,,environmentally,,0.6071428571428571,ʐənminpi,ɪnvaɪrənmɛnəli
+任何,rèn hé,,country,,0.6249999999999999,ʐənxɤ,kəntri
+任务,rèn wu,,isn't,,0.45,ʐənu,ɪzənt
+扔,rēng,,along,,0.5,ʐɤŋ,əlɔŋ
+仍然,réng rán,,began,,0.6249999999999999,ʐɤŋʐan,bɪgæn
+日记,rì jì,,that,,0.6000000000000001,ʐɨtɕi,ðət
+入口,rù kǒu,,low,,0.6249999999999999,ʐukʰoʊ,loʊ
+软,ruǎn,,sworn,,0.45,ʐwan,swɔrn
+散步,sàn bù,,amp,,0.5,sanpu,æmp
+森林,sēn lín,,sydney,,0.3749999999999999,sənlin,sɪdni
+沙发,shā fā,,having,,0.45,ʂafa,hævɪŋ
+商量,shāng liang,,satellite,,0.59375,ʂɑŋljɑŋ,sætəlaɪt
+伤心,shāng xīn,,high-speed,,0.4999999999999999,ʂɑŋɕin,haɪspid
+稍微,shāo wēi,,sway,,0.3749999999999999,ʂɑʊweɪ,sweɪ
+社会,shè huì,,square,,0.4166666666666666,ʂɤxweɪ,skwɛr
+深,shēn,,sons,,0.3125,ʂən,sənz
+申请,shēn qǐng,,considering,,0.575,ʂəntɕʰiŋ,kənsɪdərɪŋ
+甚至,shèn zhì,,assembly,,0.5357142857142857,ʂənʈʂɨ,əsɛmbli
+生活,shēng huó,,frankfurt,,0.6388888888888888,ʂɤŋxwɔ,fræŋkfərt
+生命,shēng mìng,,calling,,0.6249999999999999,ʂɤŋmiŋ,kɔlɪŋ
+省,shěng,,songs,,0.375,ʂɤŋ,sɔŋz
+剩,shèng,,songs,,0.375,ʂɤŋ,sɔŋz
+失败,shī bài,,by,,0.4,ʂɨpaɪ,baɪ
+失望,shī wàng,,leading,,0.5,ʂɨwɑŋ,lidɪŋ
+师傅,shī fu,,review,,0.35,ʂɨfu,rivju
+湿润,shī rùn,,system,,0.4583333333333332,ʂɨʐwən,sɪstəm
+狮子,shī zi,,city,,0.45,ʂɨtsɯ,sɪti
+十分,shí fēn,,seated,,0.35,ʂɨfən,sitɪd
+实际,shí jì,,henry,,0.55,ʂɨtɕi,hɛnri
+实在,shí zài,,sometimes,,0.5625,ʂɨtsaɪ,səmtaɪmz
+食品,shí pǐn,,symphony,,0.5357142857142856,ʂɨpʰin,sɪmfəni
+使用,shǐ yòng,,having,,0.55,ʂɨyʊŋ,hævɪŋ
+试,shì,,t,,0.375,ʂɨ,ti
+市场,shì chǎng,,consisting,,0.6666666666666666,ʂɨʈʂʰɑŋ,kənsɪstɪŋ
+世纪,shì jì,,henry,,0.55,ʂɨtɕi,hɛnri
+适合,shì hé,,sitcom,,0.5416666666666666,ʂɨxɤ,sɪtkɑm
+适应,shì yìng,,hearing,,0.4,ʂɨiŋ,hirɪŋ
+收,shōu,,soul,,0.3125,ʂoʊ,soʊl
+收入,shōu rù,,both,,0.55,ʂoʊʐu,boʊθ
+收拾,shōu shi,,those,,0.45,ʂoʊʂɨ,ðoʊz
+首都,shǒu dū,,holding,,0.5357142857142857,ʂoʊtu,hoʊldɪŋ
+首先,shǒu xiān,,romanian,,0.525,ʂoʊɕjɛn,roʊmeɪniən
+受不了,shòu bù liǎo,,locomotives,,0.625,ʂoʊpuljɑʊ,loʊkəmoʊtɪvz
+受到,shòu dào,,total,,0.4166666666666666,ʂoʊtɑʊ,toʊtəl
+售货员,shòu huò yuán,,associated,,0.5909090909090909,ʂoʊxwɔɥœn,əsoʊʃieɪtəd
+输,shū,,two,,0.375,ʂu,tu
+熟悉,shú xī,,suzuki,,0.5416666666666666,ʂuɕi,səzuki
+数量,shù liàng,,suicide,,0.5357142857142857,ʂuljɑŋ,suɪsaɪd
+数字,shù zì,,lucy,,0.45,ʂutsɯ,lusi
+帅,shuài,,quite,,0.4,ʂwaɪ,kwaɪt
+顺便,shùn biàn,,assassination,,0.5454545454545454,ʂwənpjɛn,əsæsəneɪʃən
+顺利,shùn lì,,holy,,0.4583333333333332,ʂwənli,hoʊli
+顺序,shùn xù,,were,,0.6249999999999999,ʂwənɕy,wər
+说明,shuō míng,,winning,,0.4583333333333332,ʂwɔmiŋ,wɪnɪŋ
+硕士,shuò shì,,city,,0.55,ʂwɔʂɨ,sɪti
+死,sǐ,,some,,0.5,sɯ,səm
+速度,sù dù,,suites,,0.45,sutu,swits
+塑料袋,sù liào dài,,supervisors,,0.6249999999999999,suljɑʊtaɪ,supərvaɪzərz
+酸,suān,,sichuan,,0.3333333333333333,swan,sɪʧwɑn
+算,suàn,,sichuan,,0.3333333333333333,swan,sɪʧwɑn
+随便,suí biàn,,citation,,0.4999999999999999,sweɪpjɛn,saɪteɪʃən
+随着,suí zhe,,stadium,,0.5625,sweɪʈʂɤ,steɪdiəm
+孙子,sūn zi,,central,,0.4999999999999999,swəntsɯ,sɛntrəl
+所有,suǒ yǒu,,sumo,,0.375,swɔyoʊ,sumoʊ
+抬,tái,,to,,0.5,tʰaɪ,tɪ
+台,tái,,to,,0.5,tʰaɪ,tɪ
+态度,tài du,,titled,,0.5357142857142857,tʰaɪtu,taɪtəld
+谈,tán,,had,,0.5,tʰan,hæd
+弹,tán,,town,,0.25,tan,taʊn
+汤,tāng,,tracks,,0.5,tʰɑŋ,træks
+躺,tǎng,,tracks,,0.5,tʰɑŋ,træks
+趟,tàng,,tracks,,0.5,tʰɑŋ,træks
+讨论,tǎo lùn,,institution,,0.575,tʰɑʊlwən,ɪnstɪtuʃən
+讨厌,tǎo yàn,,decided,,0.59375,tʰɑʊjɛn,dɪsaɪdɪd
+特点,tè diǎn,,sustained,,0.5625,tʰɤtjɛn,səsteɪnd
+提供,tí gōng,,breaking,,0.5357142857142857,tʰikʊŋ,breɪkɪŋ
+提前,tí qián,,investigation,,0.673076923076923,tʰitɕʰjɛn,ɪnvɛstəgeɪʃən
+提醒,tí xǐng,,being,,0.5833333333333333,tʰiɕiŋ,biɪŋ
+填空,tián kòng,,decision-making,,0.6730769230769231,tʰjɛnkʰʊŋ,dɪsɪʒənmeɪkɪŋ
+条件,tiáo jiàn,,time,,0.6499999999999999,tʰjɑʊtɕjɛn,taɪm
+停止,tíng zhǐ,,immediately,,0.6666666666666666,tʰiŋʈʂɨ,ɪmidiətli
+挺,tǐng,,defeating,,0.6428571428571428,tʰiŋ,dɪfitɪŋ
+通过,tōng guò,,disclosure,,0.7499999999999999,tʰʊŋkwɔ,dɪskloʊʒər
+通知,tōng zhī,,located,,0.6666666666666666,tʰʊŋʈʂɨ,loʊkeɪtəd
+同情,tóng qíng,,scientific,,0.7,tʰʊŋtɕʰiŋ,saɪəntɪfɪk
+推,tuī,,way,,0.4,tʰweɪ,weɪ
+推迟,tuī chí,,dictatorship,,0.6458333333333334,tʰweɪʈʂʰɨ,dɪkteɪtərʃɪp
+脱,tuō,,thomas,,0.7,tʰwɔ,tɑməs
+袜子,wà zi,,that's,,0.4,watsɯ,ðæts
+完全,wán quán,,prostitution,,0.5909090909090908,wantɕʰɥœn,prɑstətuʃən
+往,wǎng,,wing,,0.25,wɑŋ,wɪŋ
+往往,wǎng wǎng,,conquest,,0.59375,wɑŋwɑŋ,kɑŋkwɛst
+网球,wǎng qiú,,barbados,,0.6749999999999999,wɑŋtɕʰjoʊ,bɑrbeɪdoʊs
+网站,wǎng zhàn,,amazon,,0.4999999999999999,wɑŋʈʂan,æməzɑn
+危险,wēi xiǎn,,cooperation,,0.5227272727272727,weɪɕjɛn,kwɔpəreɪʃən
+味道,wèi dao,,ratio,,0.4999999999999999,weɪtɑʊ,reɪʃioʊ
+温度,wēn dù,,one,,0.4,wəntu,wən
+文章,wén zhāng,,consists,,0.5625,wənʈʂɑŋ,kənsɪsts
+握手,wò shǒu,,westwood,,0.4999999999999999,wɔʂoʊ,wɛstwʊd
+污染,wū rǎn,,one-man,,0.45,uʐan,wəmæn
+无,wú,,new,,0.5,u,nu
+无聊,wú liáo,,july,,0.45,uljɑʊ,ʤulaɪ
+无论,wú lùn,,played,,0.5,ulwən,pleɪd
+误会,wù huì,,squire,,0.4166666666666666,uxweɪ,skwaɪr
+西红柿,xī hóng shì,,increasingly,,0.6363636363636362,ɕixʊŋʂɨ,ɪnkrisɪŋgli
+吸引,xī yǐn,,dvd,,0.5416666666666666,ɕiin,dividi
+洗衣机,xǐ yī jī,,east,,0.6249999999999999,ɕiitɕi,ist
+咸,xián,,season,,0.45,ɕjɛn,sizən
+现代,xiàn dài,,currently,,0.5625,ɕjɛntaɪ,kərəntli
+羡慕,xiàn mù,,then,,0.5833333333333333,ɕjɛnmu,ðɛn
+限制,xiàn zhì,,head,,0.6071428571428571,ɕjɛnʈʂɨ,hɛd
+香,xiāng,,zhejiang,,0.35,ɕjɑŋ,ʒiʤɑŋ
+相反,xiāng fǎn,,discovered,,0.6666666666666666,ɕjɑŋfan,dɪskəvərd
+详细,xiáng xì,,reality,,0.5357142857142857,ɕjɑŋɕi,riæləti
+响,xiǎng,,zhejiang,,0.35,ɕjɑŋ,ʒiʤɑŋ
+消息,xiāo xi,,theatrically,,0.575,ɕjɑʊɕi,θiætrɪkəli
+小说,xiǎo shuō,,southeastern,,0.7,ɕjɑʊʂwɔ,saʊθistərn
+笑话,xiào huà,,highlighted,,0.6666666666666666,ɕjɑʊxwa,haɪlaɪtɪd
+效果,xiào guǒ,,triangle,,0.6666666666666666,ɕjɑʊkwɔ,traɪæŋgəl
+心情,xīn qíng,,mainstream,,0.6388888888888888,ɕintɕʰiŋ,meɪnstrim
+辛苦,xīn kǔ,,new,,0.6666666666666666,ɕinkʰu,nu
+信任,xìn rèn,,written,,0.4583333333333332,ɕinʐən,rɪtən
+信心,xìn xīn,,theologian,,0.575,ɕinɕin,θiəloʊʤiən
+信用卡,xìn yòng kǎ,,communications,,0.7678571428571429,ɕinyʊŋkʰa,kəmjunəkeɪʃənz
+兴奋,xīng fèn,,however,,0.5357142857142857,ɕiŋfən,haʊɛvər
+行,xíng,,hearing,,0.45,ɕiŋ,hirɪŋ
+醒,xǐng,,hearing,,0.45,ɕiŋ,hirɪŋ
+性别,xìng bié,,people,,0.6249999999999999,ɕiŋpjɛ,pipəl
+性格,xìng gé,,bank,,0.55,ɕiŋkɤ,bæŋk
+幸福,xìng fú,,have,,0.6000000000000001,ɕiŋfu,hæv
+修,xiū,,hero,,0.35,ɕjoʊ,hɪroʊ
+许多,xǔ duō,,whose,,0.6000000000000001,ɕytwɔ,huz
+血,xuè,,square,,0.55,ɕɥœ,skwɛr
+压力,yā lì,,italy,,0.45,jali,ɪtəli
+牙膏,yá gāo,,chicago,,0.5357142857142857,jakɑʊ,ʃəkɑgoʊ
+亚洲,Yà zhōu,,diego,,0.5357142857142857,jaʈʂoʊ,dieɪgoʊ
+呀,ya,,yang,,0.3333333333333333,ja,jæŋ
+盐,yán,,yet,,0.25,jɛn,jɛt
+严格,yán gé,,vienna,,0.6000000000000001,jɛnkɤ,viɛnə
+严重,yán zhòng,,electric,,0.5625,jɛnʈʂʊŋ,ɪlɛktrɪk
+研究生,yán jiū shēng,,central,,0.6136363636363635,jɛntɕjoʊʂɤŋ,sɛntrəl
+演出,yǎn chū,,francisco,,0.7,jɛnʈʂʰu,frænsɪskoʊ
+演员,yǎn yuán,,headed,,0.4999999999999999,jɛnɥœn,hɛdɪd
+阳光,yáng guāng,,cycling,,0.5625,jɑŋkwɑŋ,saɪkəlɪŋ
+养成,yǎng chéng,,santiago,,0.7499999999999999,jɑŋʈʂʰɤŋ,sæntiɑgoʊ
+样子,yàng zi,,acts,,0.4166666666666666,jɑŋtsɯ,ækts
+邀请,yāo qǐng,,mainstream,,0.6388888888888888,jɑʊtɕʰiŋ,meɪnstrim
+钥匙,yào shi,,out,,0.55,jɑʊʂɨ,aʊt
+也许,yě xǔ,,u,,0.5,jɛɕy,ju
+页,yè,,ia,,0.25,jɛ,iə
+叶子,yè zi,,west,,0.5,jɛtsɯ,wɛst
+一切,yī qiè,,street,,0.6666666666666666,itɕʰjɛ,strit
+以,yǐ,,he,,0.5,i,hi
+亿,yì,,he,,0.5,i,hi
+意见,yì jiàn,,european,,0.5625,itɕjɛn,jʊrəpiən
+艺术,yì shù,,who,,0.5,iʂu,hu
+因此,yīn cǐ,,until,,0.6249999999999999,intsʰɯ,əntɪl
+引起,yǐn qǐ,,until,,0.6249999999999999,intɕʰi,əntɪl
+饮料,yǐn liào,,countryside,,0.575,inljɑʊ,kəntrisaɪd
+印象,yìn xiàng,,meaning,,0.5833333333333333,inɕjɑŋ,minɪŋ
+赢,yíng,,being,,0.5,iŋ,biɪŋ
+硬,yìng,,being,,0.5,iŋ,biɪŋ
+勇敢,yǒng gǎn,,would,,0.5833333333333333,yʊŋkan,wʊd
+永远,yǒng yuǎn,,well,,0.6249999999999999,yʊŋɥœn,wɛl
+优点,yōu diǎn,,notably,,0.5625,yoʊtjɛn,noʊtəbli
+优秀,yōu xiù,,kosovo,,0.5,yoʊɕjoʊ,koʊsoʊvoʊ
+幽默,yōu mò,,road,,0.6249999999999999,yoʊmwɔ,roʊd
+由,yóu,,widow,,0.45,yoʊ,wɪdoʊ
+由于,yóu yú,,bollywood,,0.6428571428571428,yoʊy,bɔlɪwʊd
+尤其,yóu qí,,rotational,,0.6363636363636362,yoʊtɕʰi,roʊteɪʃənəl
+有趣,yǒu qù,,households,,0.7499999999999999,yoʊtɕʰy,haʊshoʊldz
+友好,yǒu hǎo,,ohio,,0.5357142857142857,yoʊxɑʊ,oʊhaɪoʊ
+友谊,yǒu yì,,won't,,0.45,yoʊi,woʊnt
+愉快,yú kuài,,volkswagen,,0.6363636363636364,ykʰwaɪ,voʊlkswægən
+于是,yú shì,,lucien,,0.5416666666666666,yʂɨ,lusiɛn
+与,yǔ,,new,,0.5,y,nu
+语法,yǔ fǎ,,v,,0.5833333333333333,yfa,vi
+语言,yǔ yán,,women,,0.4,yjɛn,wɪmən
+羽毛球,yǔ máo qiú,,million,,0.65,ymɑʊtɕʰjoʊ,mɪljən
+预习,yù xí,,unity,,0.6249999999999999,yɕi,junɪti
+圆,yuán,,well,,0.25,ɥœn,wɛl
+原来,yuán lái,,twenty-five,,0.45,ɥœnlaɪ,twɛntifaɪv
+原谅,yuán liàng,,weightlifting,,0.525,ɥœnljɑŋ,weɪtlɪftɪŋ
+原因,yuán yīn,,and,,0.5,ɥœnin,ənd
+约会,yuē huì,,weekday,,0.2916666666666666,ɥœxweɪ,wikdeɪ
+阅读,yuè dú,,wesley,,0.45,ɥœtu,wɛsli
+允许,yǔn xǔ,,one-third,,0.6428571428571428,ynɕy,wənθərd
+杂志,zá zhì,,stochastic,,0.575,tsaʈʂɨ,stoʊkæstɪk
+咱们,zán men,,tried,,0.3749999999999999,tsamən,traɪd
+暂时,zàn shí,,francis,,0.4999999999999999,tsanʂɨ,frænsɪs
+脏,zāng,,strong,,0.45,tsɑŋ,strɔŋ
+责任,zé rèn,,italian,,0.4999999999999999,tsɤʐən,ɪtæljən
+增加,zēng jiā,,transformation,,0.7321428571428571,tsɤŋtɕja,trænsfərmeɪʃən
+增长,zēng zhǎng,,programming,,0.7,tsɤŋʈʂɑŋ,proʊgræmɪŋ
+窄,zhǎi,,spite,,0.45,ʈʂaɪ,spaɪt
+招聘,zhāo pìn,,transferred,,0.611111111111111,ʈʂɑʊpʰin,trænsfərd
+真正,zhēn zhèng,,scientific,,0.575,ʈʂənʈʂɤŋ,saɪəntɪfɪk
+整理,zhěng lǐ,,holy,,0.4999999999999999,ʈʂɤŋli,hoʊli
+整齐,zhěng qí,,transportation,,0.7321428571428571,ʈʂɤŋtɕʰi,trænspərteɪʃən
+正常,zhèng cháng,,transformations,,0.7666666666666667,ʈʂɤŋʈʂʰɑŋ,trænsfərmeɪʃənz
+正好,zhèng hǎo,,transcribed,,0.6363636363636362,ʈʂɤŋxɑʊ,trænskraɪbd
+正确,zhèng què,,contribution,,0.8124999999999999,ʈʂɤŋtɕʰɥœ,kɑntrəbjuʃən
+正式,zhèng shì,,alongside,,0.59375,ʈʂɤŋʂɨ,əlɔŋsaɪd
+证明,zhèng míng,,proclaiming,,0.6363636363636364,ʈʂɤŋmiŋ,proʊkleɪmɪŋ
+之,zhī,,stacey,,0.5416666666666666,ʈʂɨ,steɪsi
+支持,zhī chí,,explicitly,,0.6363636363636364,ʈʂɨʈʂʰɨ,ɪksplɪsətli
+知识,zhī shi,,city,,0.45,ʈʂɨʂɨ,sɪti
+直接,zhí jiē,,treatment,,0.59375,ʈʂɨtɕjɛ,tritmənt
+值得,zhí de,,set,,0.55,ʈʂɨtɤ,sɛt
+职业,zhí yè,,stadium,,0.59375,ʈʂɨjɛ,steɪdiəm
+植物,zhí wù,,southeast,,0.6428571428571428,ʈʂɨu,saʊθist
+指,zhǐ,,stacey,,0.5416666666666666,ʈʂɨ,steɪsi
+只好,zhǐ hǎo,,season,,0.6249999999999999,ʈʂɨxɑʊ,sizən
+只要,zhǐ yào,,how,,0.5833333333333333,ʈʂɨjɑʊ,haʊ
+制造,zhì zào,,dissatisfaction,,0.6346153846153846,ʈʂɨtsɑʊ,dɪsætɪsfækʃən
+至少,zhì shǎo,,association,,0.6590909090909091,ʈʂɨʂɑʊ,əsoʊʃieɪʃən
+质量,zhì liàng,,louisiana,,0.5625,ʈʂɨljɑŋ,luiziænə
+中文,Zhōng wén,,stadium,,0.59375,ʈʂʊŋwən,steɪdiəm
+重点,zhòng diǎn,,classification,,0.673076923076923,ʈʂʰʊŋtjɛn,klæsəfəkeɪʃən
+重视,zhòng shì,,increasingly,,0.6590909090909091,ʈʂʊŋʂɨ,ɪnkrisɪŋgli
+周围,zhōu wéi,,associates,,0.525,ʈʂoʊweɪ,əsoʊʃieɪts
+猪,zhū,,statue,,0.55,ʈʂu,stæʧu
+逐渐,zhú jiàn,,tournament,,0.6388888888888888,ʈʂutɕjɛn,tʊrnəmənt
+主动,zhǔ dòng,,standing,,0.5357142857142857,ʈʂutʊŋ,stændɪŋ
+主意,zhǔ yi,,smoothly,,0.5416666666666666,ʈʂui,smuðli
+祝贺,zhù hè,,stakes,,0.6249999999999999,ʈʂuxɤ,steɪks
+著名,zhù míng,,groupings,,0.4999999999999999,ʈʂumiŋ,grupɪŋz
+专门,zhuān mén,,women,,0.46875,ʈʂwanmən,wɪmən
+专业,zhuān yè,,stadium,,0.5625,ʈʂwanjɛ,steɪdiəm
+赚,zhuàn,,staff,,0.5,ʈʂwan,stæf
+撞,zhuàng,,track,,0.5,ʈʂwɑŋ,træk
+准确,zhǔn què,,second,,0.675,ʈʂwəntɕʰɥœ,sɛkənd
+准时,zhǔn shí,,consistency,,0.5227272727272727,ʈʂwənʂɨ,kənsɪstənsi
+仔细,zǐ xì,,south,,0.6000000000000001,tsɯɕi,saʊθ
+自然,zì rán,,division,,0.5357142857142857,tsɯʐan,dɪvɪʒən
+总结,zǒng jié,,foundation,,0.7,tsʊŋtɕjɛ,faʊndeɪʃən
+租,zū,,through,,0.5,tsu,θru
+组成,zǔ chéng,,misunderstanding,,0.7333333333333334,tsuʈʂʰɤŋ,mɪsəndərstændɪŋ
+组织,zǔ zhī,,test,,0.6249999999999999,tsuʈʂɨ,tɛst
+嘴,zuǐ,,way,,0.4,tsweɪ,weɪ
+最好,zuì hǎo,,stabilize,,0.575,tsweɪxɑʊ,steɪbəlaɪz
+最后,zuì hòu,,taken,,0.46875,tsweɪxoʊ,teɪkən
+尊重,zūn zhòng,,testosterone,,0.6249999999999999,tswənʈʂʊŋ,tɛstɑstəroʊn
+做生意,zuò shēng yì,,czechoslovakia,,0.673076923076923,tswɔʂɤŋi,ʧɛkəsloʊvɑkiə
+座,zuò,,student,,0.6428571428571428,tswɔ,studənt
+座位,zuò wèi,,statewide,,0.5277777777777778,tswɔweɪ,steɪtwaɪd
+作者,zuò zhě,,basketball,,0.6666666666666666,tswɔʈʂɤ,bæskətbɔl
+唉,āi,,by,,0.3333333333333333,aɪ,baɪ
+爱护,ài hù,,liked,,0.4,aɪxu,laɪkt
+爱惜,ài xī,,irish,,0.45,aɪɕi,aɪrɪʃ
+爱心,ài xīn,,alien,,0.375,aɪɕin,eɪliən
+安慰,ān wèi,,manuel,,0.3749999999999999,anweɪ,mɑnwɛl
+安装,ān zhuāng,,constituting,,0.5227272727272727,anʈʂwɑŋ,kɑnstətutɪŋ
+岸,àn,,am,,0.25,an,æm
+把握,bǎ wò,,part,,0.5,pawɔ,pɑrt
+摆,bǎi,,may,,0.25,paɪ,meɪ
+班主任,bān zhǔ rèn,,unconstitutional,,0.5333333333333333,panʈʂuʐən,ənkɑnstətuʃənəl
+办理,bàn lǐ,,body,,0.25,panli,bɑdi
+棒,bàng,,bank,,0.25,pɑŋ,bæŋk
+傍晚,bàng wǎn,,macleod,,0.5357142857142856,pɑŋwan,məklaʊd
+包裹,bāo guǒ,,powerful,,0.5625,pɑʊkwɔ,paʊərfəl
+包含,bāo hán,,taken,,0.4583333333333332,pɑʊxan,teɪkən
+包子,bāo zi,,mouse,,0.3749999999999999,pɑʊtsɯ,maʊs
+薄,báo,,now,,0.25,pɑʊ,naʊ
+宝贝,bǎo bèi,,powder,,0.3749999999999999,pɑʊpeɪ,paʊdər
+宝贵,bǎo guì,,highway,,0.3571428571428571,pɑʊkweɪ,haɪweɪ
+保持,bǎo chí,,primary,,0.5625,pɑʊʈʂʰɨ,praɪmɛri
+保存,bǎo cún,,switzerland,,0.5909090909090908,pɑʊtsʰwən,swɪtsərlənd
+保留,bǎo liú,,partido,,0.34375,pɑʊljoʊ,pɑrtidoʊ
+保险,bǎo xiǎn,,palestinian,,0.5227272727272727,pɑʊɕjɛn,pælɪstɪniən
+报告,bào gào,,magical,,0.4999999999999999,pɑʊkɑʊ,mæʤɪkəl
+悲观,bēi guān,,paraguayan,,0.4499999999999999,peɪkwan,pɛrəgwaɪən
+被子,bèi zi,,makes,,0.3749999999999999,peɪtsɯ,meɪks
+背,bèi,,day,,0.25,peɪ,deɪ
+背景,bèi jǐng,,party,,0.4642857142857142,peɪtɕiŋ,pɑrti
+本科,běn kē,,publication,,0.6590909090909091,pənkʰɤ,pəblɪkeɪʃən
+本领,běn lǐng,,something,,0.4583333333333332,pənliŋ,səmθɪŋ
+本质,běn zhì,,many,,0.4166666666666666,pənʈʂɨ,mɛni
+比例,bǐ lì,,briefly,,0.3333333333333333,pili,brifli
+比如,bǐ rú,,presumed,,0.5357142857142857,piʐu,prɪzumd
+彼此,bǐ cǐ,,feast,,0.4583333333333332,pitsʰɯ,fist
+必然,bì rán,,visa,,0.45,piʐan,vizə
+必需,bì xū,,preschool,,0.5357142857142857,piɕy,priskul
+必要,bì yào,,before,,0.55,pijɑʊ,bifɔr
+毕竟,bì jìng,,passing,,0.4583333333333332,pitɕiŋ,pæsɪŋ
+避免,bì miǎn,,fusion,,0.4583333333333332,pimjɛn,fjuʒən
+鞭炮,biān pào,,butterflies,,0.575,pjɛnpʰɑʊ,bətərflaɪz
+编辑,biān jí,,many,,0.4642857142857142,pjɛntɕi,mɛni
+便,biàn,,point,,0.4,pjɛn,pɔɪnt
+辩论,biàn lùn,,proportion,,0.4999999999999999,pjɛnlwən,prəpɔrʃən
+标点,biāo diǎn,,population,,0.5454545454545454,pjɑʊtjɛn,pɑpjəleɪʃən
+标志,biāo zhì,,probably,,0.5625,pjɑʊʈʂɨ,prɑbəbli
+表面,biǎo miàn,,prosecution,,0.5454545454545454,pjɑʊmjɛn,prɑsəkjuʃən
+表明,biǎo míng,,housing,,0.4999999999999999,pjɑʊmiŋ,haʊzɪŋ
+表情,biǎo qíng,,programming,,0.625,pjɑʊtɕʰiŋ,proʊgræmɪŋ
+表现,biǎo xiàn,,southeastern,,0.575,pjɑʊɕjɛn,saʊθistərn
+丙,bǐng,,bring,,0.375,piŋ,brɪŋ
+病毒,bìng dú,,into,,0.5,piŋtu,ɪntu
+玻璃,bō li,,paul,,0.4,pwɔli,pɔl
+博物馆,bó wù guǎn,,production,,0.6388888888888888,pwɔukwan,pərdəkʃən
+脖子,bó zi,,awarded,,0.5357142857142857,pwɔtsɯ,əwɔrdɪd
+不必,bù bì,,moved,,0.375,pupi,muvd
+不断,bù duàn,,botswana,,0.375,putwan,bɑtswɑnə
+不见得,bù jiàn de,,protestants,,0.5454545454545454,putɕjɛntɤ,prɑtəstənts
+不耐烦,bù nài fán,,played,,0.5625,punaɪfan,pleɪd
+不要紧,bù yào jǐn,,foundation,,0.625,pujɑʊtɕin,faʊndeɪʃən
+补充,bǔ chōng,,performing,,0.6666666666666666,puʈʂʰʊŋ,pərfɔrmɪŋ
+不安,bù ān,,began,,0.4,puan,bɪgæn
+不得了,bù dé liǎo,,facilities,,0.611111111111111,putɤljɑʊ,fəsɪlɪtiz
+不好意思,bù hǎo yì si,,society,,0.6388888888888888,puxɑʊisɯ,soʊsaɪɪti
+不免,bù miǎn,,champion,,0.4999999999999999,pumjɛn,ʧæmpiən
+不然,bù rán,,fusion,,0.375,puʐan,fjuʒən
+不如,bù rú,,abused,,0.5416666666666666,puʐu,əbjuzd
+不足,bù zú,,roots,,0.4,putsu,ruts
+布,bù,,blue,,0.3333333333333333,pu,blu
+步骤,bù zhòu,,studio,,0.5357142857142857,puʈʂoʊ,studioʊ
+部门,bù mén,,cuban,,0.3749999999999999,pumən,kjubən
+财产,cái chǎn,,season,,0.625,tsʰaɪʈʂʰan,sizən
+踩,cǎi,,high,,0.55,tsʰaɪ,haɪ
+采访,cǎi fǎng,,disappointing,,0.575,tsʰaɪfɑŋ,dɪsəpɔɪnɪŋ
+采取,cǎi qǔ,,straightforward,,0.6730769230769231,tsʰaɪtɕʰy,streɪtfɔrwərd
+彩虹,cǎi hóng,,recycling,,0.525,tsʰaɪxʊŋ,risaɪkəlɪŋ
+参考,cān kǎo,,destruction,,0.7,tsʰankʰɑʊ,dɪstrəkʃən
+参与,cān yù,,time,,0.6249999999999999,tsʰany,taɪm
+餐厅,cān tīng,,translating,,0.5909090909090908,tsʰantʰiŋ,trænsleɪtɪŋ
+残疾,cán jí,,alternately,,0.575,tsʰantɕi,ɔltərnətli
+惭愧,cán kuì,,state,,0.7,tsʰankʰweɪ,steɪt
+操场,cāo chǎng,,during,,0.7,tsʰɑʊʈʂʰɑŋ,dʊrɪŋ
+操心,cāo xīn,,established,,0.6388888888888888,tsʰɑʊɕin,ɪstæblɪʃt
+册,cè,,transformers,,0.7708333333333334,tsʰɤ,trænsfɔrmərz
+测验,cè yàn,,participation,,0.6346153846153846,tsʰɤjɛn,pɑrtɪsəpeɪʃən
+厕所,cè suǒ,,constructed,,0.7727272727272727,tsʰɤswɔ,kənstrəktɪd
+曾经,céng jīng,,participating,,0.673076923076923,tsʰɤŋtɕiŋ,pɑrtɪsəpeɪtɪŋ
+插,chā,,state,,0.7,ʈʂʰa,steɪt
+差别,chā bié,,tropical,,0.59375,ʈʂʰapjɛ,trɑpɪkəl
+叉子,chā zi,,disaster,,0.59375,ʈʂʰatsɯ,dɪzæstər
+拆,chāi,,style,,0.55,ʈʂʰaɪ,staɪl
+产品,chǎn pǐn,,transmission,,0.6,ʈʂʰanpʰin,trænzmɪʃən
+产生,chǎn shēng,,surviving,,0.6388888888888888,ʈʂʰanʂɤŋ,sərvaɪvɪŋ
+长途,cháng tú,,surroundings,,0.7499999999999999,ʈʂʰɑŋtʰu,səraʊndɪŋz
+常识,cháng shí,,substantially,,0.6363636363636362,ʈʂʰɑŋʂɨ,səbstænʃəli
+抄,chāo,,high,,0.6000000000000001,ʈʂʰɑʊ,haɪ
+朝,cháo,,high,,0.6000000000000001,ʈʂʰɑʊ,haɪ
+朝代,cháo dài,,tasmania,,0.611111111111111,ʈʂʰɑʊtaɪ,tæzmeɪniə
+炒,chǎo,,high,,0.6000000000000001,ʈʂʰɑʊ,haɪ
+吵架,chǎo jià,,society's,,0.6749999999999999,ʈʂʰɑʊtɕja,soʊsaɪɪtiz
+车库,chē kù,,construction,,0.7727272727272728,ʈʂʰɤkʰu,kənstrəkʃən
+车厢,chē xiāng,,socioeconomic,,0.7333333333333334,ʈʂʰɤɕjɑŋ,soʊsioʊɛkənɑmɪk
+彻底,chè dǐ,,personality,,0.6590909090909091,ʈʂʰɤti,pərsənælɪti
+沉默,chén mò,,telecommunications,,0.763888888888889,ʈʂʰənmwɔ,tɛləkəmjunəkeɪʃənz
+趁,chèn,,state,,0.6000000000000001,ʈʂʰən,steɪt
+称,chēng,,small,,0.65,ʈʂʰɤŋ,smɔl
+称呼,chēng hu,,distinguish,,0.7,ʈʂʰɤŋxu,dɪstɪŋgwɪʃ
+称赞,chēng zàn,,exploitation,,0.6730769230769231,ʈʂʰɤŋtsan,ɛksplɔɪteɪʃən
+乘,chéng,,small,,0.65,ʈʂʰɤŋ,smɔl
+承担,chéng dān,,situated,,0.6388888888888888,ʈʂʰɤŋtan,sɪʧueɪtɪd
+承认,chéng rèn,,location,,0.6388888888888888,ʈʂʰɤŋʐən,loʊkeɪʃən
+承受,chéng shòu,,stakeholders,,0.673076923076923,ʈʂʰɤŋʂoʊ,steɪkhoʊldərz
+成分,chéng fèn,,successful,,0.6388888888888888,ʈʂʰɤŋfən,səksɛsfəl
+成果,chéng guǒ,,socioeconomic,,0.7666666666666666,ʈʂʰɤŋkwɔ,soʊsioʊɛkənɑmɪk
+成就,chéng jiù,,history,,0.75,ʈʂʰɤŋtɕjoʊ,hɪstəri
+成立,chéng lì,,songs,,0.5357142857142857,ʈʂʰɤŋli,sɔŋz
+成语,chéng yǔ,,top,,0.7499999999999999,ʈʂʰɤŋy,tɔp
+成长,chéng zhǎng,,hydroelectric,,0.7666666666666667,ʈʂʰɤŋʈʂɑŋ,haɪdroʊɪlɛktrɪk
+程度,chéng dù,,transport,,0.7499999999999999,ʈʂʰɤŋtu,trænspɔrt
+程序,chéng xù,,jurisdiction,,0.7727272727272727,ʈʂʰɤŋɕy,ʤʊrɪsdɪkʃən
+诚恳,chéng kěn,,satisfaction,,0.5909090909090908,ʈʂʰɤŋkʰən,sætɪsfækʃən
+吃亏,chī kuī,,microwave,,0.6499999999999999,ʈʂʰɨkʰweɪ,maɪkrəweɪv
+持续,chí xù,,substitutes,,0.7,ʈʂʰɨɕy,səbstətuts
+池子,chí zi,,stereotype,,0.6363636363636362,ʈʂʰɨtsɯ,stɛrioʊtaɪp
+尺子,chǐ zi,,stereotype,,0.6363636363636362,ʈʂʰɨtsɯ,stɛrioʊtaɪp
+翅膀,chì bǎng,,surpassing,,0.5625,ʈʂʰɨpɑŋ,sərpæsɪŋ
+冲,chōng,,truck,,0.6500000000000001,ʈʂʰʊŋ,trək
+充电器,chōng diàn qì,,district,,0.75,ʈʂʰʊŋtjɛntɕʰi,dɪstrɪkt
+充分,chōng fèn,,tournament,,0.6388888888888888,ʈʂʰʊŋfən,tʊrnəmənt
+充满,chōng mǎn,,dissatisfaction,,0.6730769230769231,ʈʂʰʊŋman,dɪsætɪsfækʃən
+重复,chóng fù,,surprisingly,,0.7727272727272727,ʈʂʰʊŋfu,səpraɪzɪŋli
+宠物,chǒng wù,,subsequent,,0.7499999999999999,ʈʂʰʊŋu,səbsəkwənt
+抽屉,chōu ti,,mussolini,,0.611111111111111,ʈʂʰoʊtʰi,musoʊlini
+抽象,chōu xiàng,,stereotypes,,0.6458333333333333,ʈʂʰoʊɕjɑŋ,stɛrioʊtaɪps
+丑,chǒu,,also,,0.55,ʈʂʰoʊ,ɔlsoʊ
+臭,chòu,,also,,0.55,ʈʂʰoʊ,ɔlsoʊ
+出版,chū bǎn,,broadband,,0.59375,ʈʂʰupan,brɔdbænd
+出口,chū kǒu,,instituto,,0.6749999999999999,ʈʂʰukʰoʊ,ɪnstɪtutoʊ
+出色,chū sè,,instituted,,0.7,ʈʂʰusɤ,ɪnstɪtutɪd
+出席,chū xí,,three,,0.6666666666666666,ʈʂʰuɕi,θri
+初级,chū jí,,successfully,,0.7,ʈʂʰutɕi,səksɛsfəli
+除,chú,,stone,,0.7,ʈʂʰu,stoʊn
+除非,chú fēi,,situated,,0.6388888888888888,ʈʂʰufeɪ,sɪʧueɪtɪd
+除夕,chú xī,,three,,0.6666666666666666,ʈʂʰuɕi,θri
+处理,chǔ lǐ,,strongly,,0.5357142857142857,ʈʂʰuli,strɔŋli
+传播,chuán bō,,describing,,0.7,ʈʂʰwanpwɔ,dɪskraɪbɪŋ
+传递,chuán dì,,genuinely,,0.575,ʈʂʰwanti,ʤɛnjuaɪnli
+传染,chuán rǎn,,disqualified,,0.5625,ʈʂʰwanʐan,dɪskwɑləfaɪd
+传说,chuán shuō,,substantial,,0.675,ʈʂʰwanʂwɔ,səbstænʃəl
+传统,chuán tǒng,,having,,0.675,ʈʂʰwantʰʊŋ,hævɪŋ
+窗帘,chuāng lián,,stadium,,0.6000000000000001,ʈʂʰwɑŋljɛn,steɪdiəm
+闯,chuǎng,,song,,0.6249999999999999,ʈʂʰwɑŋ,sɔŋ
+创造,chuàng zào,,was,,0.75,ʈʂʰwɑŋtsɑʊ,wɑz
+吹,chuī,,railway,,0.5357142857142857,ʈʂʰweɪ,reɪlweɪ
+磁带,cí dài,,states,,0.6071428571428571,tsʰɯtaɪ,steɪts
+辞职,cí zhí,,statistical,,0.6363636363636364,tsʰɯʈʂɨ,stətɪstɪkəl
+此外,cǐ wài,,style,,0.6071428571428571,tsʰɯwaɪ,staɪl
+刺激,cì jī,,participatory,,0.6346153846153846,tsʰɯtɕi,pɑrtɪsəpətɔri
+次要,cì yào,,psychiatric,,0.6749999999999999,tsʰɯjɑʊ,saɪkiætrɪk
+匆忙,cōng máng,,diplomatic,,0.7,tsʰʊŋmɑŋ,dɪpləmætɪk
+从此,cóng cǐ,,industrialization,,0.7647058823529411,tsʰʊŋtsʰɯ,ɪndəstriəlɪzeɪʃən
+从而,cóng ér,,democratic,,0.7499999999999999,tsʰʊŋɑɻ,dɛməkrætɪk
+从前,cóng qián,,during,,0.75,tsʰʊŋtɕʰjɛn,dʊrɪŋ
+从事,cóng shì,,subsidiary,,0.7,tsʰʊŋʂɨ,səbsɪdiɛri
+醋,cù,,dispute,,0.6428571428571428,tsʰu,dɪspjut
+促进,cù jìn,,reconstituted,,0.673076923076923,tsʰutɕin,rikɑnstətutɪd
+促使,cù shǐ,,school,,0.6249999999999999,tsʰuʂɨ,skul
+催,cuī,,railway,,0.5357142857142857,tsʰweɪ,reɪlweɪ
+存,cún,,disillusioned,,0.575,tsʰwən,dɪsɪluʒənd
+存在,cún zài,,towards,,0.65,tsʰwəntsaɪ,təwɔrdz
+错误,cuò wù,,subsequent,,0.7,tsʰwɔu,səbsəkwənt
+措施,cuò shī,,society,,0.6666666666666666,tsʰwɔʂɨ,soʊsaɪɪti
+答应,dā ying,,having,,0.45,taiŋ,hævɪŋ
+达到,dá dào,,data,,0.4,tatɑʊ,dætə
+打工,dǎ gōng,,town,,0.4,takʊŋ,taʊn
+打交道,dǎ jiāo dào,,title,,0.6000000000000001,tatɕjɑʊtɑʊ,taɪtəl
+打喷嚏,dǎ pēn tì,,subsequently,,0.5208333333333334,tapʰəntʰi,səbsəkwəntli
+打听,dǎ ting,,not,,0.6249999999999999,tatʰiŋ,nɑt
+打招呼,dǎ zhāo hu,,described,,0.6388888888888888,taʈʂɑʊxu,dɪskraɪbd
+大方,dà fang,,living,,0.4,tafɑŋ,lɪvɪŋ
+大象,dà xiàng,,satisfying,,0.575,taɕjɑŋ,sætɪsfaɪɪŋ
+大型,dà xíng,,time,,0.5,taɕiŋ,taɪm
+呆,dāi,,time,,0.25,taɪ,taɪm
+贷款,dài kuǎn,,tajikistan,,0.45,taɪkʰwan,tɑʤikɪstæn
+待遇,dài yù,,drive,,0.45,taɪy,draɪv
+担任,dān rèn,,mention,,0.3749999999999999,tanʐən,mɛnʃən
+单纯,dān chún,,construction,,0.5909090909090908,tanʈʂʰwən,kənstrəkʃən
+单调,dān diào,,tenure,,0.4999999999999999,tantjɑʊ,tɛnjər
+单独,dān dú,,land,,0.4,tantu,lænd
+单位,dān wèi,,manuel,,0.3749999999999999,tanweɪ,mɑnwɛl
+单元,dān yuán,,added,,0.4999999999999999,tanɥœn,ædɪd
+耽误,dān wu,,towns,,0.4,tanu,taʊnz
+胆小鬼,dǎn xiǎo guǐ,,manufacturers,,0.6785714285714286,tanɕjɑʊkweɪ,mænjəfækʧərərz
+淡,dàn,,town,,0.25,tan,taʊn
+当代,dāng dài,,today,,0.4583333333333332,tɑŋtaɪ,tədeɪ
+挡,dǎng,,tank,,0.25,tɑŋ,tæŋk
+岛,dǎo,,now,,0.25,tɑʊ,naʊ
+倒霉,dǎo méi,,timing,,0.3333333333333333,tɑʊmeɪ,taɪmɪŋ
+导演,dǎo yǎn,,champion,,0.4999999999999999,tɑʊjɛn,ʧæmpiən
+导致,dǎo zhì,,likely,,0.4583333333333332,tɑʊʈʂɨ,laɪkli
+倒,dào,,now,,0.25,tɑʊ,naʊ
+到达,dào dá,,out,,0.4,tɑʊta,aʊt
+道德,dào dé,,santo,,0.4999999999999999,tɑʊtɤ,sæntoʊ
+道理,dào li,,valley,,0.4,tɑʊli,væli
+登机牌,dēng jī pái,,nearby,,0.625,tɤŋtɕipʰaɪ,nɪrbaɪ
+登记,dēng jì,,country,,0.5833333333333333,tɤŋtɕi,kəntri
+等待,děng dài,,today,,0.4583333333333332,tɤŋtaɪ,tədeɪ
+等候,děng hòu,,lankan,,0.4583333333333332,tɤŋxoʊ,læŋkən
+等于,děng yú,,tango,,0.5416666666666666,tɤŋy,tæŋgoʊ
+滴,dī,,to,,0.25,ti,tɪ
+的确,dí què,,subsequent,,0.7,titɕʰɥœ,səbsəkwənt
+敌人,dí rén,,adhesion,,0.3571428571428571,tiʐən,ædhiʒən
+递,dì,,to,,0.25,ti,tɪ
+地道,dì dao,,eli,,0.4,titɑʊ,ilaɪ
+地理,dì lǐ,,daily,,0.4,tili,deɪli
+地区,dì qū,,teams,,0.6249999999999999,titɕʰy,timz
+地毯,dì tǎn,,streamlined,,0.5750000000000001,titʰan,strimlaɪnd
+地位,dì wèi,,way,,0.4,tiweɪ,weɪ
+地震,dì zhèn,,italian,,0.4999999999999999,tiʈʂən,ɪtæljən
+点头,diǎn tóu,,alejandro,,0.5227272727272727,tjɛntʰoʊ,ɑleɪjɑndroʊ
+点心,diǎn xin,,london,,0.4999999999999999,tjɛnɕin,ləndən
+电池,diàn chí,,liechtenstein,,0.5909090909090908,tjɛnʈʂʰɨ,lɪktənstaɪn
+电台,diàn tái,,transferring,,0.6000000000000001,tjɛntʰaɪ,trænsfərɪŋ
+钓,diào,,trout,,0.4,tjɑʊ,traʊt
+丁,dīng,,dealing,,0.45,tiŋ,dilɪŋ
+顶,dǐng,,dealing,,0.45,tiŋ,dilɪŋ
+冻,dòng,,eating,,0.375,tʊŋ,itɪŋ
+洞,dòng,,eating,,0.375,tʊŋ,itɪŋ
+动画片,dòng huà piàn,,transformations,,0.7,tʊŋxwapʰjɛn,trænsfərmeɪʃənz
+逗,dòu,,no,,0.25,toʊ,noʊ
+豆腐,dòu fu,,home,,0.45,toʊfu,hoʊm
+独立,dú lì,,tunis,,0.35,tuli,tunis
+独特,dú tè,,newly,,0.6000000000000001,tutʰɤ,nuli
+度过,dù guò,,square,,0.6000000000000001,tukwɔ,skwɛr
+短信,duǎn xìn,,johnson,,0.4999999999999999,twanɕin,ʤɑnsən
+堆,duī,,day,,0.375,tweɪ,deɪ
+对比,duì bǐ,,type,,0.4166666666666666,tweɪpi,taɪp
+对待,duì dài,,later,,0.4642857142857142,tweɪtaɪ,leɪtər
+对方,duì fāng,,landscaping,,0.5249999999999999,tweɪfɑŋ,lænskeɪpɪŋ
+对手,duì shǒu,,ratio,,0.4642857142857142,tweɪʂoʊ,reɪʃioʊ
+对象,duì xiàng,,australia,,0.611111111111111,tweɪɕjɑŋ,ɔstreɪljə
+对于,duì yú,,way,,0.4,tweɪy,weɪ
+吨,dūn,,when,,0.3125,twən,wɪn
+蹲,dūn,,when,,0.3125,twən,wɪn
+多亏,duō kuī,,norway,,0.46875,twɔkʰweɪ,nɔrweɪ
+多余,duō yú,,twenty,,0.5833333333333333,twɔy,twɛnti
+躲藏,duǒ cáng,,demonstrating,,0.673076923076923,twɔtsʰɑŋ,dɛmənstreɪtɪŋ
+恶劣,è liè,,australia,,0.5833333333333333,ɤljɛ,ɔstreɪljə
+发表,fā biǎo,,bobby,,0.4166666666666666,fapjɑʊ,bɑbi
+发愁,fā chóu,,also,,0.4999999999999999,faʈʂʰoʊ,ɔlsoʊ
+发达,fā dá,,party,,0.4,fata,pɑrti
+发抖,fā dǒu,,below,,0.3,fatoʊ,bɪloʊ
+发挥,fā huī,,maxwell,,0.3928571428571428,faxweɪ,mækswɛl
+发明,fā míng,,panic,,0.35,famiŋ,pænɪk
+发票,fā piào,,copyright,,0.53125,fapʰjɑʊ,kɑpiraɪt
+发言,fā yán,,died,,0.45,fajɛn,daɪd
+罚款,fá kuǎn,,maximum,,0.59375,fakʰwan,mæksəməm
+法院,fǎ yuàn,,found,,0.4,faɥœn,faʊnd
+翻,fān,,von,,0.25,fan,vɔn
+繁荣,fán róng,,father,,0.4999999999999999,fanʐʊŋ,fɑðər
+凡是,fán shì,,badly,,0.25,fanʂɨ,bædli
+反而,fǎn ér,,founded,,0.5357142857142857,fanɑɻ,faʊndɪd
+反复,fǎn fù,,five,,0.4,fanfu,faɪv
+反应,fǎn yìng,,founding,,0.3571428571428571,faniŋ,faʊndɪŋ
+反正,fǎn zhèng,,politics,,0.5625,fanʈʂɤŋ,pɑlətɪks
+方,fāng,,back,,0.25,fɑŋ,bæk
+方案,fāng àn,,pocket,,0.45,fɑŋan,pɑkət
+方式,fāng shì,,buckley,,0.45,fɑŋʂɨ,bəkli
+妨碍,fáng ài,,practice,,0.5357142857142857,fɑŋaɪ,præktɪs
+房东,fáng dōng,,bank,,0.4583333333333332,fɑŋtʊŋ,bæŋk
+仿佛,fǎng fú,,fact,,0.5,fɑŋfu,fækt
+放松,fàng sōng,,acting,,0.4166666666666666,fɑŋsʊŋ,æktɪŋ
+非,fēi,,by,,0.25,feɪ,baɪ
+肥皂,féi zào,,patriarchate,,0.5227272727272727,feɪtsɑʊ,peɪtriɑrkət
+肺,fèi,,by,,0.25,feɪ,baɪ
+废话,fèi huà,,medical,,0.5357142857142857,feɪxwa,mɛdɪkəl
+费用,fèi yòng,,being,,0.4583333333333332,feɪyʊŋ,biɪŋ
+分别,fēn bié,,venezuela,,0.575,fənpjɛ,vɛnɪzweɪlə
+分布,fēn bù,,pursue,,0.45,fənpu,pərsu
+分配,fēn pèi,,fundamentally,,0.5227272727272727,fənpʰeɪ,fəndəmɛnəli
+分析,fēn xī,,very,,0.4,fənɕi,vɛri
+纷纷,fēn fēn,,number,,0.4166666666666666,fənfən,nəmbər
+奋斗,fèn dòu,,fellow,,0.2916666666666666,fəntoʊ,fɛloʊ
+愤怒,fèn nù,,bamboo,,0.45,fənnu,bæmbu
+风格,fēng gé,,fact,,0.5,fɤŋkɤ,fækt
+风俗,fēng sú,,four,,0.6000000000000001,fɤŋsu,fɔr
+风险,fēng xiǎn,,alongside,,0.5625,fɤŋɕjɛn,əlɔŋsaɪd
+疯狂,fēng kuáng,,functional,,0.611111111111111,fɤŋkʰwɑŋ,fəŋkʃənəl
+讽刺,fěng cì,,participate,,0.6363636363636364,fɤŋtsʰɯ,pɑrtɪsəpeɪt
+否定,fǒu dìng,,putting,,0.2916666666666666,foʊtiŋ,pʊtɪŋ
+否认,fǒu rèn,,social,,0.3749999999999999,foʊʐən,soʊʃəl
+扶,fú,,mu,,0.25,fu,mu
+幅,fú,,mu,,0.25,fu,mu
+服从,fú cóng,,devastating,,0.6363636363636364,futsʰʊŋ,dɛvəsteɪtɪŋ
+服装,fú zhuāng,,businessman,,0.6666666666666666,fuʈʂwɑŋ,bɪznɪsmæn
+辅导,fǔ dǎo,,buddha,,0.45,futɑʊ,budə
+复制,fù zhì,,party,,0.55,fuʈʂɨ,pɑrti
+付款,fù kuǎn,,frequency,,0.6388888888888888,fukʰwan,frikwənsi
+妇女,fù nǚ,,food,,0.3125,funy,fud
+改革,gǎi gé,,came,,0.5,kaɪkɤ,keɪm
+改进,gǎi jìn,,compilation,,0.5227272727272727,kaɪtɕin,kɑmpəleɪʃən
+改善,gǎi shàn,,captain,,0.4166666666666666,kaɪʂan,kæptən
+改正,gǎi zhèng,,pakistan,,0.5625,kaɪʈʂɤŋ,pækɪstæn
+盖,gài,,sky,,0.25,kaɪ,skaɪ
+概括,gài kuò,,continued,,0.6666666666666666,kaɪkʰwɔ,kəntɪnjud
+概念,gài niàn,,communion,,0.3888888888888889,kaɪnjɛn,kəmjunjən
+干脆,gān cuì,,continuation,,0.5384615384615384,kantsʰweɪ,kəntɪnjueɪʃən
+感激,gǎn jī,,party,,0.4583333333333333,kantɕi,pɑrti
+感受,gǎn shòu,,cancer,,0.3333333333333333,kanʂoʊ,kænsər
+感想,gǎn xiǎng,,candidates,,0.5625,kanɕjɑŋ,kænədɪts
+赶紧,gǎn jǐn,,clandestine,,0.4499999999999999,kantɕin,klændɛstɪn
+赶快,gǎn kuài,,continuity,,0.525,kankʰwaɪ,kɑntənuəti
+干活儿,gàn huó r,,january,,0.5625,kanxwɔɻ,ʤænjuɛri
+钢铁,gāng tiě,,contributions,,0.6346153846153846,kɑŋtʰjɛ,kɑntrəbjuʃənz
+高档,gāo dàng,,counterattack,,0.45,kɑʊtɑŋ,kaʊnərətæk
+高速,gāo sù,,out,,0.5,kɑʊsu,aʊt
+搞,gǎo,,cows,,0.25,kɑʊ,kaʊz
+告别,gào bié,,county,,0.4166666666666666,kɑʊpjɛ,kaʊnti
+胳膊,gē bo,,cover,,0.6000000000000001,kɤpwɔ,kəvər
+鸽子,gē zi,,called,,0.5,kɤtsɯ,kɔld
+隔壁,gé bì,,kirby,,0.35,kɤpi,kərbi
+格外,gé wài,,combine,,0.4999999999999999,kɤwaɪ,kɑmbaɪn
+革命,gé mìng,,common,,0.45,kɤmiŋ,kɑmən
+个别,gè bié,,canyon,,0.4166666666666666,kɤpjɛ,kænjən
+个人,gè rén,,cautious,,0.35,kɤʐən,kɔʃəs
+个性,gè xìng,,king,,0.5,kɤɕiŋ,kɪŋ
+各自,gè zì,,called,,0.5,kɤtsɯ,kɔld
+根,gēn,,cup,,0.25,kən,kəp
+根本,gēn běn,,number,,0.4166666666666666,kənpən,nəmbər
+更加,gèng jiā,,quarterbacks,,0.6363636363636364,kɤŋtɕja,kwɔrtərbæks
+公布,gōng bù,,cockpit,,0.5833333333333333,kʊŋpu,kɑkpɪt
+公开,gōng kāi,,coincided,,0.6363636363636364,kʊŋkʰaɪ,koʊənsaɪdəd
+公平,gōng píng,,companies,,0.59375,kʊŋpʰiŋ,kəmpəniz
+公寓,gōng yù,,kingdom,,0.5833333333333333,kʊŋy,kɪŋdəm
+公元,gōng yuán,,execution,,0.575,kʊŋɥœn,ɛksəkjuʃən
+公主,gōng zhǔ,,course,,0.6249999999999999,kʊŋʈʂu,kɔrs
+工厂,gōng chǎng,,consistent,,0.7,kʊŋʈʂʰɑŋ,kənsɪstənt
+工程师,gōng chéng shī,,communication,,0.7692307692307692,kʊŋʈʂʰɤŋʂɨ,kəmjunəkeɪʃən
+工人,gōng rén,,version,,0.4999999999999999,kʊŋʐən,vərʒən
+工业,gōng yè,,rookie,,0.55,kʊŋjɛ,rʊki
+功夫,gōng fu,,congo,,0.6249999999999999,kʊŋfu,kɑŋgoʊ
+功能,gōng néng,,building,,0.5833333333333333,kʊŋnɤŋ,bɪldɪŋ
+贡献,gòng xiàn,,european,,0.5625,kʊŋɕjɛn,jʊrəpiən
+沟通,gōu tōng,,holding,,0.4285714285714285,koʊtʰʊŋ,hoʊldɪŋ
+构成,gòu chéng,,protruding,,0.5750000000000001,koʊʈʂʰɤŋ,proʊtrudɪŋ
+姑姑,gū gu,,kangaroo,,0.6428571428571429,kuku,kæŋgəru
+姑娘,gū niang,,continuing,,0.5750000000000001,kunjɑŋ,kəntɪnjuɪŋ
+古代,gǔ dài,,class,,0.5,kutaɪ,klæs
+古典,gǔ diǎn,,austrian,,0.4999999999999999,kutjɛn,ɔstriən
+古老,gǔ lǎo,,newly,,0.5,kulɑʊ,nuli
+股票,gǔ piào,,continued,,0.6666666666666666,kupʰjɑʊ,kəntɪnjud
+鼓舞,gǔ wǔ,,kuwait,,0.5416666666666666,kuu,kuweɪt
+骨头,gǔ tou,,carlos,,0.5357142857142857,kutʰoʊ,kɑrloʊs
+固定,gù dìng,,killing,,0.4,kutiŋ,kɪlɪŋ
+固体,gù tǐ,,july,,0.6000000000000001,kutʰi,ʤulaɪ
+雇佣,gù yōng,,king,,0.5,kuyʊŋ,kɪŋ
+挂号,guà hào,,hockey,,0.5833333333333333,kwaxɑʊ,hɑki
+乖,guāi,,squad,,0.4,kwaɪ,skwɑd
+拐弯,guǎi wān,,highway,,0.4999999999999999,kwaɪwan,haɪweɪ
+怪不得,guài bu de,,acquaintance,,0.575,kwaɪputɤ,əkweɪntəns
+关闭,guān bì,,climate,,0.4999999999999999,kwanpi,klaɪmɪt
+关怀,guān huái,,qualifiers,,0.5227272727272727,kwanxwaɪ,kwɑləfaɪərz
+官,guān,,yuan,,0.3125,kwan,juɑn
+观察,guān chá,,acquaintance,,0.5750000000000001,kwanʈʂʰa,əkweɪntəns
+观点,guān diǎn,,equestrian,,0.425,kwantjɛn,ɪkwɛstriən
+观念,guān niàn,,squadrons,,0.4999999999999999,kwannjɛn,skwɑdrənz
+管子,guǎn zi,,clandestine,,0.45,kwantsɯ,klændɛstɪn
+罐头,guàn tou,,guantanamo,,0.4545454545454545,kwantʰoʊ,gwɑntɑnəmoʊ
+冠军,guàn jūn,,quantitative,,0.5208333333333334,kwantɕyn,kwɑntɪteɪtɪv
+光滑,guāng hua,,qualifiers,,0.6363636363636364,kwɑŋxwa,kwɑləfaɪərz
+光临,guāng lín,,college,,0.4999999999999999,kwɑŋlin,kɑlɪʤ
+光明,guāng míng,,wyoming,,0.5625,kwɑŋmiŋ,waɪoʊmɪŋ
+光盘,guāng pán,,equivalent,,0.6499999999999999,kwɑŋpʰan,ɪkwɪvələnt
+光荣,guāng róng,,coinciding,,0.6363636363636362,kwɑŋʐʊŋ,koʊənsaɪdɪŋ
+广场,guǎng chǎng,,transferring,,0.7,kwɑŋʈʂʰɑŋ,trænsfərɪŋ
+广大,guǎng dà,,uganda,,0.5357142857142857,kwɑŋta,jugɑndɑ
+广泛,guǎng fàn,,questions,,0.5625,kwɑŋfan,kwɛsʧənz
+规矩,guī ju,,quarters,,0.5625,kweɪtɕy,kwɔrtərz
+规律,guī lǜ,,credits,,0.5357142857142857,kweɪly,krɛdɪts
+规模,guī mó,,created,,0.59375,kweɪmwɔ,krieɪtɪd
+规则,guī zé,,white,,0.4999999999999999,kweɪtsɤ,waɪt
+柜台,guì tái,,available,,0.6388888888888888,kweɪtʰaɪ,əveɪləbəl
+滚,gǔn,,squid,,0.3,kwən,skwɪd
+锅,guō,,square,,0.5,kwɔ,skwɛr
+国籍,guó jí,,quantum,,0.4999999999999999,kwɔtɕi,kwɑntəm
+国庆节,Guó qìng jié,,species,,0.7499999999999999,kwɔtɕʰiŋtɕjɛ,spiʃiz
+果实,guǒ shí,,equally,,0.375,kwɔʂɨ,ikwəli
+过分,guò fèn,,seven,,0.4166666666666666,kwɔfən,sɛvən
+过敏,guò mǐn,,awarded,,0.4999999999999999,kwɔmin,əwɔrdɪd
+过期,guò qī,,qualify,,0.59375,kwɔtɕʰi,kwɑləfaɪ
+哈,hā,,car,,0.3333333333333333,xa,kɑr
+海关,hǎi guān,,michael,,0.4999999999999999,xaɪkwan,maɪkəl
+海鲜,hǎi xiān,,colonization,,0.5208333333333334,xaɪɕjɛn,kɑlənɪzeɪʃən
+喊,hǎn,,can,,0.25,xan,kən
+行业,háng yè,,concubine,,0.575,xɑŋjɛ,kɑnkjəbaɪn
+豪华,háo huá,,concluded,,0.6388888888888888,xɑʊxwa,kənkludɪd
+好奇,hào qí,,boundary,,0.5625,xɑʊtɕʰi,baʊndəri
+和平,hé píng,,according,,0.5357142857142857,xɤpʰiŋ,əkɔrdɪŋ
+何必,hé bì,,kirby,,0.35,xɤpi,kərbi
+何况,hé kuàng,,broadcasting,,0.7,xɤkʰwɑŋ,brɔdkæstɪŋ
+合法,hé fǎ,,cannot,,0.45,xɤfa,kænɑt
+合理,hé lǐ,,calling,,0.35,xɤli,kɔlɪŋ
+合同,hé tong,,controlling,,0.5750000000000001,xɤtʰʊŋ,kəntroʊlɪŋ
+合影,hé yǐng,,according,,0.5357142857142857,xɤiŋ,əkɔrdɪŋ
+合作,hé zuò,,its,,0.6249999999999999,xɤtswɔ,ɪts
+核心,hé xīn,,common,,0.45,xɤɕin,kɑmən
+恨,hèn,,cup,,0.25,xən,kəp
+横,héng,,kong,,0.3125,xɤŋ,kɔŋg
+后果,hòu guǒ,,coastal,,0.4999999999999999,xoʊkwɔ,koʊstəl
+忽视,hū shì,,actually,,0.5357142857142857,xuʂɨ,ækʧuəli
+呼吸,hū xī,,fukushima,,0.53125,xuɕi,fukuʃimə
+壶,hú,,crew,,0.3333333333333333,xu,kru
+蝴蝶,hú dié,,july,,0.55,xutjɛ,ʤulaɪ
+胡说,hú shuō,,who,,0.7,xuʂwɔ,hu
+胡同,hú tòng,,quoting,,0.5357142857142857,xutʰʊŋ,kwoʊtɪŋ
+胡须,hú xū,,bequeathed,,0.6428571428571428,xuɕy,bəkwiθt
+糊涂,hú tu,,quo,,0.6000000000000001,xutʰu,kwoʊ
+花生,huā shēng,,was,,0.5833333333333333,xwaʂɤŋ,wɑz
+滑冰,huá bīng,,climate,,0.5357142857142857,xwapiŋ,klaɪmɪt
+划船,huá chuán,,classification,,0.6730769230769231,xwaʈʂʰwan,klæsəfəkeɪʃən
+华裔,Huá yì,,kumar,,0.45,xwai,kumɑr
+化学,huà xué,,quarter,,0.5357142857142857,xwaɕɥœ,kwɔrtər
+话题,huà tí,,capacity,,0.5625,xwatʰi,kəpæsɪti
+怀念,huái niàn,,lithuanian,,0.4545454545454545,xwaɪnjɛn,lɪθəweɪniən
+缓解,huǎn jiě,,humanitarian,,0.5416666666666666,xwantɕjɛ,jumænətɛriən
+幻想,huàn xiǎng,,county,,0.625,xwanɕjɑŋ,kaʊnti
+慌张,huāng zhāng,,practices,,0.6388888888888888,xwɑŋʈʂɑŋ,præktɪsɪz
+黄瓜,huáng guā,,qualifiers,,0.6363636363636364,xwɑŋkwa,kwɑləfaɪərz
+黄金,huáng jīn,,qualifications,,0.6071428571428572,xwɑŋtɕin,kwɑləfəkeɪʃənz
+皇帝,huáng dì,,quarter,,0.4999999999999999,xwɑŋti,kwɔrtər
+皇后,huáng hòu,,quickly,,0.4999999999999999,xwɑŋxoʊ,kwɪkli
+灰,huī,,claim,,0.4,xweɪ,kleɪm
+灰尘,huī chén,,accreditation,,0.5625,xweɪʈʂʰən,əkrɛdəteɪʃən
+灰心,huī xīn,,acquisitions,,0.45,xweɪɕin,ækwəzɪʃənz
+挥,huī,,claim,,0.4,xweɪ,kleɪm
+恢复,huī fù,,quality,,0.5357142857142857,xweɪfu,kwɑləti
+汇率,huì lǜ,,credits,,0.5357142857142857,xweɪly,krɛdɪts
+婚礼,hūn lǐ,,country,,0.3749999999999999,xwənli,kəntri
+婚姻,hūn yīn,,women,,0.4166666666666666,xwənin,wɪmən
+活跃,huó yuè,,coach,,0.55,xwɔɥœ,koʊʧ
+火柴,huǒ chái,,acquisition,,0.6388888888888888,xwɔʈʂʰaɪ,ækwəzɪʃən
+伙伴,huǒ bàn,,campaign,,0.4999999999999999,xwɔpan,kæmpeɪn
+基本,jī běn,,david,,0.4583333333333332,tɕipən,deɪvɪd
+机器,jī qì,,treatment,,0.59375,tɕitɕʰi,tritmənt
+激烈,jī liè,,australia,,0.4999999999999999,tɕiljɛ,ɔstreɪljə
+肌肉,jī ròu,,ratio,,0.4999999999999999,tɕiʐoʊ,reɪʃioʊ
+及格,jí gé,,streets,,0.6249999999999999,tɕikɤ,strits
+急忙,jí máng,,taliban,,0.4999999999999999,tɕimɑŋ,tælɪbæn
+集体,jí tǐ,,totally,,0.4999999999999999,tɕitʰi,toʊtəli
+集中,jí zhōng,,existing,,0.5625,tɕiʈʂʊŋ,ɪgzɪstɪŋ
+记录,jì lù,,he,,0.6499999999999999,tɕilu,hi
+记忆,jì yì,,street,,0.55,tɕii,strit
+计算,jì suàn,,kyrgyzstan,,0.5277777777777778,tɕiswan,kɪrgistɑn
+寂寞,jì mò,,traditional,,0.7,tɕimwɔ,trədɪʃənəl
+系领带,jì lǐng dài,,previously,,0.6388888888888888,ɕiliŋtaɪ,priviəsli
+纪录,jì lù,,he,,0.6499999999999999,tɕilu,hi
+纪律,jì lǜ,,he,,0.6499999999999999,tɕily,hi
+纪念,jì niàn,,union,,0.4642857142857142,tɕinjɛn,junjən
+家庭,jiā tíng,,surviving,,0.6388888888888888,tɕjatʰiŋ,sərvaɪvɪŋ
+家务,jiā wù,,through,,0.6000000000000001,tɕjau,θru
+家乡,jiā xiāng,,broadcasting,,0.7,tɕjaɕjɑŋ,brɔdkæstɪŋ
+嘉宾,jiā bīn,,european,,0.59375,tɕjapin,jʊrəpiən
+夹子,jiā zi,,alejandro,,0.6363636363636362,tɕjatsɯ,ɑleɪjɑndroʊ
+甲,jiǎ,,july,,0.7,tɕja,ʤulaɪ
+假如,jiǎ rú,,his,,0.6666666666666666,tɕjaʐu,hɪz
+假装,jiǎ zhuāng,,synthesizers,,0.7291666666666666,tɕjaʈʂwɑŋ,sɪnθəsaɪzərz
+嫁,jià,,july,,0.7,tɕja,ʤulaɪ
+价值,jià zhí,,terminology,,0.6363636363636364,tɕjaʈʂɨ,tərmɪnɑləʤi
+驾驶,jià shǐ,,time,,0.6249999999999999,tɕjaʂɨ,taɪm
+煎,jiān,,season,,0.55,tɕjɛn,sizən
+肩膀,jiān bǎng,,november,,0.6388888888888888,tɕjɛnpɑŋ,noʊvɛmbər
+坚决,jiān jué,,statistics,,0.7,tɕjɛntɕɥœ,stətɪstɪks
+坚强,jiān qiáng,,into,,0.75,tɕjɛntɕʰjɑŋ,ɪntu
+尖锐,jiān ruì,,regeneration,,0.6249999999999999,tɕjɛnʐweɪ,riʤɛnəreɪʃən
+艰巨,jiān jù,,significantly,,0.673076923076923,tɕjɛntɕy,sɪgnɪfɪkəntli
+艰苦,jiān kǔ,,african-american,,0.7666666666666666,tɕjɛnkʰu,æfrɪkənəmɛrɪkən
+捡,jiǎn,,season,,0.55,tɕjɛn,sizən
+剪刀,jiǎn dāo,,secondary,,0.6388888888888888,tɕjɛntɑʊ,sɛkəndɛri
+简历,jiǎn lì,,tributary,,0.525,tɕjɛnli,trɪbjətɛri
+简直,jiǎn zhí,,previously,,0.611111111111111,tɕjɛnʈʂɨ,priviəsli
+健身房,jiàn shēn fáng,,season,,0.6590909090909091,tɕjɛnʂənfɑŋ,sizən
+建立,jiàn lì,,tributary,,0.525,tɕjɛnli,trɪbjətɛri
+建设,jiàn shè,,originally,,0.6666666666666666,tɕjɛnʂɤ,ərɪʤənəli
+建议,jiàn yì,,trading,,0.5357142857142856,tɕjɛni,treɪdɪŋ
+建筑,jiàn zhù,,residents,,0.6388888888888888,tɕjɛnʈʂu,rɛzɪdənts
+键盘,jiàn pán,,disappointment,,0.673076923076923,tɕjɛnpʰan,dɪsəpɔɪntmənt
+讲究,jiǎng jiu,,party,,0.7,tɕjɑŋtɕjoʊ,pɑrti
+讲座,jiǎng zuò,,scientists,,0.675,tɕjɑŋtswɔ,saɪəntɪsts
+降落,jiàng luò,,automatically,,0.7,tɕjɑŋlwɔ,ɔtəmætɪkli
+酱油,jiàng yóu,,sarajevo,,0.575,tɕjɑŋyoʊ,sɑrəjeɪvoʊ
+浇,jiāo,,now,,0.55,tɕjɑʊ,naʊ
+交换,jiāo huàn,,tajikistan,,0.575,tɕjɑʊxwan,tɑʤikɪstæn
+交际,jiāo jì,,surmounted,,0.575,tɕjɑʊtɕi,sərmaʊntɪd
+郊区,jiāo qū,,associations,,0.7291666666666666,tɕjɑʊtɕʰy,əsoʊʃieɪʃənz
+胶水,jiāo shuǐ,,expressway,,0.6,tɕjɑʊʂweɪ,ɪksprɛsweɪ
+角度,jiǎo dù,,toronto,,0.59375,tɕjɑʊtu,tərɑntoʊ
+狡猾,jiǎo huá,,triangle,,0.6388888888888888,tɕjɑʊxwa,traɪæŋgəl
+教材,jiào cái,,state,,0.7,tɕjɑʊtsʰaɪ,steɪt
+教练,jiào liàn,,stipulated,,0.5625,tɕjɑʊljɛn,stɪpjəleɪtɪd
+教训,jiào xun,,television,,0.611111111111111,tɕjɑʊɕyn,tɛləvɪʒən
+接触,jiē chù,,documentation,,0.7321428571428571,tɕjɛʈʂʰu,dɑkjəmɛnteɪʃən
+接待,jiē dài,,advertising,,0.5909090909090908,tɕjɛtaɪ,ædvərtaɪzɪŋ
+接近,jiē jìn,,canadian,,0.6388888888888888,tɕjɛtɕin,kəneɪdiən
+接着,jiē zhe,,australian,,0.7,tɕjɛʈʂɤ,ɔstreɪljən
+阶段,jiē duàn,,spider-man,,0.575,tɕjɛtwan,spaɪdərmæn
+结实,jiē shi,,stationary,,0.575,tɕjɛʂɨ,steɪʃənɛri
+节,jié,,daniels,,0.6428571428571428,tɕjɛ,dænjɛlz
+节省,jié shěng,,deteriorating,,0.6346153846153847,tɕjɛʂɤŋ,dɪtɪriəreɪtɪŋ
+结构,jié gòu,,toronto,,0.5625,tɕjɛkoʊ,tərɑntoʊ
+结合,jié hé,,strategically,,0.6590909090909092,tɕjɛxɤ,strətiʤɪkli
+结论,jié lùn,,traditional,,0.575,tɕjɛlwən,trədɪʃənəl
+结账,jié zhàng,,characteristic,,0.673076923076923,tɕjɛʈʂɑŋ,kɛrɪktərɪstɪk
+解放,jiě fàng,,manufacturing,,0.6346153846153846,tɕjɛfɑŋ,mænjəfækʧərɪŋ
+解说员,jiě shuō yuán,,history,,0.7,tɕjɛʂwɔɥœn,hɪstəri
+届,jiè,,daniels,,0.6428571428571428,tɕjɛ,dænjɛlz
+借口,jiè kǒu,,guillermo,,0.5750000000000001,tɕjɛkʰoʊ,gwɪljɛrmoʊ
+戒烟,jiè yān,,created,,0.5625,tɕjɛjɛn,krieɪtɪd
+戒指,jiè zhi,,articulated,,0.6346153846153846,tɕjɛʈʂɨ,ɑrtɪkjəleɪtəd
+金属,jīn shǔ,,town,,0.6249999999999999,tɕinʂu,taʊn
+紧,jǐn,,train,,0.45,tɕin,treɪn
+紧急,jǐn jí,,cemetery,,0.59375,tɕintɕi,sɛmɪtɛri
+尽量,jǐn liàng,,technology,,0.6388888888888888,tɕinljɑŋ,tɛknɑləʤi
+谨慎,jǐn shèn,,translation,,0.5227272727272727,tɕinʂən,trænzleɪʃən
+进步,jìn bù,,top,,0.6249999999999999,tɕinpu,tɔp
+进口,jìn kǒu,,transport,,0.6388888888888888,tɕinkʰoʊ,trænspɔrt
+近代,jìn dài,,sometimes,,0.59375,tɕintaɪ,səmtaɪmz
+尽力,jìn lì,,commonly,,0.5357142857142857,tɕinli,kɑmənli
+精力,jīng lì,,literally,,0.5625,tɕiŋli,lɪtərəli
+经典,jīng diǎn,,territorial,,0.575,tɕiŋtjɛn,tɛrɪtɔriəl
+经营,jīng yíng,,being,,0.5833333333333333,tɕiŋiŋ,biɪŋ
+景色,jǐng sè,,team,,0.6666666666666666,tɕiŋsɤ,tim
+敬爱,jìng ài,,time,,0.6249999999999999,tɕiŋaɪ,taɪm
+酒吧,jiǔ bā,,turnover,,0.5277777777777778,tɕjoʊpa,tərnoʊvər
+救,jiù,,rio,,0.4,tɕjoʊ,rioʊ
+救护车,jiù hù chē,,classification,,0.7692307692307692,tɕjoʊxuʈʂʰɤ,klæsəfəkeɪʃən
+舅舅,jiù jiu,,also,,0.6000000000000001,tɕjoʊtɕjoʊ,ɔlsoʊ
+居然,jū rán,,hassan,,0.4583333333333332,tɕyʐan,həsɑn
+桔子,jú zi,,test,,0.5833333333333333,tɕytsɯ,tɛst
+举,jǔ,,tissues,,0.45,tɕy,tɪʃuz
+具备,jù bèi,,domain,,0.4999999999999999,tɕypeɪ,doʊmeɪn
+具体,jù tǐ,,city,,0.5833333333333333,tɕytʰi,sɪti
+巨大,jù dà,,school,,0.6000000000000001,tɕyta,skul
+聚会,jù huì,,roadway,,0.4999999999999999,tɕyxweɪ,roʊdweɪ
+俱乐部,jù lè bù,,stereotypes,,0.6666666666666666,tɕylɤpu,stɛrioʊtaɪps
+据说,jù shuō,,two,,0.6666666666666666,tɕyʂwɔ,tu
+捐,juān,,when,,0.5,tɕɥœn,wɪn
+卷,juǎn,,when,,0.5,tɕɥœn,wɪn
+决赛,jué sài,,alongside,,0.59375,tɕɥœsaɪ,əlɔŋsaɪd
+决心,jué xīn,,stations,,0.59375,tɕɥœɕin,steɪʃənz
+绝对,jué duì,,lithuania,,0.575,tɕɥœtweɪ,lɪθəweɪniə
+角色,jué sè,,where,,0.6249999999999999,tɕɥœsɤ,wɛr
+军事,jūn shì,,only,,0.5833333333333333,tɕynʂɨ,oʊnli
+均匀,jūn yún,,human,,0.5833333333333333,tɕynyn,jumən
+卡车,kǎ chē,,francisco,,0.7,kʰaʈʂʰɤ,frænsɪskoʊ
+开发,kāi fā,,private,,0.5357142857142857,kʰaɪfa,praɪvət
+开放,kāi fàng,,qualifier,,0.525,kʰaɪfɑŋ,kwɑləfaɪər
+开幕式,kāi mù shì,,qualified,,0.6388888888888888,kʰaɪmuʂɨ,kwɑləfaɪd
+开心,kāi xīn,,competition,,0.575,kʰaɪɕin,kɑmpətɪʃən
+砍,kǎn,,john,,0.5,kʰan,ʤɑn
+看不起,kàn bu qǐ,,completed,,0.675,kʰanputɕʰi,kəmplitɪd
+看来,kàn lai,,commander,,0.5625,kʰanlaɪ,kəmændər
+抗议,kàng yì,,k,,0.6000000000000001,kʰɑŋi,keɪ
+烤鸭,kǎo yā,,about,,0.6666666666666666,kʰɑʊja,əbaʊt
+颗,kē,,class,,0.625,kʰɤ,klæs
+可见,kě jiàn,,completed,,0.6388888888888888,kʰɤtɕjɛn,kəmplitɪd
+可靠,kě kào,,co,,0.6428571428571428,kʰɤkʰɑʊ,koʊ
+可怕,kě pà,,college,,0.75,kʰɤpʰa,kɑlɪʤ
+刻苦,kè kǔ,,college,,0.75,kʰɤkʰu,kɑlɪʤ
+课程,kè chéng,,protesting,,0.6749999999999999,kʰɤʈʂʰɤŋ,proʊtɛstɪŋ
+克,kè,,class,,0.625,kʰɤ,klæs
+克服,kè fú,,cuba,,0.6499999999999999,kʰɤfu,kjubə
+客观,kè guān,,carolina,,0.6388888888888888,kʰɤkwan,kɛrəlaɪnə
+客厅,kè tīng,,consisting,,0.6388888888888888,kʰɤtʰiŋ,kənsɪstɪŋ
+空间,kōng jiān,,conversation,,0.6458333333333333,kʰʊŋtɕjɛn,kɑnvərseɪʃən
+恐怖,kǒng bù,,contribute,,0.7,kʰʊŋpu,kəntrɪbjut
+空闲,kòng xián,,completed,,0.6388888888888888,kʰʊŋɕjɛn,kəmplitɪd
+控制,kòng zhì,,currently,,0.59375,kʰʊŋʈʂɨ,kərəntli
+口味,kǒu wèi,,closely,,0.49999999999999994,kʰoʊweɪ,kloʊsli
+夸,kuā,,copa,,0.7,kʰwa,koʊpə
+会计,kuài jì,,sexuality,,0.55,kʰwaɪtɕi,sɛkʃuæləti
+矿泉水,kuàng quán shuǐ,,january,,0.75,kʰwɑŋtɕʰɥœnʂweɪ,ʤænjuɛri
+辣椒,là jiāo,,platform,,0.59375,latɕjɑʊ,plætfɔrm
+蜡烛,là zhú,,list,,0.5,laʈʂu,lɪst
+来自,lái zì,,lines,,0.375,laɪtsɯ,laɪnz
+拦,lán,,line,,0.25,lan,laɪn
+烂,làn,,line,,0.25,lan,laɪn
+狼,láng,,long,,0.25,lɑŋ,lɔŋ
+劳动,láo dòng,,dating,,0.375,lɑʊtʊŋ,deɪtɪŋ
+劳驾,láo jià,,nowadays,,0.5625,lɑʊtɕja,naʊədeɪz
+老百姓,lǎo bǎi xìng,,hypothesized,,0.5625,lɑʊpaɪɕiŋ,haɪpɑθəsaɪzd
+老板,lǎo bǎn,,time,,0.45833333333333326,lɑʊpan,taɪm
+老实,lǎo shí,,roxy,,0.35000000000000003,lɑʊʂɨ,rɑksi
+老鼠,lǎo shǔ,,out,,0.55,lɑʊʂu,aʊt
+姥姥,lǎo lao,,rounded,,0.49999999999999994,lɑʊlɑʊ,raʊndɪd
+乐观,lè guān,,election,,0.49999999999999994,lɤkwan,ɪlɛkʃən
+雷,léi,,they,,0.25,leɪ,ðeɪ
+类,lèi,,they,,0.25,leɪ,ðeɪ
+梨,lí,,t,,0.25,li,ti
+离婚,lí hūn,,quinn,,0.37499999999999994,lixwən,kwɪn
+厘米,lí mǐ,,leaving,,0.4,limi,livɪŋ
+礼拜天,lǐ bài tiān,,line,,0.6,lipaɪtʰjɛn,laɪn
+理论,lǐ lùn,,between,,0.45833333333333326,lilwən,bɪtwin
+理由,lǐ yóu,,low,,0.4,liyoʊ,loʊ
+粒,lì,,t,,0.25,li,ti
+立方,lì fāng,,briefing,,0.37499999999999994,lifɑŋ,brifɪŋ
+立即,lì jí,,between,,0.5833333333333333,litɕi,bɪtwin
+立刻,lì kè,,links,,0.6000000000000001,likʰɤ,lɪŋks
+力量,lì liang,,receiving,,0.5357142857142857,liljɑŋ,rɪsivɪŋ
+利润,lì rùn,,resigned,,0.49999999999999994,liʐwən,rɪzaɪnd
+利息,lì xī,,illegally,,0.5357142857142857,liɕi,ɪligəli
+利益,lì yì,,real,,0.49999999999999994,lii,ril
+利用,lì yòng,,being,,0.5,liyʊŋ,biɪŋ
+连忙,lián máng,,economic,,0.5625,ljɛnmɑŋ,ɛkənɑmɪk
+连续剧,lián xù jù,,reconstruction,,0.673076923076923,ljɛnɕytɕy,rikənstrəkʃən
+联合,lián hé,,then,,0.6249999999999999,ljɛnxɤ,ðɛn
+恋爱,liàn ài,,cnn,,0.45833333333333326,ljɛnaɪ,siɛnɛn
+良好,liáng hǎo,,lighthouse,,0.5625,ljɑŋxɑʊ,laɪthaʊs
+粮食,liáng shi,,reality,,0.49999999999999994,ljɑŋʂɨ,riæləti
+了不起,liǎo bu qǐ,,time,,0.7,ljɑʊputɕʰi,taɪm
+临时,lín shí,,princes,,0.5357142857142856,linʂɨ,prɪnsɪz
+铃,líng,,link,,0.375,liŋ,lɪŋk
+零件,líng jiàn,,location,,0.611111111111111,liŋtɕjɛn,loʊkeɪʃən
+零钱,líng qián,,participation,,0.673076923076923,liŋtɕʰjɛn,pɑrtɪsəpeɪʃən
+零食,líng shí,,length,,0.4,liŋʂɨ,lɛŋθ
+灵活,líng huó,,likely,,0.5833333333333333,liŋxwɔ,laɪkli
+领导,lǐng dǎo,,longstanding,,0.525,liŋtɑʊ,lɔŋstændɪŋ
+领域,lǐng yù,,liquid,,0.5416666666666666,liŋy,lɪkwɪd
+流传,liú chuán,,told,,0.65,ljoʊʈʂʰwan,toʊld
+浏览,liú lǎn,,old,,0.46428571428571425,ljoʊlan,oʊld
+龙,lóng,,link,,0.375,lʊŋ,lɪŋk
+漏,lòu,,no,,0.25,loʊ,noʊ
+露,lù,,two,,0.25,lu,tu
+陆地,lù dì,,duties,,0.35,luti,dutiz
+陆续,lù xù,,lose,,0.4375,luɕy,luz
+录取,lù qǔ,,louis,,0.6249999999999999,lutɕʰy,luɪs
+录音,lù yīn,,twins,,0.45,luin,twɪnz
+轮流,lún liú,,twenty-five,,0.49999999999999994,lwənljoʊ,twɛntifaɪv
+论文,lùn wén,,latin,,0.49999999999999994,lwənwən,lætən
+逻辑,luó ji,,frequently,,0.575,lwɔtɕi,frikwɛntli
+落后,luò hòu,,monaco,,0.49999999999999994,lwɔxoʊ,mɑnəkoʊ
+骂,mà,,na,,0.25,ma,nɑ
+麦克风,mài kè fēng,,mathematics,,0.625,maɪkʰɤfɤŋ,mæθəmætɪks
+馒头,mán tou,,manifesto,,0.45,mantʰoʊ,mænɪfɛstoʊ
+满足,mǎn zú,,months,,0.41666666666666663,mantsu,mənθs
+毛,máo,,by,,0.25,mɑʊ,baɪ
+毛病,máo bìng,,having,,0.45833333333333326,mɑʊpiŋ,hævɪŋ
+矛盾,máo dùn,,mongolian,,0.45,mɑʊtwən,mɑŋgoʊljən
+冒险,mào xiǎn,,maximilian,,0.5227272727272727,mɑʊɕjɛn,mæksɪmɪliən
+贸易,mào yì,,maori,,0.2,mɑʊi,maʊri
+眉毛,méi mao,,radio,,0.49999999999999994,meɪmɑʊ,reɪdioʊ
+煤炭,méi tàn,,based,,0.49999999999999994,meɪtʰan,beɪst
+美术,měi shù,,days,,0.45000000000000007,meɪʂu,deɪz
+魅力,mèi lì,,baby,,0.25,meɪli,beɪbi
+迷路,mí lù,,value,,0.45000000000000007,milu,vælju
+谜语,mí yǔ,,butte,,0.375,miy,bjut
+密切,mì qiè,,retaliation,,0.6363636363636362,mitɕʰjɛ,ritælieɪʃən
+蜜蜂,mì fēng,,having,,0.5,mifɤŋ,hævɪŋ
+秘密,mì mì,,mini,,0.25,mimi,mɪni
+秘书,mì shū,,nbc,,0.5416666666666666,miʂu,ɛnbisi
+棉花,mián hua,,production,,0.6666666666666666,mjɛnxwa,pərdəkʃən
+面对,miàn duì,,mcintyre,,0.49999999999999994,mjɛntweɪ,mækɪntaɪr
+面积,miàn ji,,finally,,0.49999999999999994,mjɛntɕi,faɪnəli
+面临,miàn lín,,bmw,,0.5227272727272727,mjɛnlin,biɛmdəbəlju
+描写,miáo xiě,,reputation,,0.6363636363636364,mjɑʊɕjɛ,rɛpjəteɪʃən
+苗条,miáo tiáo,,department,,0.7,mjɑʊtʰjɑʊ,dɪpɑrtmənt
+秒,miǎo,,piano,,0.45000000000000007,mjɑʊ,piænə
+民主,mín zhǔ,,since,,0.5833333333333333,minʈʂu,sɪns
+明确,míng què,,protected,,0.7499999999999999,miŋtɕʰɥœ,prətɛktɪd
+明显,míng xiǎn,,musical,,0.5625,miŋɕjɛn,mjuzɪkəl
+明信片,míng xìn piàn,,national,,0.6590909090909091,miŋɕinpʰjɛn,næʃənəl
+明星,míng xīng,,species,,0.5833333333333333,miŋɕiŋ,spiʃiz
+名牌,míng pái,,modified,,0.59375,miŋpʰaɪ,mɑdəfaɪd
+名片,míng piàn,,required,,0.611111111111111,miŋpʰjɛn,rikwaɪərd
+名胜,míng shèng,,pickering,,0.5357142857142857,miŋʂɤŋ,pɪkərɪŋ
+命令,mìng lìng,,museum,,0.5357142857142857,miŋliŋ,mjuziəm
+命运,mìng yùn,,been,,0.55,miŋyn,bɪn
+摸,mō,,powell,,0.55,mwɔ,pɑwɛl
+摩托车,mó tuō chē,,performances,,0.7916666666666666,mwɔtʰwɔʈʂʰɤ,pərfɔrmənsɪz
+模仿,mó fǎng,,provide,,0.5357142857142857,mwɔfɑŋ,prəvaɪd
+模糊,mó hu,,moving,,0.6000000000000001,mwɔxu,muvɪŋ
+陌生,mò shēng,,more,,0.6249999999999999,mwɔʂɤŋ,mɔr
+某,mǒu,,mode,,0.25,moʊ,moʊd
+目标,mù biāo,,movement,,0.5357142857142857,mupjɑʊ,muvmənt
+目录,mù lù,,bluetooth,,0.4583333333333333,mulu,blutuθ
+目前,mù qián,,production,,0.6388888888888888,mutɕʰjɛn,pərdəkʃən
+木头,mù tou,,pedro,,0.5357142857142857,mutʰoʊ,peɪdroʊ
+哪怕,nǎ pà,,opera,,0.55,napʰa,ɑprə
+难怪,nán guài,,transcribed,,0.5227272727272727,nankwaɪ,trænskraɪbd
+难看,nán kàn,,connection,,0.5625,nankʰan,kənɛkʃən
+脑袋,nǎo dài,,founded,,0.49999999999999994,nɑʊtaɪ,faʊndɪd
+内科,nèi kē,,medical,,0.5357142857142857,neɪkʰɤ,mɛdɪkəl
+嫩,nèn,,did,,0.25,nən,dɪd
+能干,néng gàn,,junction,,0.49999999999999994,nɤŋkan,ʤəŋkʃən
+能源,néng yuán,,when,,0.5833333333333333,nɤŋɥœn,wɪn
+年代,nián dài,,today,,0.49999999999999994,njɛntaɪ,tədeɪ
+年纪,nián jì,,concurrently,,0.5227272727272727,njɛntɕi,kənkərəntli
+念,niàn,,named,,0.4,njɛn,neɪmd
+宁可,nìng kě,,week,,0.6666666666666666,niŋkʰɤ,wik
+牛仔裤,niú zǎi kù,,decision-making,,0.6346153846153846,njoʊtsaɪkʰu,dɪsɪʒənmeɪkɪŋ
+浓,nóng,,known,,0.5,nʊŋ,noʊn
+农民,nóng mín,,name,,0.6249999999999999,nʊŋmin,neɪm
+农业,nóng yè,,nuclear,,0.5357142857142857,nʊŋjɛ,nukliər
+女士,nǚ shì,,duties,,0.4,nyʂɨ,dutiz
+偶然,ǒu rán,,own,,0.4,oʊʐan,oʊn
+拍,pāi,,flight,,0.45000000000000007,pʰaɪ,flaɪt
+排队,pái duì,,playstation,,0.5227272727272727,pʰaɪtweɪ,pleɪsteɪʃən
+排球,pái qiú,,final,,0.65,pʰaɪtɕʰjoʊ,faɪnəl
+派,pài,,flight,,0.45000000000000007,pʰaɪ,flaɪt
+盼望,pàn wàng,,processing,,0.59375,pʰanwɑŋ,prɑsɛsɪŋ
+赔偿,péi cháng,,facilitating,,0.6249999999999999,pʰeɪʈʂʰɑŋ,fəsɪləteɪtɪŋ
+培养,péi yǎng,,providing,,0.5277777777777777,pʰeɪjɑŋ,prəvaɪdɪŋ
+配合,pèi hé,,america,,0.5357142857142857,pʰeɪxɤ,əmɛrɪkə
+佩服,pèi fú,,obtained,,0.5357142857142857,pʰeɪfu,əbteɪnd
+盆,pén,,front,,0.45000000000000007,pʰən,frənt
+碰见,pèng jiàn,,confrontation,,0.673076923076923,pʰɤŋtɕjɛn,kɑnfrənteɪʃən
+披,pī,,many,,0.5625,pʰi,mɛni
+批,pī,,many,,0.5625,pʰi,mɛni
+批准,pī zhǔn,,political,,0.611111111111111,pʰiʈʂwən,pəlɪtɪkəl
+疲劳,pí láo,,payload,,0.49999999999999994,pʰilɑʊ,peɪloʊd
+皮鞋,pí xié,,before,,0.6249999999999999,pʰiɕjɛ,bifɔr
+匹,pǐ,,many,,0.5625,pʰi,mɛni
+片,piàn,,born,,0.55,pʰjɛn,bɔrn
+片面,piàn miàn,,pennsylvania,,0.625,pʰjɛnmjɛn,pɛnsəlveɪnjə
+飘,piāo,,may,,0.6000000000000001,pʰjɑʊ,meɪ
+频道,pín dào,,pakistan,,0.5625,pʰintɑʊ,pækɪstæn
+品种,pǐn zhǒng,,maintained,,0.611111111111111,pʰinʈʂʊŋ,meɪnteɪnd
+凭,píng,,building,,0.5833333333333333,pʰiŋ,bɪldɪŋ
+平,píng,,building,,0.5833333333333333,pʰiŋ,bɪldɪŋ
+平常,píng cháng,,principality,,0.7291666666666666,pʰiŋʈʂʰɑŋ,prɪnsɪpælɪti
+平等,píng děng,,creating,,0.59375,pʰiŋtɤŋ,krieɪtɪŋ
+平方,píng fāng,,prompting,,0.59375,pʰiŋfɑŋ,prɑmptɪŋ
+平衡,píng héng,,meeting,,0.5714285714285714,pʰiŋxɤŋ,mitɪŋ
+平静,píng jìng,,practical,,0.6388888888888888,pʰiŋtɕiŋ,præktɪkəl
+平均,píng jūn,,vacation,,0.611111111111111,pʰiŋtɕyn,veɪkeɪʃən
+评价,píng jià,,difficulties,,0.7,pʰiŋtɕja,dɪfɪkəltiz
+破产,pò chǎn,,quarterback,,0.7,pʰwɔʈʂʰan,kwɔrtərbæk
+破坏,pò huài,,norway,,0.53125,pʰwɔxwaɪ,nɔrweɪ
+迫切,pò qiè,,homosexuality,,0.765625,pʰwɔtɕʰjɛ,hoʊmoʊsɛkʃuæləti
+朴素,pǔ sù,,food,,0.6000000000000001,pʰusu,fud
+期待,qī dài,,technology,,0.6666666666666666,tɕʰitaɪ,tɛknɑləʤi
+期间,qī jiān,,transcription,,0.6458333333333333,tɕʰitɕjɛn,trænskrɪpʃən
+其余,qí yú,,to,,0.7,tɕʰiy,tɪ
+奇迹,qí jì,,cemetery,,0.59375,tɕʰitɕi,sɛmɪtɛri
+启发,qǐ fā,,semifinal,,0.7,tɕʰifa,sɛmɪfaɪnəl
+企图,qǐ tú,,celebrities,,0.7499999999999999,tɕʰitʰu,səlɛbrɪtiz
+企业,qǐ yè,,experience,,0.7499999999999999,tɕʰijɛ,ɪkspɪriəns
+气氛,qì fēn,,testified,,0.5277777777777777,tɕʰifən,tɛstɪfaɪd
+汽油,qì yóu,,toronto,,0.59375,tɕʰiyoʊ,tərɑntoʊ
+牵,qiān,,retaliation,,0.6363636363636362,tɕʰjɛn,ritælieɪʃən
+签字,qiān zì,,subsequently,,0.6458333333333333,tɕʰjɛntsɯ,səbsəkwəntli
+谦虚,qiān xū,,advertisements,,0.7321428571428571,tɕʰjɛnɕy,ædvərtaɪzmənts
+前途,qián tú,,comprehensive,,0.7291666666666666,tɕʰjɛntʰu,kɑmprihɛnsɪv
+浅,qiǎn,,retaliation,,0.6363636363636362,tɕʰjɛn,ritælieɪʃən
+欠,qiàn,,retaliation,,0.6363636363636362,tɕʰjɛn,ritælieɪʃən
+枪,qiāng,,young,,0.6249999999999999,tɕʰjɑŋ,jəŋ
+强调,qiáng diào,,united,,0.7249999999999999,tɕʰjɑŋtjɑʊ,junaɪtɪd
+强烈,qiáng liè,,indianapolis,,0.7291666666666666,tɕʰjɑŋljɛ,ɪndiənæpəlɪs
+抢,qiǎng,,young,,0.6249999999999999,tɕʰjɑŋ,jəŋ
+悄悄,qiāo qiāo,,simultaneously,,0.7833333333333334,tɕʰjɑʊtɕʰjɑʊ,saɪməlteɪniəsli
+瞧,qiáo,,time,,0.6666666666666666,tɕʰjɑʊ,taɪm
+巧妙,qiǎo miào,,team,,0.7249999999999999,tɕʰjɑʊmjɑʊ,tim
+切,qiē,,team,,0.6499999999999999,tɕʰjɛ,tim
+亲爱,qīn ài,,transylvania,,0.6346153846153846,tɕʰinaɪ,trænzilveɪniə
+亲切,qīn qiè,,later,,0.7749999999999999,tɕʰintɕʰjɛ,leɪtər
+亲自,qīn zì,,establishments,,0.6730769230769231,tɕʰintsɯ,ɛstæblɪʃmənts
+侵略,qīn lvè,,tuberculosis,,0.7321428571428571,tɕʰinlɥœ,təbərkjəloʊsɪs
+勤奋,qín fèn,,television,,0.611111111111111,tɕʰinfən,tɛləvɪʒən
+勤劳,qín láo,,australian,,0.7,tɕʰinlɑʊ,ɔstreɪljən
+青,qīng,,to,,0.7,tɕʰiŋ,tɪ
+青春,qīng chūn,,one,,0.7272727272727273,tɕʰiŋʈʂʰwən,wən
+青少年,qīng shào nián,,stabilization,,0.6607142857142857,tɕʰiŋʂɑʊnjɛn,steɪbələzeɪʃən
+轻视,qīng shì,,subsidiary,,0.7,tɕʰiŋʂɨ,səbsɪdiɛri
+清淡,qīng dàn,,birmingham,,0.611111111111111,tɕʰiŋtan,bərmɪŋhæm
+情景,qíng jǐng,,notwithstanding,,0.673076923076923,tɕʰiŋtɕiŋ,nɑtwɪθstændɪŋ
+情绪,qíng xù,,distinctive,,0.7499999999999999,tɕʰiŋɕy,dɪstɪŋktɪv
+请求,qǐng qiú,,species,,0.7272727272727273,tɕʰiŋtɕʰjoʊ,spiʃiz
+庆祝,qìng zhù,,difficulties,,0.7499999999999999,tɕʰiŋʈʂu,dɪfɪkəltiz
+球迷,qiú mí,,manitoba,,0.611111111111111,tɕʰjoʊmi,mænɪtoʊbə
+趋势,qū shì,,troops,,0.6249999999999999,tɕʰyʂɨ,trups
+娶,qǔ,,matthew,,0.6499999999999999,tɕʰy,mæθju
+取消,qǔ xiāo,,july,,0.625,tɕʰyɕjɑʊ,ʤulaɪ
+去世,qù shì,,troops,,0.6249999999999999,tɕʰyʂɨ,trups
+圈,quān,,between,,0.6249999999999999,tɕʰɥœn,bɪtwin
+全面,quán miàn,,australian,,0.625,tɕʰɥœnmjɛn,ɔstreɪljən
+权力,quán lì,,consequently,,0.5208333333333334,tɕʰɥœnli,kɑnsəkwɛntli
+权利,quán lì,,consequently,,0.5208333333333334,tɕʰɥœnli,kɑnsəkwɛntli
+劝,quàn,,between,,0.6249999999999999,tɕʰɥœn,bɪtwin
+缺乏,quē fá,,influential,,0.7499999999999999,tɕʰɥœfa,ɪnfluɛnʃəl
+确定,què dìng,,operating,,0.6388888888888888,tɕʰɥœtiŋ,ɔpəreɪtɪŋ
+确认,què rèn,,hungarian,,0.611111111111111,tɕʰɥœʐən,həŋgɛriən
+燃烧,rán shāo,,sponsor,,0.49999999999999994,ʐanʂɑʊ,spɑnsər
+嚷,rǎng,,gang,,0.3333333333333333,ʐɑŋ,gæŋ
+绕,rào,,now,,0.3333333333333333,ʐɑʊ,naʊ
+热爱,rè ài,,shoreline,,0.5357142857142857,ʐɤaɪ,ʃɔrlaɪn
+热烈,rè liè,,million,,0.5,ʐɤljɛ,mɪljən
+热心,rè xīn,,city,,0.6000000000000001,ʐɤɕin,sɪti
+人才,rén cái,,september,,0.6388888888888888,ʐəntsʰaɪ,sɛptɛmbər
+人口,rén kǒu,,toronto,,0.59375,ʐənkʰoʊ,tərɑntoʊ
+人类,rén lèi,,sunday,,0.45833333333333326,ʐənleɪ,səndi
+人生,rén shēng,,studying,,0.49999999999999994,ʐənʂɤŋ,stədiɪŋ
+人事,rén shì,,only,,0.5,ʐənʂɨ,oʊnli
+人物,rén wù,,isn't,,0.45000000000000007,ʐənu,ɪzənt
+人员,rén yuán,,engine,,0.41666666666666663,ʐənɥœn,ɪnʤən
+忍不住,rěn bu zhù,,consisted,,0.6388888888888888,ʐənpuʈʂu,kənsɪstɪd
+日常,rì cháng,,consisting,,0.6666666666666666,ʐɨʈʂʰɑŋ,kənsɪstɪŋ
+日程,rì chéng,,statistics,,0.7,ʐɨʈʂʰɤŋ,stətɪstɪks
+日历,rì lì,,weekly,,0.4,ʐɨli,wikli
+日期,rì qī,,reportedly,,0.7,ʐɨtɕʰi,rɪpɔrtədli
+日用品,rì yòng pǐn,,columbian,,0.6749999999999999,ʐɨyʊŋpʰin,koʊləmbiən
+融化,róng huà,,single,,0.6666666666666666,ʐʊŋxwa,sɪŋgəl
+荣幸,róng xìng,,only,,0.6249999999999999,ʐʊŋɕiŋ,oʊnli
+荣誉,róng yù,,reduce,,0.6499999999999999,ʐʊŋy,rɪdus
+如何,rú hé,,sumo,,0.6,ʐuxɤ,sumoʊ
+如今,rú jīn,,neutrons,,0.49999999999999994,ʐutɕin,nutrɑnz
+软件,ruǎn jiàn,,translations,,0.5625,ʐwantɕjɛn,trænzleɪʃənz
+弱,ruò,,the,,0.5833333333333333,ʐwɔ,ðə
+洒,sǎ,,ta,,0.25,sa,tɑ
+嗓子,sǎng zi,,started,,0.5357142857142857,sɑŋtsɯ,stɑrtɪd
+杀,shā,,la,,0.375,ʂa,lɑ
+沙漠,shā mò,,san,,0.55,ʂamwɔ,sæn
+沙滩,shā tān,,sulfide,,0.5357142857142856,ʂatʰan,səlfaɪd
+傻,shǎ,,la,,0.375,ʂa,lɑ
+晒,shài,,by,,0.5,ʂai,baɪ
+删除,shān chú,,continued,,0.6666666666666666,ʂanʈʂʰu,kəntɪnjud
+闪电,shǎn diàn,,million,,0.49999999999999994,ʂantjɛn,mɪljən
+善良,shàn liáng,,establishing,,0.525,ʂanljɑŋ,ɪstæblɪʃɪŋ
+善于,shàn yú,,hindu,,0.45000000000000007,ʂany,hɪndu
+扇子,shān zi,,lands,,0.45833333333333326,ʂantsɯ,lændz
+商品,shāng pǐn,,classified,,0.6388888888888888,ʂɑŋpʰin,klæsəfaɪd
+商业,shāng yè,,having,,0.6000000000000001,ʂɑŋjɛ,hævɪŋ
+上当,shàng dàng,,sporting,,0.5357142857142857,ʂɑŋtɑŋ,spɔrtɪŋ
+勺子,sháo zi,,counties,,0.49999999999999994,ʂɑʊtsɯ,kaʊntiz
+蛇,shé,,song,,0.49999999999999994,ʂɤ,sɔŋ
+舌头,shé tou,,latino,,0.49999999999999994,ʂɤtʰoʊ,lətinoʊ
+舍不得,shě bu de,,route,,0.6249999999999999,ʂɤputɤ,rut
+设备,shè bèi,,by,,0.5,ʂɤpeɪ,baɪ
+设计,shè jì,,three,,0.6000000000000001,ʂɤtɕi,θri
+设施,shè shī,,stories,,0.5416666666666666,ʂɤʂɨ,stɔriz
+射击,shè jī,,three,,0.6000000000000001,ʂɤtɕi,θri
+摄影,shè yǐng,,serving,,0.5833333333333333,ʂɤiŋ,sərvɪŋ
+伸,shēn,,sons,,0.3125,ʂən,sənz
+深刻,shēn kè,,and,,0.6666666666666666,ʂənkʰɤ,ənd
+身材,shēn cái,,successful,,0.611111111111111,ʂəntsʰaɪ,səksɛsfəl
+身份,shēn fèn,,subdivision,,0.44999999999999996,ʂənfən,səbdɪvɪʒən
+神话,shén huà,,and,,0.6666666666666666,ʂənxwa,ənd
+神经,shén jīng,,until,,0.49999999999999994,ʂəntɕiŋ,əntɪl
+神秘,shén mì,,money,,0.4,ʂənmi,məni
+升,shēng,,songs,,0.375,ʂɤŋ,sɔŋz
+生产,shēng chǎn,,circumstances,,0.6730769230769231,ʂɤŋʈʂʰan,sərkəmstænsɪz
+生动,shēng dòng,,holding,,0.5357142857142857,ʂɤŋtʊŋ,hoʊldɪŋ
+声调,shēng diào,,synchronized,,0.6363636363636364,ʂɤŋtjɑʊ,sɪŋkrənaɪzd
+绳子,shéng zi,,its,,0.6249999999999999,ʂɤŋtsɯ,ɪts
+省略,shěng lvè,,householder,,0.6590909090909091,ʂɤŋlɥœ,haʊshoʊldər
+胜利,shèng lì,,highly,,0.4,ʂɤŋli,haɪli
+诗,shī,,t,,0.375,ʂɨ,ti
+失眠,shī mián,,season,,0.41666666666666663,ʂɨmjɛn,sizən
+失去,shī qù,,institution,,0.7,ʂɨtɕʰy,ɪnstɪtuʃən
+失业,shī yè,,season,,0.5,ʂɨjɛ,sizən
+时代,shí dài,,details,,0.49999999999999994,ʂɨtaɪ,diteɪlz
+时刻,shí kè,,hook,,0.6499999999999999,ʂɨkʰɤ,hʊk
+时髦,shí máo,,supplies,,0.5357142857142857,ʂɨmɑʊ,səplaɪz
+时期,shí qī,,substantially,,0.6590909090909091,ʂɨtɕʰi,səbstænʃəli
+时尚,shí shàng,,season,,0.5,ʂɨʂɑŋ,sizən
+实话,shí huà,,speedway,,0.5357142857142857,ʂɨxwa,spidweɪ
+实践,shí jiàn,,determine,,0.5625,ʂɨtɕjɛn,dɪtərmən
+实习,shí xí,,celia,,0.45000000000000007,ʂɨɕi,siljə
+实现,shí xiàn,,solomon,,0.5357142857142856,ʂɨɕjɛn,sɑləmən
+实行,shí xíng,,city,,0.5,ʂɨɕiŋ,sɪti
+实验,shí yàn,,said,,0.5,ʂɨjɛn,sɛd
+实用,shí yòng,,having,,0.55,ʂɨyʊŋ,hævɪŋ
+食物,shí wù,,he,,0.5,ʂɨu,hi
+石头,shí tou,,latino,,0.49999999999999994,ʂɨtʰoʊ,lətinoʊ
+使劲儿,shǐ jìn ér,,relationship,,0.6363636363636364,ʂɨtɕinɻ,rileɪʃənʃɪp
+始终,shǐ zhōng,,receiving,,0.5357142857142857,ʂɨʈʂʊŋ,rɪsivɪŋ
+是否,shì fǒu,,hero,,0.4,ʂɨfoʊ,hɪroʊ
+试卷,shì juàn,,northwest,,0.5625,ʂɨtɕɥœn,nɔrθwɛst
+士兵,shì bīng,,screening,,0.49999999999999994,ʂɨpiŋ,skrinɪŋ
+似的,shì de,,streets,,0.5416666666666666,ʂɨtɤ,strits
+事实,shì shí,,city,,0.375,ʂɨʂɨ,sɪti
+事物,shì wù,,he,,0.5,ʂɨu,hi
+事先,shì xiān,,solomon,,0.5357142857142856,ʂɨɕjɛn,sɑləmən
+收获,shōu huò,,soldiers,,0.59375,ʂoʊxwɔ,soʊlʤərz
+收据,shōu jù,,mostly,,0.5357142857142857,ʂoʊtɕy,moʊstli
+手工,shǒu gōng,,taking,,0.45833333333333326,ʂoʊkʊŋ,teɪkɪŋ
+手术,shǒu shù,,house,,0.55,ʂoʊʂu,haʊs
+手套,shǒu tào,,sociology,,0.525,ʂoʊtʰɑʊ,soʊsiɑləʤi
+手续,shǒu xù,,total,,0.5833333333333333,ʂoʊɕy,toʊtəl
+手指,shǒu zhǐ,,slightly,,0.5357142857142857,ʂoʊʈʂɨ,slaɪtli
+受伤,shòu shāng,,suicide,,0.5357142857142857,ʂoʊʂɑŋ,suɪsaɪd
+寿命,shòu mìng,,home,,0.41666666666666663,ʂoʊmiŋ,hoʊm
+书架,shū jià,,within,,0.6666666666666666,ʂutɕja,wɪθɪn
+输入,shū rù,,youtube,,0.55,ʂuʐu,jutub
+蔬菜,shū cài,,y,,0.6071428571428571,ʂutsʰaɪ,waɪ
+舒适,shū shì,,city,,0.5,ʂuʂɨ,sɪti
+梳子,shū zi,,lucy,,0.45000000000000007,ʂutsɯ,lusi
+熟练,shú liàn,,sultan,,0.41666666666666663,ʂuljɛn,səltən
+鼠标,shǔ biāo,,sometime,,0.5357142857142857,ʂupjɑʊ,səmtaɪm
+属于,shǔ yú,,two,,0.5833333333333333,ʂuy,tu
+数据,shù jù,,through,,0.6000000000000001,ʂutɕy,θru
+数码,shù mǎ,,super,,0.45000000000000007,ʂuma,supər
+摔,shuāi,,quite,,0.4,ʂwaɪ,kwaɪt
+甩,shuǎi,,quite,,0.4,ʂwaɪ,kwaɪt
+双方,shuāng fāng,,revolving,,0.5625,ʂwɑŋfɑŋ,rivɑlvɪŋ
+税,shuì,,say,,0.3125,ʂweɪ,seɪ
+说不定,shuō bu dìng,,completing,,0.611111111111111,ʂwɔputiŋ,kəmplitɪŋ
+说服,shuō fú,,swim,,0.5,ʂwɔfu,swɪm
+撕,sī,,some,,0.5,sɯ,səm
+丝绸,sī chóu,,saxophone,,0.5277777777777778,sɯʈʂʰoʊ,sæksəfoʊn
+丝毫,sī háo,,singer,,0.5,sɯxɑʊ,sɪŋər
+思考,sī kǎo,,second,,0.6249999999999999,sɯkʰɑʊ,sɛkənd
+思想,sī xiǎng,,song,,0.6249999999999999,sɯɕjɑŋ,sɔŋ
+私人,sī rén,,ocean,,0.35000000000000003,sɯʐən,oʊʃən
+似乎,sì hū,,syracuse,,0.53125,sɯxu,sɪrəkjuz
+寺庙,sì miào,,senior,,0.45833333333333326,sɯmjɑʊ,sinjər
+宿舍,sù shè,,suicide,,0.5357142857142857,suʂɤ,suɪsaɪd
+随时,suí shí,,daily,,0.41666666666666663,sweɪʂɨ,deɪli
+碎,suì,,way,,0.25,sweɪ,weɪ
+损失,sǔn shī,,ruins,,0.45833333333333326,swənʂɨ,ruɪnz
+缩短,suō duǎn,,supported,,0.59375,swɔtwan,səpɔrtɪd
+缩小,suō xiǎo,,satellite,,0.59375,swɔɕjɑʊ,sætəlaɪt
+锁,suǒ,,small,,0.5,swɔ,smɔl
+所,suǒ,,small,,0.5,swɔ,smɔl
+所谓,suǒ wèi,,railway,,0.49999999999999994,swɔweɪ,reɪlweɪ
+塔,tǎ,,dry,,0.5625,tʰa,draɪ
+台阶,tái jiē,,terrestrial,,0.575,tʰaɪtɕjɛ,tərɛstriəl
+太极拳,tài jí quán,,instrumentation,,0.7,tʰaɪtɕitɕʰɥœn,ɪnstrəmɛnteɪʃən
+太太,tài tai,,storyline,,0.611111111111111,tʰaɪtʰaɪ,stɔrilaɪn
+谈判,tán pàn,,advancement,,0.6000000000000001,tʰanpʰan,ədvænsmənt
+坦率,tǎn shuài,,transcontinental,,0.6071428571428571,tʰanʂwaɪ,trænzkɑnɪnɛnəl
+烫,tàng,,tracks,,0.5,tʰɑŋ,træks
+桃,táo,,town,,0.5,tʰɑʊ,taʊn
+逃,táo,,town,,0.5,tʰɑʊ,taʊn
+逃避,táo bì,,driving,,0.5357142857142857,tʰɑʊpi,draɪvɪŋ
+套,tào,,town,,0.5,tʰɑʊ,taʊn
+特殊,tè shū,,source,,0.6500000000000001,tʰɤʂu,sɔrs
+特意,tè yì,,trophies,,0.6428571428571428,tʰɤi,troʊfiz
+特征,tè zhēng,,consisting,,0.6666666666666666,tʰɤʈʂɤŋ,kənsɪstɪŋ
+疼爱,téng ài,,stereotype,,0.6590909090909091,tʰɤŋaɪ,stɛrioʊtaɪp
+提,tí,,he,,0.5833333333333333,tʰi,hi
+提倡,tí chàng,,outstanding,,0.7,tʰiʈʂʰɑŋ,aʊtstændɪŋ
+提纲,tí gāng,,track,,0.5833333333333333,tʰikɑŋ,træk
+提问,tí wèn,,titled,,0.5357142857142857,tʰiwən,taɪtəld
+题目,tí mù,,type,,0.55,tʰimu,taɪp
+体会,tǐ huì,,underway,,0.5625,tʰixweɪ,əndərweɪ
+体积,tǐ jī,,swiftly,,0.5357142857142857,tʰitɕi,swɪftli
+体贴,tǐ tiē,,territories,,0.6666666666666666,tʰitʰjɛ,tɛrətɔriz
+体现,tǐ xiàn,,stadium,,0.5625,tʰiɕjɛn,steɪdiəm
+体验,tǐ yàn,,australian,,0.575,tʰijɛn,ɔstreɪljən
+天空,tiān kōng,,decision-making,,0.6730769230769231,tʰjɛnkʰʊŋ,dɪsɪʒənmeɪkɪŋ
+天真,tiān zhēn,,presentation,,0.5625,tʰjɛnʈʂən,prɛzənteɪʃən
+田野,tián yě,,mediterranean,,0.6346153846153846,tʰjɛnjɛ,mɛdətəreɪniən
+调皮,tiáo pí,,surrounding,,0.6388888888888888,tʰjɑʊpʰi,səraʊndɪŋ
+调整,tiáo zhěng,,afghanistan,,0.7,tʰjɑʊʈʂɤŋ,æfgænəstæn
+挑战,tiǎo zhàn,,stipulated,,0.6458333333333333,tʰjɑʊʈʂan,stɪpjəleɪtɪd
+通常,tōng cháng,,homosexuality,,0.765625,tʰʊŋʈʂʰɑŋ,hoʊmoʊsɛkʃuæləti
+通讯,tōng xùn,,distinctions,,0.6363636363636364,tʰʊŋɕyn,dɪstɪŋkʃənz
+铜,tóng,,taking,,0.5833333333333333,tʰʊŋ,teɪkɪŋ
+同时,tóng shí,,house,,0.6666666666666666,tʰʊŋʂɨ,haʊs
+统一,tǒng yī,,city,,0.6000000000000001,tʰʊŋi,sɪti
+统治,tǒng zhì,,located,,0.6666666666666666,tʰʊŋʈʂɨ,loʊkeɪtəd
+痛苦,tòng kǔ,,so,,0.75,tʰʊŋkʰu,soʊ
+痛快,tòng kuài,,telecommunications,,0.763888888888889,tʰʊŋkʰwaɪ,tɛləkəmjunəkeɪʃənz
+投资,tóu zī,,devoted,,0.5625,tʰoʊtsɯ,dɪvoʊtɪd
+透明,tòu míng,,automobiles,,0.525,tʰoʊmiŋ,ɔtəmoʊbilz
+突出,tū chū,,linguistic,,0.7499999999999999,tʰuʈʂʰu,lɪŋgwɪstɪk
+土地,tǔ dì,,city,,0.5,tʰuti,sɪti
+土豆,tǔ dòu,,solo,,0.45833333333333326,tʰutoʊ,soʊloʊ
+吐,tù,,new,,0.5833333333333333,tʰu,nu
+兔子,tù zi,,total,,0.6249999999999999,tʰutsɯ,toʊtəl
+团,tuán,,hawaiian,,0.5357142857142857,tʰwan,həwaɪən
+推辞,tuī cí,,administering,,0.6458333333333334,tʰweɪtsʰɯ,ædmɪnɪstərɪŋ
+推广,tuī guǎng,,redistricting,,0.6249999999999999,tʰweɪkwɑŋ,ridɪstrɪktɪŋ
+推荐,tuī jiàn,,decision,,0.6000000000000001,tʰweɪtɕjɛn,dɪsɪʒən
+退,tuì,,way,,0.4,tʰweɪ,weɪ
+退步,tuì bù,,townships,,0.59375,tʰweɪpu,taʊnʃɪps
+退休,tuì xiū,,montevideo,,0.5681818181818181,tʰweɪɕjoʊ,mɑntɛvɪdioʊ
+歪,wāi,,while,,0.25,waɪ,waɪl
+外交,wài jiāo,,magistrate,,0.575,waɪtɕjɑʊ,mæʤɪstreɪt
+弯,wān,,one,,0.25,wan,wən
+完美,wán měi,,saturday,,0.49999999999999994,wanmeɪ,sætɪdeɪ
+完善,wán shàn,,mountain,,0.49999999999999994,wanʂan,maʊntən
+完整,wán zhěng,,producing,,0.59375,wanʈʂɤŋ,prədusɪŋ
+玩具,wán jù,,contest,,0.5357142857142857,wantɕy,kɑntɛst
+万一,wàn yī,,sandy,,0.4,wani,sændi
+王子,wáng zǐ,,factory,,0.5357142857142857,wɑŋtsɯ,fæktəri
+往返,wǎng fǎn,,guangdong,,0.49999999999999994,wɑŋfan,gwɑŋdɔŋ
+微笑,wēi xiào,,maintain,,0.5625,weɪɕjɑʊ,meɪnteɪn
+威胁,wēi xié,,ukrainian,,0.575,weɪɕjɛ,jukreɪniən
+危害,wēi hài,,ok,,0.45833333333333326,weɪxaɪ,oʊkeɪ
+违反,wéi fǎn,,saved,,0.37499999999999994,weɪfan,seɪvd
+维护,wéi hù,,way,,0.4,weɪxu,weɪ
+围巾,wéi jīn,,native,,0.46428571428571425,weɪtɕin,neɪtɪv
+围绕,wéi rào,,railway,,0.5357142857142857,weɪʐɑʊ,reɪlweɪ
+唯一,wéi yī,,navy,,0.4,weɪi,neɪvi
+尾巴,wěi ba,,way,,0.4,weɪpa,weɪ
+伟大,wěi dà,,while,,0.4,weɪta,waɪl
+委屈,wěi qu,,matrix,,0.59375,weɪtɕʰy,meɪtrɪks
+委托,wěi tuō,,worldwide,,0.6388888888888888,weɪtʰwɔ,wərldwaɪd
+胃,wèi,,away,,0.25,weɪ,əweɪ
+位置,wèi zhi,,based,,0.4583333333333333,weɪʈʂɨ,beɪst
+未必,wèi bì,,navy,,0.25,weɪpi,neɪvi
+未来,wèi lái,,wildfire,,0.45,weɪlaɪ,waɪldfaɪər
+卫生间,wèi shēng jiān,,representations,,0.6333333333333333,weɪʂɤŋtɕjɛn,rɛprəzənteɪʃənz
+温暖,wēn nuǎn,,contains,,0.5625,wənnwan,kənteɪnz
+温柔,wēn róu,,although,,0.41666666666666663,wənʐoʊ,ɔlðoʊ
+闻,wén,,what,,0.25,wən,wət
+文件,wén jiàn,,orientation,,0.5454545454545454,wəntɕjɛn,ɔriɛnteɪʃən
+文具,wén jù,,countries,,0.5357142857142857,wəntɕy,kəntriz
+文明,wén míng,,denmark,,0.49999999999999994,wənmiŋ,dɛnmɑrk
+文学,wén xué,,with,,0.5833333333333333,wənɕɥœ,wɪθ
+吻,wěn,,what,,0.25,wən,wət
+稳定,wěn dìng,,something,,0.45833333333333326,wəntiŋ,səmθɪŋ
+问候,wèn hòu,,video,,0.41666666666666663,wənxoʊ,vɪdioʊ
+卧室,wò shì,,warsaw,,0.4,wɔʂɨ,wɔrsɔ
+屋子,wū zi,,forces,,0.6666666666666666,utsɯ,fɔrsɪz
+无奈,wú nài,,wainwright,,0.53125,unaɪ,weɪnraɪt
+无数,wú shù,,bluetooth,,0.6249999999999999,uʂu,blutuθ
+武器,wǔ qì,,equestrian,,0.7499999999999999,utɕʰi,ɪkwɛstriən
+武术,wǔ shù,,bluetooth,,0.6249999999999999,uʂu,blutuθ
+雾,wù,,new,,0.5,u,nu
+物理,wù lǐ,,weekly,,0.45000000000000007,uli,wikli
+物质,wù zhì,,within,,0.6000000000000001,uʈʂɨ,wɪθɪn
+吸收,xī shōu,,show,,0.45000000000000007,ɕiʂoʊ,ʃoʊ
+系,xì,,c,,0.375,ɕi,si
+系统,xì tǒng,,setting,,0.5,ɕitʰʊŋ,sɛtɪŋ
+细节,xì jié,,peter,,0.6249999999999999,ɕitɕjɛ,pitər
+戏剧,xì jù,,through,,0.6000000000000001,ɕitɕy,θru
+瞎,xiā,,huron,,0.5416666666666666,ɕja,hjʊrɑn
+吓,xià,,huron,,0.5416666666666666,ɕja,hjʊrɑn
+下载,xià zǎi,,municipality,,0.6346153846153846,ɕjatsaɪ,mjunɪsəpæləti
+鲜艳,xiān yàn,,remain,,0.49999999999999994,ɕjɛnjɛn,rɪmeɪn
+显得,xiǎn de,,and,,0.6249999999999999,ɕjɛntɤ,ənd
+显然,xiǎn rán,,suspension,,0.5277777777777777,ɕjɛnʐan,səspɛnʃən
+显示,xiǎn shì,,rapidly,,0.5357142857142856,ɕjɛnʂɨ,ræpədli
+县,xiàn,,season,,0.45000000000000007,ɕjɛn,sizən
+现金,xiàn jīn,,representation,,0.6071428571428572,ɕjɛntɕin,rɛprəzɛnteɪʃən
+现实,xiàn shí,,rapidly,,0.5357142857142856,ɕjɛnʂɨ,ræpədli
+现象,xiàn xiàng,,dimensions,,0.611111111111111,ɕjɛnɕjɑŋ,dɪmɛnʃənz
+相处,xiāng chǔ,,shanghai,,0.59375,ɕjɑŋʈʂʰu,ʃæŋhaɪ
+相当,xiāng dāng,,projecting,,0.5277777777777778,ɕjɑŋtɑŋ,prɑʤɛktɪŋ
+相对,xiāng duì,,microwave,,0.575,ɕjɑŋtweɪ,maɪkrəweɪv
+相关,xiāng guān,,frankfurt,,0.611111111111111,ɕjɑŋkwan,fræŋkfərt
+相似,xiāng sì,,reaction,,0.5357142857142857,ɕjɑŋsɯ,riækʃən
+想念,xiǎng niàn,,brazilian,,0.611111111111111,ɕjɑŋnjɛn,brəzɪljən
+想象,xiǎng xiàng,,theatrical,,0.611111111111111,ɕjɑŋɕjɑŋ,θiætrɪkəl
+享受,xiǎng shòu,,reactions,,0.59375,ɕjɑŋʂoʊ,riækʃənz
+项,xiàng,,zhejiang,,0.35,ɕjɑŋ,ʒiʤɑŋ
+项链,xiàng liàn,,republican,,0.575,ɕjɑŋljɛn,rɪpəblɪkən
+项目,xiàng mù,,blackpool,,0.5357142857142857,ɕjɑŋmu,blækpul
+橡皮,xiàng pí,,arguably,,0.6388888888888888,ɕjɑŋpʰi,ɑrgjuəbli
+象棋,xiàng qí,,hereditary,,0.675,ɕjɑŋtɕʰi,hərɛdətɛri
+象征,xiàng zhēng,,practices,,0.6388888888888888,ɕjɑŋʈʂɤŋ,præktɪsɪz
+消费,xiāo fèi,,ethiopian,,0.5277777777777778,ɕjɑʊfeɪ,iθioʊpiən
+消化,xiāo huà,,highlighted,,0.6666666666666666,ɕjɑʊxwa,haɪlaɪtɪd
+消灭,xiāo miè,,primary,,0.59375,ɕjɑʊmjɛ,praɪmɛri
+消失,xiāo shī,,theatrically,,0.575,ɕjɑʊʂɨ,θiætrɪkəli
+销售,xiāo shòu,,railroad,,0.59375,ɕjɑʊʂoʊ,reɪlroʊd
+小吃,xiǎo chī,,francisco,,0.7,ɕjɑʊʈʂʰɨ,frænsɪskoʊ
+小伙子,xiǎo huǒ zi,,states,,0.65,ɕjɑʊxwɔtsɯ,steɪts
+小麦,xiǎo mài,,primary,,0.5625,ɕjɑʊmaɪ,praɪmɛri
+小气,xiǎo qì,,accountability,,0.6730769230769231,ɕjɑʊtɕʰi,əkaʊntəbɪlɪti
+小偷,xiǎo tōu,,leonardo,,0.5555555555555556,ɕjɑʊtʰoʊ,liənɑrdoʊ
+效率,xiào lǜ,,years,,0.6249999999999999,ɕjɑʊly,jɪrz
+孝顺,xiào shùn,,southwestern,,0.5454545454545454,ɕjɑʊʂwən,saʊθwɛstərn
+歇,xiē,,he,,0.5,ɕjɛ,hi
+斜,xié,,he,,0.5,ɕjɛ,hi
+协调,xié tiáo,,stereotypical,,0.7321428571428571,ɕjɛtʰjɑʊ,stɛrioʊtɪpɪkəl
+心理,xīn lǐ,,highly,,0.4,ɕinli,haɪli
+心脏,xīn zàng,,minister,,0.59375,ɕintsɑŋ,mɪnɪstər
+欣赏,xīn shǎng,,reinforcing,,0.575,ɕinʂɑŋ,riɪnfɔrsɪŋ
+信封,xìn fēng,,being,,0.6249999999999999,ɕinfɤŋ,biɪŋ
+信号,xìn hào,,monaco,,0.5357142857142857,ɕinxɑʊ,mɑnəkoʊ
+信息,xìn xī,,city,,0.55,ɕinɕi,sɪti
+行动,xíng dòng,,writing,,0.5,ɕiŋtʊŋ,raɪtɪŋ
+行人,xíng rén,,division,,0.5357142857142857,ɕiŋʐən,dɪvɪʒən
+行为,xíng wéi,,replace,,0.5357142857142857,ɕiŋweɪ,ripleɪs
+形成,xíng chéng,,households,,0.7499999999999999,ɕiŋʈʂʰɤŋ,haʊshoʊldz
+形容,xíng róng,,being,,0.5833333333333333,ɕiŋʐʊŋ,biɪŋ
+形式,xíng shì,,henry,,0.55,ɕiŋʂɨ,hɛnri
+形势,xíng shì,,henry,,0.55,ɕiŋʂɨ,hɛnri
+形象,xíng xiàng,,hungarian,,0.6388888888888888,ɕiŋɕjɑŋ,həŋgɛriən
+形状,xíng zhuàng,,misunderstanding,,0.7333333333333334,ɕiŋʈʂwɑŋ,mɪsəndərstændɪŋ
+性质,xìng zhì,,city,,0.5833333333333333,ɕiŋʈʂɨ,sɪti
+幸亏,xìng kuī,,venezuela,,0.6749999999999999,ɕiŋkʰweɪ,vɛnɪzweɪlə
+幸运,xìng yùn,,school,,0.6000000000000001,ɕiŋyn,skul
+胸,xiōng,,shipping,,0.45,ɕjʊŋ,ʃɪpɪŋ
+兄弟,xiōng dì,,out,,0.6249999999999999,ɕjʊŋti,aʊt
+雄伟,xióng wěi,,adequate,,0.53125,ɕjʊŋweɪ,ædəkweɪt
+修改,xiū gǎi,,redesign,,0.5625,ɕjoʊkaɪ,ridɪzaɪn
+休闲,xiū xián,,negotiations,,0.5384615384615385,ɕjoʊɕjɛn,nɪgoʊʃieɪʃənz
+虚心,xū xīn,,screen,,0.5,ɕyɕin,skrin
+叙述,xù shù,,hussein,,0.5833333333333333,ɕyʂu,huseɪn
+宣布,xuān bù,,well,,0.6249999999999999,ɕɥœnpu,wɛl
+宣传,xuān chuán,,wanted,,0.575,ɕɥœnʈʂʰwan,wɔntɪd
+选举,xuǎn jǔ,,twenty-four,,0.5277777777777778,ɕɥœntɕy,twɛntifɔr
+学期,xué qī,,quantity,,0.59375,ɕɥœtɕʰi,kwɑntəti
+学术,xué shù,,who,,0.6499999999999999,ɕɥœʂu,hu
+学问,xué wèn,,sequence,,0.5357142857142857,ɕɥœwən,sikwəns
+寻找,xún zhǎo,,minnesota,,0.6666666666666666,ɕynʈʂɑʊ,mɪnɪsoʊtə
+询问,xún wèn,,handled,,0.49999999999999994,ɕynwən,hændəld
+训练,xùn liàn,,tanzanian,,0.525,ɕynljɛn,tænzeɪnjən
+迅速,xùn sù,,through,,0.6000000000000001,ɕynsu,θru
+延长,yán cháng,,unidentified,,0.6730769230769231,jɛnʈʂʰɑŋ,ənaɪdɛntəfaɪd
+严肃,yán sù,,end,,0.55,jɛnsu,ɛnd
+宴会,yàn huì,,norway,,0.49999999999999994,jɛnxweɪ,nɔrweɪ
+阳台,yáng tái,,lifetime,,0.59375,jɑŋtʰaɪ,laɪftaɪm
+痒,yǎng,,young,,0.25,jɑŋ,jəŋ
+样式,yàng shì,,yang,,0.4,jɑŋʂɨ,jæŋ
+腰,yāo,,liao,,0.3125,jɑʊ,liaʊ
+摇,yáo,,liao,,0.3125,jɑʊ,liaʊ
+咬,yǎo,,liao,,0.3125,jɑʊ,liaʊ
+要不,yào bù,,cape,,0.6000000000000001,jɑʊpu,keɪp
+要是,yào shi,,out,,0.55,jɑʊʂɨ,aʊt
+夜,yè,,ia,,0.25,jɛ,iə
+液体,yè tǐ,,daily,,0.6000000000000001,jɛtʰi,deɪli
+业务,yè wù,,yoruba,,0.5416666666666666,jɛu,jərubə
+业余,yè yú,,yoruba,,0.5416666666666666,jɛy,jərubə
+依然,yī rán,,had,,0.5,iʐan,hæd
+一辈子,yī bèi zi,,rights,,0.49999999999999994,ipeɪtsɯ,raɪts
+一旦,yī dàn,,stand,,0.4,itan,stænd
+一路,yī lù,,value,,0.55,ilu,vælju
+一致,yī zhì,,eastern,,0.5833333333333333,iʈʂɨ,istərn
+遗憾,yí hàn,,chicken,,0.45000000000000007,ixan,ʧɪkən
+移动,yí dòng,,took,,0.375,itʊŋ,tʊk
+移民,yí mín,,human,,0.4,imin,jumən
+疑问,yí wèn,,anyone,,0.3333333333333333,iwən,ɛniwən
+乙,yǐ,,he,,0.5,i,hi
+以及,yǐ jí,,immediately,,0.6388888888888888,itɕi,ɪmidiətli
+以来,yǐ lái,,fly,,0.25,ilaɪ,flaɪ
+意外,yì wài,,july,,0.45000000000000007,iwaɪ,ʤulaɪ
+意义,yì yì,,easy,,0.3333333333333333,ii,izi
+议论,yì lùn,,yuan,,0.45,ilwən,juɑn
+义务,yì wù,,use,,0.41666666666666663,iu,juz
+因而,yīn ér,,senior,,0.5833333333333333,inɑɻ,sinjər
+因素,yīn sù,,andrew,,0.45000000000000007,insu,ændru
+银,yín,,been,,0.5,in,bɪn
+英俊,yīng jùn,,institutions,,0.6590909090909091,iŋtɕyn,ɪnstɪtuʃənz
+英雄,yīng xióng,,accompanying,,0.7,iŋɕjʊŋ,əkəmpəniɪŋ
+迎接,yíng jiē,,historical,,0.7,iŋtɕjɛ,hɪstɔrɪkəl
+营养,yíng yǎng,,being,,0.6000000000000001,iŋjɑŋ,biɪŋ
+营业,yíng yè,,union,,0.5833333333333333,iŋjɛ,junjən
+影子,yǐng zi,,secretly,,0.59375,iŋtsɯ,sikrɪtli
+硬币,yìng bì,,effectively,,0.6388888888888888,iŋpi,ifɛktɪvli
+硬件,yìng jiàn,,reconstruction,,0.6346153846153846,iŋtɕjɛn,rikənstrəkʃən
+应付,yìng fu,,english,,0.7,iŋfu,ɪŋlɪʃ
+应聘,yìng pìn,,be,,0.6666666666666666,iŋpʰin,bi
+应用,yìng yòng,,using,,0.55,iŋyʊŋ,juzɪŋ
+拥抱,yōng bào,,hometown,,0.59375,yʊŋpɑʊ,hoʊmtaʊn
+拥挤,yōng jǐ,,yugoslavia,,0.6590909090909091,yʊŋtɕi,jugoʊslɑviə
+勇气,yǒng qì,,frequently,,0.7499999999999999,yʊŋtɕʰi,frikwɛntli
+用途,yòng tú,,welterweight,,0.7499999999999999,yʊŋtʰu,wɛltərweɪt
+优惠,yōu huì,,jose,,0.42857142857142855,yoʊxweɪ,hoʊzeɪ
+优美,yōu měi,,roman,,0.41666666666666663,yoʊmeɪ,roʊmən
+优势,yōu shì,,only,,0.5,yoʊʂɨ,oʊnli
+悠久,yōu jiǔ,,superheroes,,0.5454545454545454,yoʊtɕjoʊ,supərhiroʊz
+邮局,yóu jú,,motivation,,0.6590909090909092,yoʊtɕy,moʊtəveɪʃən
+游览,yóu lǎn,,wooden,,0.45833333333333326,yoʊlan,wʊdən
+油炸,yóu zhá,,over,,0.6249999999999999,yoʊʈʂa,oʊvər
+犹豫,yóu yù,,bollywood,,0.6428571428571428,yoʊy,bɔlɪwʊd
+有利,yǒu lì,,old,,0.4,yoʊli,oʊld
+幼儿园,yòu ér yuán,,society,,0.6388888888888888,yoʊɑɻɥœn,soʊsaɪɪti
+娱乐,yú lè,,julian,,0.6249999999999999,ylɤ,ʤuljən
+与其,yǔ qí,,equestrian,,0.7499999999999999,ytɕʰi,ɪkwɛstriən
+语气,yǔ qì,,equestrian,,0.7499999999999999,ytɕʰi,ɪkwɛstriən
+宇宙,yǔ zhòu,,slope,,0.6000000000000001,yʈʂoʊ,sloʊp
+预报,yù bào,,nouveau,,0.45000000000000007,ypɑʊ,nuvoʊ
+预订,yù dìng,,team,,0.5,ytiŋ,tim
+预防,yù fáng,,dubai,,0.45000000000000007,yfɑŋ,dubaɪ
+玉米,yù mǐ,,jubilee,,0.5416666666666666,ymi,ʤubəli
+元旦,yuán dàn,,wonderland,,0.45,ɥœntan,wəndərlænd
+原料,yuán liào,,continue,,0.5625,ɥœnljɑʊ,kəntɪnju
+原则,yuán zé,,wesley,,0.45833333333333326,ɥœntsɤ,wɛsli
+缘故,yuán gù,,women,,0.6000000000000001,ɥœnku,wɪmən
+愿望,yuàn wàng,,worldwide,,0.49999999999999994,ɥœnwɑŋ,wərldwaɪd
+晕,yūn,,used,,0.5625,yn,juzd
+运气,yùn qi,,university,,0.6590909090909092,yntɕʰi,junəvərsəti
+运输,yùn shū,,one-third,,0.6428571428571428,ynʂu,wənθərd
+运用,yùn yòng,,known,,0.55,ynyʊŋ,noʊn
+灾害,zāi hài,,like,,0.49999999999999994,tsaɪxaɪ,laɪk
+再三,zài sān,,dissatisfied,,0.45454545454545453,tsaɪsan,dɪsætəsfaɪd
+赞成,zàn chéng,,decision-making,,0.6730769230769231,tsanʈʂʰɤŋ,dɪsɪʒənmeɪkɪŋ
+赞美,zàn měi,,sri,,0.49999999999999994,tsanmeɪ,ɛsɑraɪ
+糟糕,zāo gāo,,downtown,,0.5625,tsɑʊkɑʊ,daʊntaʊn
+造成,zào chéng,,institution,,0.7,tsɑʊʈʂʰɤŋ,ɪnstɪtuʃən
+则,zé,,texas,,0.6249999999999999,tsɤ,tɛksəs
+责备,zé bèi,,philippe,,0.49999999999999994,tsɤpeɪ,fɪlipeɪ
+摘,zhāi,,spite,,0.45000000000000007,ʈʂaɪ,spaɪt
+粘贴,zhān tiē,,transportation,,0.6071428571428571,ʈʂantʰjɛ,trænspərteɪʃən
+展开,zhǎn kāi,,transport,,0.6388888888888888,ʈʂankʰaɪ,trænspɔrt
+展览,zhǎn lǎn,,translated,,0.5227272727272727,ʈʂanlan,trænzleɪtəd
+战争,zhàn zhēng,,responses,,0.611111111111111,ʈʂanʈʂɤŋ,rɪspɑnsɪz
+占线,zhàn xiàn,,transported,,0.5454545454545454,ʈʂanɕjɛn,trænspɔrtəd
+涨,zhǎng,,mustang,,0.4583333333333333,ʈʂɑŋ,məstæŋ
+掌握,zhǎng wò,,substantial,,0.7,ʈʂɑŋwɔ,səbstænʃəl
+账户,zhàng hù,,strikes,,0.5357142857142857,ʈʂɑŋxu,straɪks
+招待,zhāo dài,,stabilize,,0.5249999999999999,ʈʂɑʊtaɪ,steɪbəlaɪz
+着凉,zháo liáng,,recycling,,0.575,ʈʂɑʊljɑŋ,risaɪkəlɪŋ
+照常,zhào cháng,,announcement,,0.6749999999999999,ʈʂɑʊʈʂʰɑŋ,ənaʊnsmɛnt
+召开,zhào kāi,,surrounding,,0.6388888888888888,ʈʂɑʊkʰaɪ,səraʊndɪŋ
+哲学,zhé xué,,historical,,0.7,ʈʂɤɕɥœ,hɪstɔrɪkəl
+真理,zhēn lǐ,,daily,,0.49999999999999994,ʈʂənli,deɪli
+真实,zhēn shí,,assembly,,0.5357142857142857,ʈʂənʂɨ,əsɛmbli
+针对,zhēn duì,,scientology,,0.5454545454545454,ʈʂəntweɪ,saɪəntɑləʤi
+珍惜,zhēn xī,,assembly,,0.5357142857142857,ʈʂənɕi,əsɛmbli
+诊断,zhěn duàn,,liechtenstein,,0.5454545454545454,ʈʂəntwan,lɪktənstaɪn
+枕头,zhěn tou,,central,,0.5,ʈʂəntʰoʊ,sɛntrəl
+阵,zhèn,,seven,,0.45000000000000007,ʈʂən,sɛvən
+振动,zhèn dòng,,spent,,0.49999999999999994,ʈʂəntʊŋ,spɛnt
+睁,zhēng,,scoring,,0.5416666666666666,ʈʂɤŋ,skɔrɪŋ
+争论,zhēng lùn,,transferred,,0.611111111111111,ʈʂɤŋlwən,trænsfərd
+争取,zhēng qǔ,,transplantation,,0.7666666666666667,ʈʂɤŋtɕʰy,trænzplænteɪʃən
+征求,zhēng qiú,,station,,0.675,ʈʂɤŋtɕʰjoʊ,steɪʃən
+整个,zhěng gè,,six,,0.6249999999999999,ʈʂɤŋkɤ,sɪks
+整体,zhěng tǐ,,frequently,,0.7,ʈʂɤŋtʰi,frikwɛntli
+正,zhèng,,scoring,,0.5416666666666666,ʈʂɤŋ,skɔrɪŋ
+政策,zhèng cè,,broadcasting,,0.7,ʈʂɤŋtsʰɤ,brɔdkæstɪŋ
+政府,zhèng fǔ,,spacecraft,,0.7,ʈʂɤŋfu,speɪskræft
+政治,zhèng zhì,,approximately,,0.6666666666666666,ʈʂɤŋʈʂɨ,əprɑksəmətli
+证件,zhèng jiàn,,associations,,0.6458333333333333,ʈʂɤŋtɕjɛn,əsoʊʃieɪʃənz
+证据,zhèng jù,,substantial,,0.7,ʈʂɤŋtɕy,səbstænʃəl
+挣钱,zhèng qián,,elected,,0.6499999999999999,ʈʂɤŋtɕʰjɛn,ɪlɛktɪd
+支,zhī,,stacey,,0.5416666666666666,ʈʂɨ,steɪsi
+支票,zhī piào,,transylvania,,0.673076923076923,ʈʂɨpʰjɑʊ,trænzilveɪniə
+直,zhí,,stacey,,0.5416666666666666,ʈʂɨ,steɪsi
+执行,zhí xíng,,season,,0.5833333333333333,ʈʂɨɕiŋ,sizən
+执照,zhí zhào,,successful,,0.6666666666666666,ʈʂɨʈʂɑʊ,səksɛsfəl
+指导,zhǐ dǎo,,storylines,,0.575,ʈʂɨtɑʊ,stɔrilaɪnz
+指挥,zhǐ huī,,frequented,,0.525,ʈʂɨxweɪ,frikwəntɪd
+制定,zhì dìng,,leading,,0.45833333333333326,ʈʂɨtiŋ,lidɪŋ
+制度,zhì dù,,through,,0.6000000000000001,ʈʂɨtu,θru
+制作,zhì zuò,,substitution,,0.6363636363636364,ʈʂɨtswɔ,səbstɪtuʃən
+智慧,zhì huì,,frequented,,0.525,ʈʂɨxweɪ,frikwəntɪd
+至今,zhì jīn,,stations,,0.59375,ʈʂɨtɕin,steɪʃənz
+至于,zhì yú,,southeast,,0.6428571428571428,ʈʂɨy,saʊθist
+治疗,zhì liáo,,civilian,,0.5625,ʈʂɨljɑʊ,səvɪljən
+志愿者,zhì yuàn zhě,,residential,,0.65,ʈʂɨɥœnʈʂɤ,rɛzɪdɛnʃəl
+秩序,zhì xù,,south,,0.6000000000000001,ʈʂɨɕy,saʊθ
+钟,zhōng,,housing,,0.5833333333333333,ʈʂʊŋ,haʊzɪŋ
+中介,zhōng jiè,,traditional,,0.7,ʈʂʊŋtɕjɛ,trədɪʃənəl
+中心,zhōng xīn,,production,,0.6666666666666666,ʈʂʊŋɕin,pərdəkʃən
+中旬,zhōng xún,,protection,,0.6666666666666666,ʈʂʊŋɕyn,prətɛkʃən
+重,zhòng,,housing,,0.5833333333333333,ʈʂʊŋ,haʊzɪŋ
+重量,zhòng liàng,,scientific,,0.7,ʈʂʊŋljɑŋ,saɪəntɪfɪk
+周到,zhōu dao,,social,,0.49999999999999994,ʈʂoʊtɑʊ,soʊʃəl
+逐步,zhú bù,,through,,0.6000000000000001,ʈʂupu,θru
+竹子,zhú zi,,studio,,0.5357142857142857,ʈʂutsɯ,studioʊ
+煮,zhǔ,,statue,,0.55,ʈʂu,stæʧu
+主持,zhǔ chí,,statistics,,0.7,ʈʂuʈʂʰɨ,stətɪstɪks
+主观,zhǔ guān,,subsequent,,0.525,ʈʂukwan,səbsəkwənt
+主人,zhǔ rén,,session,,0.41666666666666663,ʈʂuʐən,sɛʃən
+主席,zhǔ xí,,city,,0.55,ʈʂuɕi,sɪti
+主张,zhǔ zhāng,,consisting,,0.6666666666666666,ʈʂuʈʂɑŋ,kənsɪstɪŋ
+嘱咐,zhǔ fù,,two,,0.65,ʈʂufu,tu
+祝福,zhù fú,,two,,0.65,ʈʂufu,tu
+注册,zhù cè,,schoolteacher,,0.6388888888888888,ʈʂutsʰɤ,skultiʧər
+抓紧,zhuā jǐn,,situated,,0.611111111111111,ʈʂwatɕin,sɪʧueɪtɪd
+专家,zhuān jiā,,reconstituted,,0.673076923076923,ʈʂwantɕja,rikɑnstətutɪd
+专心,zhuān xīn,,substantial,,0.5249999999999999,ʈʂwanɕin,səbstænʃəl
+转变,zhuǎn biàn,,transported,,0.5681818181818181,ʈʂwanpjɛn,trænspɔrtəd
+转告,zhuǎn gào,,mechanical,,0.6388888888888888,ʈʂwankɑʊ,məkænɪkəl
+装,zhuāng,,track,,0.5,ʈʂwɑŋ,træk
+装饰,zhuāng shì,,substantially,,0.6363636363636362,ʈʂwɑŋʂɨ,səbstænʃəli
+状况,zhuàng kuàng,,following,,0.75,ʈʂwɑŋkʰwɑŋ,fɑloʊɪŋ
+状态,zhuàng tài,,identify,,0.6749999999999999,ʈʂwɑŋtʰaɪ,aɪdɛntəfaɪ
+追求,zhuī qiú,,stabilization,,0.6785714285714285,ʈʂweɪtɕʰjoʊ,steɪbələzeɪʃən
+资格,zī gé,,city,,0.6000000000000001,tsɯkɤ,sɪti
+资金,zī jīn,,traditional,,0.575,tsɯtɕin,trədɪʃənəl
+资料,zī liào,,ontario,,0.59375,tsɯljɑʊ,ɑntɛrioʊ
+资源,zī yuán,,titled,,0.5357142857142857,tsɯɥœn,taɪtəld
+姿势,zī shì,,history,,0.5357142857142857,tsɯʂɨ,hɪstəri
+咨询,zī xún,,description,,0.575,tsɯɕyn,dɪskrɪpʃən
+紫,zǐ,,artist,,0.6249999999999999,tsɯ,ɑrtɪst
+字幕,zì mù,,since,,0.55,tsɯmu,sɪns
+自从,zì cóng,,destroying,,0.6111111111111112,tsɯtsʰʊŋ,dɪstrɔɪɪŋ
+自动,zì dòng,,total,,0.49999999999999994,tsɯtʊŋ,toʊtəl
+自豪,zì háo,,now,,0.6249999999999999,tsɯxɑʊ,naʊ
+自觉,zì jué,,dissatisfaction,,0.6730769230769231,tsɯtɕɥœ,dɪsætɪsfækʃən
+自私,zì sī,,stochastic,,0.575,tsɯsɯ,stoʊkæstɪk
+自信,zì xìn,,australian,,0.575,tsɯɕin,ɔstreɪljən
+自由,zì yóu,,francisco,,0.575,tsɯyoʊ,frænsɪskoʊ
+自愿,zì yuàn,,titled,,0.5357142857142857,tsɯɥœn,taɪtəld
+综合,zōng hé,,track,,0.6249999999999999,tsʊŋxɤ,træk
+宗教,zōng jiào,,distribution,,0.7291666666666666,tsʊŋtɕjɑʊ,dɪstrəbjuʃən
+总裁,zǒng cái,,discontinued,,0.7291666666666666,tsʊŋtsʰaɪ,dɪskəntɪnjud
+总共,zǒng gòng,,sunken,,0.49999999999999994,tsʊŋkʊŋ,səŋkən
+总理,zǒng lǐ,,recently,,0.5625,tsʊŋli,risəntli
+总算,zǒng suàn,,businessman,,0.611111111111111,tsʊŋswan,bɪznɪsmæn
+总统,zǒng tǒng,,scientific,,0.7,tsʊŋtʰʊŋ,saɪəntɪfɪk
+总之,zǒng zhī,,distinguished,,0.6363636363636364,tsʊŋʈʂɨ,dɪstɪŋgwɪʃt
+组合,zǔ hé,,stay,,0.6500000000000001,tsuxɤ,steɪ
+阻止,zǔ zhǐ,,test,,0.6249999999999999,tsuʈʂɨ,tɛst
+祖国,zǔ guó,,executed,,0.7,tsukwɔ,ɛksəkjutɪd
+祖先,zǔ xiān,,stadium,,0.5625,tsuɕjɛn,steɪdiəm
+醉,zuì,,way,,0.4,tsweɪ,weɪ
+最初,zuì chū,,legislators,,0.6458333333333333,tsweɪʈʂʰu,lɛʤəsleɪtərz
+罪犯,zuì fàn,,installation,,0.5454545454545454,tsweɪfan,ɪnstəleɪʃən
+尊敬,zūn jìng,,consequently,,0.5625,tswəntɕiŋ,kɑnsəkwɛntli
+遵守,zūn shǒu,,testimony,,0.575,tswənʂoʊ,tɛstɪmoʊni
+作品,zuò pǐn,,tournament,,0.6388888888888888,tswɔpʰin,tʊrnəmənt
+作为,zuò wéi,,statewide,,0.5277777777777778,tswɔweɪ,steɪtwaɪd
+作文,zuò wén,,decided,,0.59375,tswɔwən,dɪsaɪdɪd
+挨,ái,,by,,0.3333333333333333,aɪ,baɪ
+癌症,ái zhèng,,list,,0.6249999999999999,aɪʈʂɤŋ,lɪst
+爱不释手,ài bù shì shǒu,,hypertension,,0.6458333333333333,aɪpuʂɨʂoʊ,haɪpərtɛnʃən
+爱戴,ài dài,,guitar,,0.4,aɪtaɪ,gɪtɑr
+暧昧,ài mèi,,female,,0.41666666666666663,aɪmeɪ,fimeɪl
+安居乐业,ān jū lè yè,,controversial,,0.6458333333333333,antɕylɤjɛ,kɑntrəvərʃəl
+安宁,ān níng,,acting,,0.45000000000000007,anniŋ,æktɪŋ
+安详,ān xiáng,,amtrak,,0.45833333333333326,anɕjɑŋ,æmtræk
+安置,ān zhì,,answer,,0.45000000000000007,anʈʂɨ,ænsər
+暗示,àn shì,,nazi,,0.4,anʂɨ,nɑtsi
+案件,àn jiàn,,addition,,0.49999999999999994,antɕjɛn,ədɪʃən
+案例,àn lì,,stanley,,0.3333333333333333,anli,stænli
+按摩,àn mó,,avenue,,0.6500000000000001,anmwɔ,ævənu
+昂贵,áng guì,,railway,,0.49999999999999994,ɑŋkweɪ,reɪlweɪ
+凹凸,āo tū,,eight,,0.6000000000000001,ɑʊtʰu,eɪt
+熬,áo,,by,,0.5,ɑʊ,baɪ
+奥秘,ào mì,,armies,,0.4,ɑʊmi,ɑrmiz
+扒,bā,,by,,0.3333333333333333,pa,baɪ
+疤,bā,,by,,0.3333333333333333,pa,baɪ
+巴不得,bā bù dé,,capital,,0.5357142857142857,paputɤ,kæpɪtəl
+巴结,bā jie,,partner,,0.49999999999999994,patɕjɛ,pɑrtnər
+拔苗助长,bá miáo zhù zhǎng,,states,,0.75,pamjɑʊʈʂuʈʂɑŋ,steɪts
+把关,bǎ guān,,sequence,,0.49999999999999994,pakwan,sikwəns
+把手,bǎ shǒu,,vasco,,0.25,paʂoʊ,væskoʊ
+把戏,bǎ xì,,bodies,,0.4,paɕi,bɑdiz
+霸道,bà dào,,ballet,,0.30000000000000004,patɑʊ,bæleɪ
+罢工,bà gōng,,passing,,0.30000000000000004,pakʊŋ,pæsɪŋ
+掰,bāi,,may,,0.25,paɪ,meɪ
+百分点,bǎi fēn diǎn,,final,,0.5,paɪfəntjɛn,faɪnəl
+摆脱,bǎi tuō,,military,,0.59375,paɪtʰwɔ,mɪlɪtɛri
+拜访,bài fǎng,,making,,0.41666666666666663,paɪfɑŋ,meɪkɪŋ
+拜年,bài nián,,politician,,0.4166666666666667,paɪnjɛn,pɑlətɪʃən
+拜托,bài tuō,,military,,0.59375,paɪtʰwɔ,mɪlɪtɛri
+败坏,bài huài,,dioxide,,0.41666666666666663,paɪxwaɪ,daɪɑksaɪd
+颁布,bān bù,,malibu,,0.3333333333333333,panpu,mæləbu
+颁发,bān fā,,five,,0.45000000000000007,panfa,faɪv
+斑纹,bān wén,,battle,,0.41666666666666663,panwən,bætəl
+版本,bǎn běn,,people,,0.41666666666666663,panpən,pipəl
+半途而废,bàn tú ér fèi,,january,,0.6590909090909091,pantʰuɑɻfeɪ,ʤænjuɛri
+伴侣,bàn lǚ,,bamboo,,0.30000000000000004,panly,bæmbu
+伴随,bàn suí,,persuade,,0.34375,pansweɪ,pərsweɪd
+扮演,bàn yǎn,,period,,0.41666666666666663,panjɛn,pɪriəd
+绑架,bǎng jià,,family,,0.6071428571428571,pɑŋtɕja,fæməli
+榜样,bǎng yàng,,falling,,0.45833333333333326,pɑŋjɑŋ,fɑlɪŋ
+磅,bàng,,bank,,0.25,pɑŋ,bæŋk
+包庇,bāo bì,,found,,0.4,pɑʊpi,faʊnd
+包袱,bāo fu,,baby,,0.45,pɑʊfu,beɪbi
+包围,bāo wéi,,powell,,0.37499999999999994,pɑʊweɪ,pɑwɛl
+包装,bāo zhuāng,,monastery,,0.6388888888888888,pɑʊʈʂwɑŋ,mɑnəstɛri
+饱和,bǎo hé,,like,,0.5,pɑʊxɤ,laɪk
+饱经沧桑,bǎo jīng cāng sāng,,between,,0.7333333333333334,pɑʊtɕiŋtsʰɑŋsɑŋ,bɪtwin
+保管,bǎo guǎn,,program,,0.5625,pɑʊkwan,proʊgræm
+保密,bǎo mì,,five,,0.45,pɑʊmi,faɪv
+保姆,bǎo mǔ,,five,,0.45,pɑʊmu,faɪv
+保守,bǎo shǒu,,below,,0.3333333333333333,pɑʊʂoʊ,bɪloʊ
+保卫,bǎo wèi,,powell,,0.37499999999999994,pɑʊweɪ,pɑwɛl
+保养,bǎo yǎng,,managing,,0.49999999999999994,pɑʊjɑŋ,mænəʤɪŋ
+保障,bǎo zhàng,,contract,,0.5625,pɑʊʈʂɑŋ,kɑntrækt
+保重,bǎo zhòng,,mountaineering,,0.5227272727272727,pɑʊʈʂʊŋ,maʊntɪnɪrɪŋ
+抱负,bào fù,,baby,,0.45,pɑʊfu,beɪbi
+抱怨,bào yuàn,,position,,0.49999999999999994,pɑʊɥœn,pəzɪʃən
+报仇,bào chóu,,politburo,,0.5454545454545454,pɑʊʈʂʰoʊ,pɑlətbjʊroʊ
+报酬,bào chóu,,politburo,,0.5454545454545454,pɑʊʈʂʰoʊ,pɑlətbjʊroʊ
+报答,bào dá,,about,,0.4,pɑʊta,əbaʊt
+报到,bào dào,,below,,0.45833333333333326,pɑʊtɑʊ,bɪloʊ
+报复,bào fù,,baby,,0.45,pɑʊfu,beɪbi
+报社,bào shè,,most,,0.5,pɑʊʂɤ,moʊst
+报销,bào xiāo,,boundary,,0.5625,pɑʊɕjɑʊ,baʊndəri
+爆发,bào fā,,bounded,,0.49999999999999994,pɑʊfa,baʊndɪd
+爆炸,bào zhà,,based,,0.45833333333333326,pɑʊʈʂa,beɪst
+曝光,bào guāng,,frequency,,0.6666666666666666,pʰukwɑŋ,frikwənsi
+暴力,bào lì,,mari,,0.35000000000000003,pɑʊli,mɑri
+暴露,bào lù,,fight,,0.45,pɑʊlu,faɪt
+悲哀,bēi āi,,by,,0.4,peɪaɪ,baɪ
+悲惨,bēi cǎn,,palestinian,,0.5227272727272727,peɪtsʰan,pælɪstɪniən
+卑鄙,bēi bǐ,,navy,,0.2,peɪpi,neɪvi
+北极,běi jí,,fight,,0.45833333333333326,peɪtɕi,faɪt
+被动,bèi dòng,,writing,,0.3333333333333333,peɪtʊŋ,raɪtɪŋ
+被告,bèi gào,,michael,,0.41666666666666663,peɪkɑʊ,maɪkəl
+背叛,bèi pàn,,april,,0.49999999999999994,peɪpʰan,eɪprəl
+背诵,bèi sòng,,based,,0.3333333333333333,peɪsʊŋ,beɪst
+备份,bèi fèn,,taken,,0.3333333333333333,peɪfən,teɪkən
+备忘录,bèi wàng lù,,financial,,0.611111111111111,peɪwɑŋlu,faɪnænʃəl
+贝壳,bèi ké,,physical,,0.5357142857142857,peɪkʰɤ,fɪzɪkəl
+奔波,bēn bō,,and,,0.6249999999999999,pənpwɔ,ənd
+奔驰,bēn chí,,monastery,,0.5277777777777777,pənʈʂʰɨ,mɑnəstɛri
+本能,běn néng,,morning,,0.41666666666666663,pənnɤŋ,mɔrnɪŋ
+本钱,běn qián,,contribution,,0.5625,pəntɕʰjɛn,kɑntrəbjuʃən
+本人,běn rén,,london,,0.3333333333333333,pənʐən,ləndən
+本身,běn shēn,,medicine,,0.2857142857142857,pənʂən,mɛdəsən
+本事,běn shi,,body,,0.4,pənʂɨ,bɑdi
+本着,běn zhe,,published,,0.5357142857142857,pənʈʂɤ,pəblɪʃt
+笨拙,bèn zhuō,,been,,0.6071428571428571,pənʈʂwɔ,bɪn
+崩溃,bēng kuì,,freeway,,0.53125,pɤŋkʰweɪ,friweɪ
+甭,béng,,bank,,0.375,pɤŋ,bæŋk
+蹦,bèng,,bank,,0.375,pɤŋ,bæŋk
+迸发,bèng fā,,believed,,0.6249999999999999,pɤŋfa,bɪlivd
+逼迫,bī pò,,public,,0.6249999999999999,pipʰwɔ,pəblɪk
+鼻涕,bí tì,,peter,,0.4,pitʰi,pitər
+比方,bǐ fang,,piedmont,,0.49999999999999994,pifɑŋ,pidmɑnt
+比喻,bǐ yù,,butte,,0.3125,piy,bjut
+比重,bǐ zhòng,,peter,,0.49999999999999994,piʈʂʊŋ,pitər
+臂,bì,,beach,,0.3333333333333333,pi,biʧ
+弊病,bì bìng,,living,,0.45,pipiŋ,lɪvɪŋ
