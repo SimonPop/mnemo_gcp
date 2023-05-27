@@ -12,5 +12,5 @@ setup(
     description = ("Finding mnemonics."),
     license = "BSD",
     keywords = "example documentation tutorial",
-    packages=['src'],
+    packages=['src', 'src.pairing'],
 )

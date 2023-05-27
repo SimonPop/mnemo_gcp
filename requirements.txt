@@ -1,5 +1,5 @@
-keytotext==2.3.2
 src @ git+https://github.com/SimonPop/mnemo_gcp
+keytotext==2.3.2
 opencv-python==4.6.0.66
 protobuf==3.20.*
 fastapi>=0.68.0,<0.69.0
