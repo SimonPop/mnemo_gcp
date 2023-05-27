@@ -1,5 +1,5 @@
 import os
-from setuptools import setup
+from setuptools import setup, find_packages
 
 def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
@@ -12,5 +12,5 @@ setup(
     description = ("Finding mnemonics."),
     license = "BSD",
     keywords = "example documentation tutorial",
-    packages=['src', 'src.pairing'],
+    packages=find_packages() # ['src', 'src.pairing', 'src.pairing.search', 'src.pairing.utils'],
 )
