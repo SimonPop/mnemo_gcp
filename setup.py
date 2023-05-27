@@ -14,7 +14,7 @@ setup(
     keywords = "example documentation tutorial",
     packages=find_packages(), # ['src', 'src.pairing', 'src.pairing.search', 'src.pairing.utils'],
     package_data={
-      'src': ['pairing/training/config.yaml', 'pairing/model/model_dict'],
+      'src': ['pairing/training/config.yaml', 'pairing/model/model_dict', 'pairing/dataset/pairing/english.csv'],
    },
     include_package_data=True,
 )
