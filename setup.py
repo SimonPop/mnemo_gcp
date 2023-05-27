@@ -13,5 +13,4 @@ setup(
     license = "BSD",
     keywords = "example documentation tutorial",
     packages=['src'],
-    # package_dir={'':'mnemo'}
 )

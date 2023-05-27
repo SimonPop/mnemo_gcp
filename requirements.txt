@@ -8,7 +8,7 @@ ipapy==0.0.9.0
 pandas==1.5.0
 positional-encodings==6.0.1
 pytorch-lightning==1.6.4
-redis==4.3.4
+src @ git+https://github.com/SimonPop/mnemo_gcp
 dragonmapper==0.2.6
 chinese-english-lookup==0.0.3
 docarray==0.21.0
