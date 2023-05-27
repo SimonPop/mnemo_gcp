@@ -1,4 +1,5 @@
 keytotext==2.3.2
+src @ git+https://github.com/SimonPop/mnemo_gcp
 opencv-python==4.6.0.66
 protobuf==3.20.*
 fastapi>=0.68.0,<0.69.0
@@ -8,7 +9,6 @@ ipapy==0.0.9.0
 pandas==1.5.0
 positional-encodings==6.0.1
 pytorch-lightning==1.6.4
-src @ git+https://github.com/SimonPop/mnemo_gcp
 dragonmapper==0.2.6
 chinese-english-lookup==0.0.3
 docarray==0.21.0
