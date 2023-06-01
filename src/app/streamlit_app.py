@@ -1,71 +1,34 @@
-from chinese_english_lookup import Dictionary
 import streamlit as st
-import requests
-from dragonmapper import hanzi
-from src.pairing.search.engine import Engine
-from src.pairing.search.indexer import Indexer
-from docarray import Document, DocumentArray
-from src.pairing.utils.ipa import convert_mandarin_to_ipa
+from input_handler import InputHandler
+from search_handler import SearchHandler
 
-indexer = Indexer()
-documents = indexer.index()
+input_handler = InputHandler()
+search_handler = SearchHandler()
 
-engine = Engine(documents)
+def read_style():
+    with open("style.html", 'r') as f:
+        title_alignment = f.read()
+    st.markdown(title_alignment, unsafe_allow_html=True)
 
-def search(word: str):
-    """Search the closest sounding word from given word.
-    
-    Args:
-        word (str): Pinyin word.
+def display_candidates(response, translation, pinyin):
+    legend = ':tropical_fish: - Definitely Mnemo / :fish: - Not exactly Mnemo / :blowfish: - Barely Mnemo'
+    matches, scores = search_handler.unpack(response)
+    emojis = [SearchHandler.score2emoji(x) for x in scores]
+    for index, (match, emoji) in enumerate(zip(matches, emojis)):
+        st.write(f"{emoji} - {match}")
+    st.info(legend)
 
-    Returns:
-        _type_: _description_
-    """
-    ipa: str = convert_mandarin_to_ipa(word)
-    input = DocumentArray(Document(text=word, ipa=ipa))
-    return engine.search(input).to_dict()
-
-title_alignment="""
-<style>
-h1 {
-  text-align: center
-}
-.stAlert {
-  text-align: center
-}
-</style>
-"""
-st.markdown(title_alignment, unsafe_allow_html=True)
+read_style()
 
 st.title(":tropical_fish: Finding Mnemo")
 
-d = Dictionary()
-chinese_word = st.text_input("Mandarin word:") # 相机
+input_word = st.text_input("Mandarin word:")
 
-def display_candidates(response, translation, pinyin):
-    matches = [match["text"] for x in response for match in x['matches'] ]
-    scores = [match["scores"]["euclidean"]["value"] for x in response for match in x['matches'] ]
-    def score2emoji(score: float):
-        if score < 0.01:
-            return ":tropical_fish:"
-        elif score < 0.05:
-            return ":fish:"
-        else:
-            return ":blowfish:"
-    emojis = [score2emoji(x) for x in scores]
-    for index, (match, emoji) in enumerate(zip(matches, emojis)):
-        # generation = requests.get(url=f"http://fastapi:8000/generate/{translation}/{match}/").json()
-        st.write(f"{emoji} - {match}")
-    st.info(':tropical_fish: - Definitely Mnemo / :fish: - Not exactly Mnemo / :blowfish: - Barely Mnemo')
+if input_word:
+    pinyin = input_handler.input_to_pinyin(input_word)
+    response = search_handler.search(pinyin)
+    translation = input_handler.translate(pinyin)
 
-if chinese_word:
-    pinyin = hanzi.to_pinyin(chinese_word)
-    response = search(pinyin)
-    lookup = d.lookup(chinese_word)
-    if lookup is not None:
-        translation = lookup.definition_entries[0].definitions[0].split('(')[0]
-    else:
-        translation = "No translation available in lookup table."
     st.write(f"pinyin: {pinyin}")
     st.write(f"translation: {translation}")
     display_candidates(response, translation, pinyin)
