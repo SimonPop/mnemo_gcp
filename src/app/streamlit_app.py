@@ -27,7 +27,7 @@ input_word = st.text_input("Mandarin word:")
 if input_word:
     pinyin = input_handler.input_to_pinyin(input_word)
     response = search_handler.search(pinyin)
-    translation = input_handler.translate(pinyin)
+    translation = input_handler.translate(input_word)
 
     st.write(f"pinyin: {pinyin}")
     st.write(f"translation: {translation}")
