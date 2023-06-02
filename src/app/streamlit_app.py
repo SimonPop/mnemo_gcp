@@ -6,8 +6,16 @@ input_handler = InputHandler()
 search_handler = SearchHandler()
 
 def read_style():
-    with open("style.html", 'r') as f:
-        title_alignment = f.read()
+    # with open("style.html", 'r') as f:
+    #     title_alignment = f.read()
+    title_alignment = """<style>
+        h1 {
+            text-align: center
+        }
+        .stAlert {
+            text-align: center
+        }
+    </style>"""
     st.markdown(title_alignment, unsafe_allow_html=True)
 
 def display_candidates(response, translation, pinyin):
