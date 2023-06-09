@@ -36,7 +36,13 @@ read_style()
 
 st.title(":tropical_fish: Finding Mnemo")
 
-input_word = st.text_input("Mandarin word:")
+placeholder = st.empty()
+
+input_word = placeholder.text_input("Mandarin word:")
+click_random = st.button(label="Random word")
+
+if click_random:
+    input_word = placeholder.text_input("Mandarin word:", value=input_handler.random_value(), key=1)
 
 if input_word:
     pinyin = input_handler.input_to_pinyin(input_word)

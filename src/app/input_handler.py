@@ -1,9 +1,11 @@
 from chinese_english_lookup import Dictionary
 import dragonmapper
+from random import choice
 
 class InputHandler():
     def __init__(self) -> None:
         self.dictionary = Dictionary()
+        self.hanzi_list = list(self.dictionary.words_dict_simp.keys())
 
     def translate(self, hanzi: str):
         lookup = self.dictionary.lookup(hanzi)
@@ -20,3 +22,6 @@ class InputHandler():
             return input
         else:
             return dragonmapper.hanzi.to_pinyin(input)
+        
+    def random_value(self) -> str:
+        return choice(self.hanzi_list)
