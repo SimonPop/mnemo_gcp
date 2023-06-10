@@ -12,5 +12,5 @@ pytorch-lightning==1.6.4
 dragonmapper==0.2.6
 chinese-english-lookup==0.0.3
 docarray==0.21.0
-streamlit==1.17.0
+streamlit==1.22.0
 altair==4.0
