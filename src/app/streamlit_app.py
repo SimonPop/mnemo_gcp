@@ -5,10 +5,17 @@ from summary_table import SummaryTable
 from key_phrase_handler import KeyPhraseHandler
 from style import STYLE
 
-input_handler = InputHandler()
-search_handler = SearchHandler()
-key_phrase_handler = KeyPhraseHandler()
-
+@st.cache_resource(show_spinner="Loading Models...")
+def load_handlers():
+    input_handler = InputHandler()
+    search_handler = SearchHandler()
+    key_phrase_handler = KeyPhraseHandler()
+    return (
+        input_handler,
+        search_handler,
+        key_phrase_handler
+    )
+    
 def read_style():
     st.markdown(STYLE, unsafe_allow_html=True)
 
@@ -21,10 +28,8 @@ def display_candidates(response, translation, pinyin):
         key = f"generator_{index}"
 
         with st.expander(f"{emoji} - {match}"):
-            with st.form(key=key):
-                prompt = st.text_input("Key-phrase prompt: ", value="It is said that ")
-                submit = st.form_submit_button(":sparkles: Generate key-phrase!")
-
+            prompt = st.text_input("Key-phrase prompt: ", value="It is said that ", key=key + "_text")            
+            submit = st.button(":sparkles: Generate key-phrase!", key=key + "_button")     
             if submit:
                 html_key_phrases = key_phrase_handler.generate(match, translation, prompt)
                 for index_2, html_key_phrase in enumerate(html_key_phrases):
@@ -33,6 +38,8 @@ def display_candidates(response, translation, pinyin):
     st.info(legend)
 
 read_style()
+
+input_handler, search_handler, key_phrase_handler = load_handlers()
 
 st.title(":tropical_fish: Finding Mnemo")
 
