@@ -39,7 +39,7 @@ def display_candidates(response, translation, pinyin):
     """
 
     legend = ':tropical_fish: - Definitely Mnemo / :fish: - Not exactly Mnemo / :blowfish: - Barely Mnemo'
-    matches, scores = search_handler.unpack(response)
+    matches, scores = search_handler.unpack(response, pinyin)
     emojis = [SearchHandler.score2emoji(x) for x in scores]
 
     for index, (match, emoji) in enumerate(zip(matches, emojis)):
